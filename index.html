@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wanted</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F4F5F7;--surface:#fff;--head:#12141A;--ink:#12141A;--body:#3B3F4C;--muted:#5B6070;--line:#D9DCE3;
+  --tech:#1F4FD8;--politics:#B04A06;--pop:#7A3FD1;--on:#fff;
+  --display:'Bricolage Grotesque',system-ui,sans-serif;--text:'IBM Plex Sans',system-ui,sans-serif;
+}
+:root[data-theme=dark]{
+  --bg:#0E1014;--surface:#181B22;--head:#181B22;--ink:#F2F3F7;--body:#C9CDD8;--muted:#A5ABBA;--line:#2A2E39;
+  --tech:#8FAEFF;--politics:#FF9F5E;--pop:#C0A0F7;--on:#0E1014;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--text)}
+a{color:inherit;text-decoration:none}a:hover{text-decoration:underline}
+:focus-visible{outline:3px solid var(--tech);outline-offset:2px}
+button{font:inherit;cursor:pointer}
+.wrap{max-width:1200px;margin:0 auto;padding:0 32px}
+header{background:var(--head);color:#fff}
+header .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:12px 28px;padding-top:14px;padding-bottom:14px}
+.brand{font:800 28px var(--display);letter-spacing:-.5px}
+nav{display:flex;flex-wrap:wrap;gap:6px;flex:1 1 auto}
+nav a{padding:10px 16px;border-radius:999px;font-size:14px;font-weight:500;color:#fff}
+nav a[aria-current=page]{background:#fff;color:#12141A;font-weight:600;text-decoration:none}
+.tools{display:flex;gap:8px}
+.tools input{height:44px;min-width:220px;border-radius:999px;border:0;background:#262A35;color:#fff;padding:0 18px;font:inherit;font-size:14px}
+.tools input::placeholder{color:#C9CDD8}
+.tools button{width:44px;height:44px;border:0;border-radius:999px;background:#262A35;color:#fff;font-size:18px}
+main{padding-top:32px;padding-bottom:40px;display:flex;flex-direction:column;gap:44px}
+h1,h2{font-family:var(--display);margin:0;letter-spacing:-.5px}
+.muted{color:var(--muted);font-size:13px}
+.row{display:flex;flex-wrap:wrap;gap:32px;align-items:flex-start}
+.card{background:var(--surface);border-radius:12px;overflow:hidden}
+.thumb{background:var(--line);overflow:hidden;position:relative}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.lead{flex:2 1 560px;min-width:0;display:flex;flex-direction:column}
+.lead .thumb{height:340px}
+.lead .body{padding:20px 24px 24px;display:flex;flex-direction:column;gap:10px}
+.lead h1{font-size:36px;line-height:1.1}
+.lead p,.item p{margin:0;color:var(--body)}
+.tag{display:inline-block;padding:3px 10px;border-radius:999px;background:var(--c);color:var(--on);font-size:13px;font-weight:600}
+.top{flex:1 1 280px;min-width:0;display:flex;flex-direction:column;gap:12px}
+.top h2{font-size:20px}
+.top a{display:flex;flex-direction:column;gap:4px;padding:14px 16px}
+.top .cat{font-size:12px;font-weight:600;color:var(--c)}
+.top .t{font-weight:600;line-height:1.3}
+.cols{display:flex;flex-wrap:wrap;gap:32px}
+.col{flex:1 1 300px;min-width:0}
+.colhead{display:flex;justify-content:space-between;align-items:baseline;border-bottom:3px solid var(--c);padding-bottom:8px;margin-bottom:4px}
+.colhead h2{font-size:24px}
+.colhead a{font-size:14px;font-weight:600;color:var(--c)}
+.item{display:flex;gap:16px;padding:14px 0;border-bottom:1px solid var(--line)}
+.item .thumb{flex:0 0 88px;height:66px;border-radius:8px}
+.item .t{font-weight:600;line-height:1.3}
+.item div{min-width:0;display:flex;flex-direction:column;gap:4px}
+.page .item{padding:20px 0}
+.page .item .thumb{flex-basis:160px;height:110px}
+.page .item .t{font-size:18px}
+.pagehead{border-bottom:3px solid var(--c);padding-bottom:16px}
+.pagehead h1{font-size:48px;color:var(--c)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{min-height:44px;padding:0 18px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--ink);font-size:14px;font-weight:600}
+.chip[aria-pressed=true]{background:var(--c);border-color:var(--c);color:var(--on)}
+.more{align-self:center;min-height:48px;padding:0 32px;border-radius:999px;border:2px solid var(--c);background:transparent;color:var(--c);font-weight:600;margin-top:16px}
+.empty{background:var(--surface);border-radius:12px;padding:32px;text-align:center;color:var(--body)}
+footer{padding-bottom:48px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+@media(max-width:640px){
+  .wrap{padding:0 16px}.tools{width:100%}.tools input{flex:1;min-width:0}
+  nav{flex-wrap:nowrap;overflow-x:auto}nav a{white-space:nowrap;min-height:44px;display:flex;align-items:center}
+  .lead .thumb{height:200px}.lead h1{font-size:26px}.pagehead h1{font-size:36px}
+  .page .item .thumb{flex-basis:96px;height:72px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="brand" href="#/">Wanted</a>
+    <nav aria-label="Sections" id="nav"></nav>
+    <div class="tools">
+      <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
+      <button id="theme" type="button" aria-label="Switch between light and dark theme">◐</button>
+    </div>
+  </div>
+</header>
+<main class="wrap" id="app"></main>
+<footer class="wrap muted">
+  <span>Headlines and snippets link back to the original publishers.</span>
+  <span id="updated"></span>
+</footer>
+
+<script>
+const CATS = {
+  tech: {name: 'Tech', blurb: 'Gadgets, software, AI, security, and the companies behind them.'},
+  politics: {name: 'Politics', blurb: 'Government, elections, and policy, from a mix of outlets.'},
+  pop: {name: 'Pop Culture', blurb: 'Film, TV, music, and the conversations around them.'}
+};
+const PAGE = 12;
+let items = [], limit = PAGE, source = 'All', query = '';
+
+const $ = (id) => document.getElementById(id);
+function h(tag, props = {}, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(props)) {
+    if (k === 'class') el.className = v;
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v);
+  }
+  for (const kid of kids.flat()) if (kid != null && kid !== false) el.append(kid);
+  return el;
+}
+function safeUrl(u) {
+  try { const p = new URL(u); return /^https?:$/.test(p.protocol) ? p.href : null; } catch { return null; }
+}
+function ago(iso) {
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 60) return m + 'm ago';
+  if (m < 1440) return Math.round(m / 60) + 'h ago';
+  return Math.round(m / 1440) + 'd ago';
+}
+const color = (cat) => `--c:var(--${cat})`;
+const meta = (it) => h('span', {class: 'muted'}, `${it.source} · ${ago(it.published)}`);
+
+function thumb(it) {
+  const src = safeUrl(it.image);
+  return h('div', {class: 'thumb'}, src && h('img', {
+    src, alt: '', loading: 'lazy', referrerpolicy: 'no-referrer',
+    onerror: (e) => e.target.remove()
+  }));
+}
+function link(it, cls, ...kids) {
+  return h('a', {href: safeUrl(it.link) || '#', target: '_blank', rel: 'noopener noreferrer', class: cls, style: color(it.category)}, ...kids);
+}
+function row(it) {
+  return link(it, 'item', thumb(it), h('div', {},
+    h('span', {class: 't'}, it.title), meta(it), it.summary && h('p', {class: 'muted'}, it.summary)));
+}
+function empty(msg) { return h('div', {class: 'empty'}, msg); }
+
+function home(list) {
+  if (!list.length) return [empty('No stories yet. Run fetch_news.py to load the latest headlines.')];
+  const lead = list.find((i) => i.image) || list[0];
+  const rest = list.filter((i) => i !== lead);
+  const top = rest.slice(0, 4);
+  const out = [h('section', {class: 'row'},
+    link(lead, 'card lead', thumb(lead), h('div', {class: 'body'},
+      h('div', {style: color(lead.category)}, h('span', {class: 'tag'}, CATS[lead.category].name), ' ', meta(lead)),
+      h('h1', {}, lead.title), lead.summary && h('p', {}, lead.summary))),
+    h('aside', {class: 'top'}, h('h2', {}, 'Top stories'), top.map((i) =>
+      link(i, 'card', h('span', {class: 'cat'}, CATS[i.category].name), h('span', {class: 't'}, i.title), meta(i)))))];
+  out.push(h('section', {class: 'cols'}, Object.keys(CATS).map((k) =>
+    h('div', {class: 'col', style: color(k)},
+      h('div', {class: 'colhead'}, h('h2', {}, CATS[k].name), h('a', {href: '#/' + k}, 'See all')),
+      list.filter((i) => i.category === k).slice(0, 5).map(row)))));
+  return out;
+}
+
+function category(cat, list) {
+  const mine = list.filter((i) => i.category === cat);
+  const sources = ['All', ...new Set(mine.map((i) => i.source))];
+  const shown = mine.filter((i) => source === 'All' || i.source === source);
+  return [
+    h('section', {class: 'pagehead', style: color(cat)}, h('h1', {}, CATS[cat].name), h('p', {}, CATS[cat].blurb)),
+    h('div', {class: 'chips', style: color(cat)}, sources.map((s) => h('button', {
+      class: 'chip', type: 'button', 'aria-pressed': String(s === source),
+      onclick: () => { source = s; limit = PAGE; render(); }
+    }, s))),
+    list_(shown, cat)
+  ];
+}
+function list_(list, cat) {
+  if (!list.length) return empty('Nothing here yet.');
+  return h('section', {class: 'page', style: cat ? color(cat) : ''},
+    list.slice(0, limit).map(row),
+    list.length > limit && h('button', {class: 'more', type: 'button', onclick: () => { limit += PAGE; render(); }}, 'Load more stories'));
+}
+
+function render() {
+  const route = (location.hash.replace(/^#\/?/, '') || 'latest');
+  const cat = CATS[route] ? route : null;
+  $('nav').replaceChildren(...[['', 'Latest'], ...Object.entries(CATS).map(([k, v]) => [k, v.name])].map(([k, name]) =>
+    h('a', {href: '#/' + k, ...((k || null) === cat ? {'aria-current': 'page'} : {})}, name)));
+  const q = query.trim().toLowerCase();
+  let view;
+  if (q) {
+    const hits = items.filter((i) => (i.title + ' ' + i.summary).toLowerCase().includes(q));
+    view = [h('h1', {}, `Results for “${query.trim()}”`), hits.length ? list_(hits) : empty('No headlines match. Try a different word.')];
+  } else view = cat ? category(cat, items) : home(items);
+  $('app').replaceChildren(...view);
+}
+
+$('q').addEventListener('input', (e) => { query = e.target.value; limit = PAGE; render(); });
+addEventListener('hashchange', () => { source = 'All'; limit = PAGE; render(); scrollTo(0, 0); });
+$('theme').addEventListener('click', () => {
+  const dark = document.documentElement.dataset.theme !== 'dark';
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+  try { localStorage.setItem('theme', dark ? 'dark' : 'light'); } catch {}
+});
+(function initTheme() {
+  let saved = null;
+  try { saved = localStorage.getItem('theme'); } catch {}
+  const dark = saved ? saved === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+})();
+
+fetch('data/news.json', {cache: 'no-cache'})
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then((d) => {
+    items = (d.items || []).filter((i) => CATS[i.category]);
+    $('updated').textContent = d.updated ? 'Updated ' + ago(d.updated) : '';
+    render();
+  })
+  .catch(() => { $('app').replaceChildren(empty('Could not load headlines. Check that data/news.json exists and reload.')); });
+</script>
+</body>
+</html>

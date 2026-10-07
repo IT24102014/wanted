@@ -1,0 +1,21 @@
+{
+  "max_age_days": 7,
+  "per_feed_limit": 25,
+  "per_category_limit": 60,
+  "feeds": [
+    {"category": "tech", "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+    {"category": "tech", "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+    {"category": "tech", "name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+    {"category": "tech", "name": "Hacker News", "url": "https://hnrss.org/frontpage"},
+
+    {"category": "politics", "name": "BBC Politics", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"},
+    {"category": "politics", "name": "The Guardian", "url": "https://www.theguardian.com/politics/rss"},
+    {"category": "politics", "name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml"},
+    {"category": "politics", "name": "Fox News Politics", "url": "https://moxie.foxnews.com/google-publisher/politics.xml"},
+
+    {"category": "pop", "name": "Variety", "url": "https://variety.com/feed/"},
+    {"category": "pop", "name": "Rolling Stone", "url": "https://www.rollingstone.com/feed/"},
+    {"category": "pop", "name": "The Guardian Culture", "url": "https://www.theguardian.com/culture/rss"},
+    {"category": "pop", "name": "Billboard", "url": "https://www.billboard.com/feed/"}
+  ]
+}
