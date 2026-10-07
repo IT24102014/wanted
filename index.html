@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wanted</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -24,7 +25,7 @@ button{font:inherit;cursor:pointer}
 .wrap{max-width:1200px;margin:0 auto;padding:0 32px}
 header{background:var(--head);color:#fff}
 header .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:12px 28px;padding-top:14px;padding-bottom:14px}
-.brand{font:800 28px var(--display);letter-spacing:-.5px}
+.brand{display:inline-flex;align-items:center;gap:10px;font:800 28px var(--display);letter-spacing:-.5px}
 nav{display:flex;flex-wrap:wrap;gap:6px;flex:1 1 auto}
 nav a{padding:10px 16px;border-radius:999px;font-size:14px;font-weight:500;color:#fff}
 nav a[aria-current=page]{background:#fff;color:#12141A;font-weight:600;text-decoration:none}
@@ -81,7 +82,7 @@ footer{padding-bottom:48px;display:flex;flex-wrap:wrap;justify-content:space-bet
 <body>
 <header>
   <div class="wrap">
-    <a class="brand" href="#/">Wanted</a>
+    <a class="brand" href="#/"><img src="logo-mark.svg" alt="" width="32" height="32"><span>Wanted</span></a>
     <nav aria-label="Sections" id="nav"></nav>
     <div class="tools">
       <input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
