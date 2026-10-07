@@ -1,4 +1,4 @@
-# News Hub
+# Wanted
 
 A static news aggregator for Tech, Politics, and Pop Culture. A Python script collects headlines from RSS feeds into `data/news.json`, and `index.html` displays them. Headlines, short snippets, and links go back to the original publishers.
 
