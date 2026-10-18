@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-18T03:16:21.018400+00:00",
+ "updated": "2026-10-18T08:15:12.526589+00:00",
  "items": [
+  {
+   "title": "Eminem Defends Kid Rock Collaboration: ‘Not About Choosing Sides’",
+   "link": "https://www.billboard.com/music/rb-hip-hop/eminem-defends-kid-rock-collaboration-heal-my-faith-1236362405/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-18T08:14:18+00:00",
+   "summary": "The rapper addressed backlash over his guest verse on Kid Rock’s new faith-based album, pointing to the pair’s decades-long friendship",
+   "image": null
+  },
+  {
+   "title": "Liberal-city resident hesitates when pressed on beliefs: 'I hadn't really thought about socialism that way'",
+   "link": "https://www.foxnews.com/politics/liberal-city-resident-hesitates-when-pressed-beliefs-i-hadnt-really-thought-about-socialism-way",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-18T08:00:01+00:00",
+   "summary": "Fox News Digital hit the streets of Portland, Maine, where residents offered sharply divided views on socialism, wealth inequality and capitalism.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/democratic-socialists-america-rent-guidelines-board-new-york.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Ryan Gosling’s Zero-G Stunts on ‘Project Hail Mary’ Broken Down by the Space Epic’s VFX Supervisors",
+   "link": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-18T07:28:23+00:00",
+   "summary": "For Oscar-winning VFX supervisor Paul Lambert Lambert, of all the huge challenges presented by Ryan Gosling space epic “Project Hail Mary,” the most daunting was creating convincing zero gravity. “Zero-G was probably my…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/ProjectHailMary_3.jpeg"
+  },
+  {
+   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-18T07:00:53+00:00",
+   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it…",
+   "image": "https://i.guim.co.uk/img/media/e65d9406458078d3d6327d2627a8ee34413c9350/40_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=ddf59aa37f049ff429ebdc4255e2b2a7"
+  },
+  {
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "link": "https://api-docs.deepseek.com/guides/search/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T06:50:36+00:00",
+   "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 88 # Comments: 38",
+   "image": null
+  },
+  {
+   "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+   "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T06:36:48+00:00",
+   "summary": "Article URL: https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c Comments URL: https://news.ycombinator.com/item?id=50138462 Points: 25 # Comments: 15",
+   "image": null
+  },
+  {
+   "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+   "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T05:09:14+00:00",
+   "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments URL: https://news.ycombinator.com/item?id=50138087 Points: 76 #…",
+   "image": null
+  },
+  {
+   "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+   "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T04:59:24+00:00",
+   "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 79 # Comments: 14",
+   "image": null
+  },
+  {
+   "title": "Notes on the Complex Roots of Unity",
+   "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T04:49:31+00:00",
+   "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/ Comments URL: https://news.ycombinator.com/item?id=50138002 Points: 16 # Comments: 1",
+   "image": null
+  },
+  {
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+   "link": "https://sphinx-six-theta.vercel.app/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T04:33:49+00:00",
+   "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL…",
+   "image": null
+  },
+  {
+   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+   "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T03:19:49+00:00",
+   "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 104 # Comments: 98",
+   "image": null
+  },
   {
    "title": "Michigan Democrat confirms sister-in-law's terror watchlist lawsuit days before Obama campaign appearance",
    "link": "https://www.foxnews.com/politics/michigan-democrat-confirms-sister-in-law-terror-watchlist-lawsuit-days-before-obama-campaign-appearance",
@@ -20,22 +119,13 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jd-vance-fox-news-interview.jpg?ve=1&tl=1"
   },
   {
-   "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette and More",
+   "title": "Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette, Kate Hudson and More",
    "link": "https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/",
    "source": "Variety",
    "category": "pop",
    "published": "2026-10-18T01:30:47+00:00",
    "summary": "The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor…",
    "image": "https://variety.com/wp-content/uploads/2026/10/6th-annual-academy-museum-gala-1000x667-1-1.jpg"
-  },
-  {
-   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-   "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T01:18:50+00:00",
-   "summary": "Article URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day Comments URL: https://news.ycombinator.com/item?id=50136881 Points: 380 # Comments: 187",
-   "image": null
   },
   {
    "title": "‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’",
@@ -70,7 +160,7 @@
    "source": "Variety",
    "category": "pop",
    "published": "2026-10-17T23:59:24+00:00",
-   "summary": "Quentin Tarantino has long said he’ll be retiring after his 10th feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t…",
+   "summary": "Quentin Tarantino has long said he’ll be retiring after his tenth feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t…",
    "image": "https://variety.com/wp-content/uploads/2025/08/GettyImages-2214901521.jpg"
   },
   {
@@ -99,15 +189,6 @@
    "published": "2026-10-17T23:00:43+00:00",
    "summary": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgrades The NHS faces a more challenging winter than normal, the health secretary has warned, as she announced a…",
    "image": "https://i.guim.co.uk/img/media/46e4d1b43954bdcd31086727fd12767592187aa0/0_0_5060_4050/master/5060.jpg?width=140&quality=85&auto=format&fit=max&s=0b5b7c913c55fe5d3193a40dc412c761"
-  },
-  {
-   "title": "JDK 28",
-   "link": "https://openjdk.org/projects/jdk/28/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T21:37:07+00:00",
-   "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 74 # Comments: 32",
-   "image": null
   },
   {
    "title": "Meta removes language that raised scraping and AI training concerns",
@@ -161,15 +242,6 @@
    "category": "tech",
    "published": "2026-10-17T20:21:19+00:00",
    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-   "image": null
-  },
-  {
-   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-   "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T20:07:33+00:00",
-   "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 97 # Comments: 101",
    "image": null
   },
   {
@@ -245,15 +317,6 @@
    "image": "https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg"
   },
   {
-   "title": "KJ Apa on Becoming Jimmy Stewart, Speculation That He Is the Singer Mr. Fantasy and Opening Up About His Addictions and Recovery: ‘This Is A Huge Part of Who I Am’",
-   "link": "https://variety.com/2026/film/columns/kj-apa-jimmy-stewart-mr-fantasy-addictions-recovery-1236912309/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-17T19:00:00+00:00",
-   "summary": "When KJ Apa was being considered to star as Jimmy Stewart in the new biopic “Jimmy,” he took another look at “It’s a Wonderful Life.” “I was watching and thinking, how am I going to pull this off?” the actor, who is…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/KJ-Apa-as-Colonel-Jimmy-Stewart-in-JIMMY.-Photo-courtesy-of-Burns-Co.-2026-JIMMY-The-Movie-LLC-All-Rights-Reserved.-1000.jpg"
-  },
-  {
    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
    "source": "TechCrunch",
@@ -286,16 +349,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T17:45:08+00:00",
-   "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 88 # Comments: 33",
-   "image": null
-  },
-  {
-   "title": "I Became a Citizen of Japan",
-   "link": "https://www.derekwessman.com/blog-1/natural",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T17:36:17+00:00",
-   "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 158 # Comments: 77",
+   "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 125 # Comments: 46",
    "image": null
   },
   {
@@ -313,16 +367,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T17:06:07+00:00",
-   "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 258 # Comments: 131",
-   "image": null
-  },
-  {
-   "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-   "link": "https://www.artie.com/careers",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T17:02:50+00:00",
-   "summary": "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points: 0 # Comments: 0",
+   "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 320 # Comments: 168",
    "image": null
   },
   {
@@ -376,7 +421,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T15:55:09+00:00",
-   "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 273 # Comments: 27",
+   "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 406 # Comments: 37",
    "image": null
   },
   {
@@ -475,7 +520,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T14:01:01+00:00",
-   "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 500 # Comments: 314",
+   "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 581 # Comments: 361",
    "image": null
   },
   {
@@ -520,7 +565,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T13:55:28+00:00",
-   "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 263 # Comments: 68",
+   "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 296 # Comments: 81",
    "image": null
   },
   {
@@ -538,7 +583,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T13:28:46+00:00",
-   "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 97 # Comments: 24",
+   "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 126 # Comments: 28",
    "image": null
   },
   {
@@ -566,6 +611,15 @@
    "category": "tech",
    "published": "2026-10-17T13:00:00+00:00",
    "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up…",
+   "image": null
+  },
+  {
+   "title": "Interactive Linear Programming in the Browser",
+   "link": "https://lpviz.net/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-17T12:06:44+00:00",
+   "summary": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 21 # Comments: 0",
    "image": null
   },
   {
@@ -736,7 +790,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T08:21:25+00:00",
-   "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 731 # Comments: 601",
+   "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 837 # Comments: 641",
    "image": null
   },
   {
@@ -776,15 +830,6 @@
    "image": "https://i.guim.co.uk/img/media/ad1389d51d8c29206fd53426752bc2d1a86af89e/203_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9852ec89eb09eb65e1102ed17bd8899d"
   },
   {
-   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-   "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-17T06:45:23+00:00",
-   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it…",
-   "image": "https://i.guim.co.uk/img/media/e65d9406458078d3d6327d2627a8ee34413c9350/271_0_2562_2051/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=c1797678635e57a6f0d005bf4f94125c"
-  },
-  {
    "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
    "link": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
    "source": "Billboard",
@@ -808,25 +853,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-17T04:36:53+00:00",
-   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 258 # Comments: 77",
-   "image": null
-  },
-  {
-   "title": "Source code of the Estonian online voting system",
-   "link": "https://github.com/valimised/ivxv",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T03:18:39+00:00",
-   "summary": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 177 # Comments: 144",
-   "image": null
-  },
-  {
-   "title": "A skeptic's first contact with Kubernetes (2024)",
-   "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-17T03:16:25+00:00",
-   "summary": "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 94 # Comments: 53",
+   "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 285 # Comments: 81",
    "image": null
   },
   {
@@ -857,6 +884,15 @@
    "image": null
   },
   {
+   "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+   "link": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-17T00:11:29+00:00",
+   "summary": "Article URL: https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf Comments URL: https://news.ycombinator.com/item?id=50126457 Points: 4 # Comments: 1",
+   "image": null
+  },
+  {
    "title": "Swizz Beatz Reveals Michael Jackson Had a Crush on Alicia Keys: ‘I Think Janet Was the One That Told A.K.’",
    "link": "https://www.billboard.com/music/rb-hip-hop/swizz-beatz-michael-jackson-crush-alicia-keys-1236362241/",
    "source": "Billboard",
@@ -866,30 +902,12 @@
    "image": null
   },
   {
-   "title": "Billboard’s Music Industry Events Calendar",
-   "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-17T00:02:00+00:00",
-   "summary": "A complete rundown of the most important events across the music business.",
-   "image": null
-  },
-  {
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-16T23:47:31+00:00",
    "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL…",
-   "image": null
-  },
-  {
-   "title": "Bleached corals thrive within days when touching healthy neighbour",
-   "link": "https://www.nature.com/articles/d41586-026-03266-x",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-16T23:38:27+00:00",
-   "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 343 # Comments: 75",
    "image": null
   },
   {
@@ -990,24 +1008,6 @@
    "published": "2026-10-16T19:11:50+00:00",
    "summary": "The bug is fixed, but privacy concerns remain.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-500x500.jpg"
-  },
-  {
-   "title": "Biden judge rejects Obama CIA chief's legal bid against Trump over one key problem",
-   "link": "https://www.foxnews.com/politics/biden-judge-rejects-obama-cia-chiefs-legal-bid-against-trump-over-one-key-problem",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-16T19:09:46+00:00",
-   "summary": "John Brennan's lawsuit against Trump and senior officials was dismissed, but grand jury investigations into the former CIA director continue.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/barack-obama-john-brennan.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "You could have invented transformers from memory",
-   "link": "https://alexwang.ai/posts/associative-memory/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-16T19:01:17+00:00",
-   "summary": "https://twitter.com/heyyalexwang/status/2111158818730397932 Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 511 # Comments: 120",
-   "image": null
   },
   {
    "title": "Police assess Palestine Action post by national security adviser's wife",
