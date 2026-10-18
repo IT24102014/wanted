@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-18T21:17:24.424192+00:00",
+ "updated": "2026-10-18T23:30:19.567480+00:00",
  "items": [
+  {
+   "title": "Trump unveils plan to transform historic DC golf course as judge tees off",
+   "link": "https://www.foxnews.com/politics/trump-unveils-plan-transform-historic-dc-golf-course-judge-tees-off",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-18T23:22:18+00:00",
+   "summary": "President Donald Trump announced Tom Fazio will redesign East Potomac Golf Links into a championship venue capable of hosting the U.S. Open.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-truth-social-golf-course-rendering.png?ve=1&tl=1"
+  },
+  {
+   "title": "Jason Sudeikis Hopes to Continue ‘Ted Lasso,’ Says Coverage of His Split From Olivia Wilde Missed a ‘Million Little Things’: ‘It’s Always More Complicated’",
+   "link": "https://variety.com/2026/tv/news/jason-sudeikis-wants-ted-lasso-season-5-olivia-wilde-split-1236916062/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-18T23:17:40+00:00",
+   "summary": "Jason Sudeikis opened up on a recent episode of “Talk Easy with Sam Fragoso,” discussing his hopes for “Ted Lasso” Season 5, how the show “saved” him from “self-harm” and what the public got wrong about his closely…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2289127582.jpg"
+  },
+  {
+   "title": "Here Are the Best Podcasts About Songwriting",
+   "link": "https://www.rollingstone.com/music/music-features/best-songwriting-podcasts-music-industry-1235644396/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-18T23:12:39+00:00",
+   "summary": "Seven essential shows highlighting creators and collaborators dive deep into how inspiration becomes a finished recording",
+   "image": null
+  },
+  {
+   "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+   "link": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-18T23:01:12+00:00",
+   "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli…",
+   "image": "https://i.guim.co.uk/img/media/3e1770f8e84434c47a2dd4a86c78a42c8dac2876/1167_387_3487_2789/master/3487.jpg?width=140&quality=85&auto=format&fit=max&s=34e2f7800065d802ad24d4ccd5890a3b"
+  },
+  {
+   "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+   "link": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-18T23:01:12+00:00",
+   "summary": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviour Andy Burnham has announced a crackdown on “headphone dodgers” who play loud music on public transport…",
+   "image": "https://i.guim.co.uk/img/media/6c315da33bae7c55e9d0441cf81e5e256f1b4f9d/0_100_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a4a66245cae8fd3833e41971572829af"
+  },
+  {
+   "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+   "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-18T22:20:53+00:00",
+   "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not…",
+   "image": null
+  },
+  {
+   "title": "‘Glee’ Reunion: Chris Colfer Joins Darren Criss Onstage to Perform ‘Baby It’s Cold Outside’ During London Concert",
+   "link": "https://variety.com/2026/tv/news/glee-reunion-chris-colfer-darren-criss-perform-duet-1236916050/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-18T22:15:53+00:00",
+   "summary": "Darren Criss’ one-night-only concert at the Royal Albert Hall in London became a “Glee” reunion when the singer surprised audiences by bringing out Chris Colfer and performing “Baby It’s Cold Outside” as an homage to…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/TCDGLEE_EC185.jpg"
+  },
+  {
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "link": "https://github.com/finereli/whatsapp-mcp",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T21:36:10+00:00",
+   "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare…",
+   "image": null
+  },
+  {
+   "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+   "link": "https://github.com/omnipty-terminal/omnipty",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T21:24:13+00:00",
+   "summary": "Article URL: https://github.com/omnipty-terminal/omnipty Comments URL: https://news.ycombinator.com/item?id=50145628 Points: 7 # Comments: 0",
+   "image": null
+  },
   {
    "title": "Congress reacts to executive order exempting Russia from economic sanctions",
    "link": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
@@ -20,12 +101,21 @@
    "image": null
   },
   {
-   "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
    "link": "https://arxiv.org/abs/2610.18861",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T20:48:14+00:00",
-   "summary": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 13 # Comments: 0",
+   "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5…",
+   "image": null
+  },
+  {
+   "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "link": "https://github.com/Netflix/vmaf",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T20:43:40+00:00",
+   "summary": "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 12 # Comments: 5",
    "image": null
   },
   {
@@ -137,7 +227,7 @@
    "image": null
   },
   {
-   "title": "Jesse Eisenberg Says He ‘Couldn’t Get Movie Studio Parts Anymore’ After Winning A Razzie For ‘Batman v Superman’: ‘The Industry Did Not Want Me to Be in a Superhero Movie’",
+   "title": "Jesse Eisenberg Says He ‘Couldn’t Get Movie Studio Parts Anymore’ After Winning a Razzie for ‘Batman v Superman’: ‘The Industry Did Not Want Me to Be in a Superhero Movie’",
    "link": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
    "source": "Variety",
    "category": "pop",
@@ -191,21 +281,12 @@
    "image": null
   },
   {
-   "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-   "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T18:59:09+00:00",
-   "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 45 # Comments: 5",
-   "image": null
-  },
-  {
    "title": "Free Pascal compiler now supports dynamic packages",
    "link": "https://www.getlazarus.org/dynamic/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T18:48:04+00:00",
-   "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 61 # Comments: 13",
+   "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 96 # Comments: 12",
    "image": null
   },
   {
@@ -214,8 +295,17 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T18:40:16+00:00",
-   "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 115 # Comments: 198",
+   "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 148 # Comments: 249",
    "image": null
+  },
+  {
+   "title": "‘Musk’ TikTok Ad Account Temporarily Suspended Ahead of Documentary’s Wide Release",
+   "link": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-18T18:36:00+00:00",
+   "summary": "TikTok temporarily suspended the “Musk” advertisement account on Friday ahead of the documentary’s wide release, Variety can confirm. The ad account’s ability to advertise on the platform was then restored on Sunday…",
+   "image": "https://variety.com/wp-content/uploads/2026/08/Musk.jpg"
   },
   {
    "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
@@ -263,30 +353,12 @@
    "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2300770690.jpg"
   },
   {
-   "title": "Woodstock Film Festival Names Jessica Edwards as Executive Director",
-   "link": "https://variety.com/2026/film/news/woodstock-film-festival-jessica-edwards-executive-director-1236915828/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-18T18:00:00+00:00",
-   "summary": "Jessica Edwards has been named the new executive director of the Woodstock Film Festival, the organization announced Sunday as the 27th annual festival came to a close. Edwards will take over the role from Meira…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Jessica_Edwards_photo_by_Sara_Fox.jpg"
-  },
-  {
-   "title": "Aran Murphy on Playing an Angry Young Man in ‘Youth’ and ‘War’ — and His Father Cillian’s Influence",
-   "link": "https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-18T18:00:00+00:00",
-   "summary": "Aran Murphy is having quite a month, as he co-stars on not one, but two HBO shows — “Youth” and “War” — and plays one of the leads of Taika Waititi’s dystopian film “Klara and the Sun,” set to be released on Oct. 23…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/aran-murphy-Youth.solo_.jpg"
-  },
-  {
    "title": "PalmOS Lemmings",
    "link": "https://github.com/ardiri/palmos-lemmings",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T17:56:59+00:00",
-   "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 57 # Comments: 12",
+   "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 77 # Comments: 20",
    "image": null
   },
   {
@@ -306,15 +378,6 @@
    "published": "2026-10-18T17:53:34+00:00",
    "summary": "Paris streets littered with burned cars and shattered storefronts as police report 1,800 arrests nationwide following violent clashes over living costs.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/paris-fire-riots.png?ve=1&tl=1"
-  },
-  {
-   "title": "Charli xcx Brings Out Chappell Roan for ‘Boom Clap’ at Los Angeles Concert",
-   "link": "https://variety.com/2026/music/news/chappell-roan-charli-xcx-boom-clap-los-angeles-1236915831/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-18T17:53:29+00:00",
-   "summary": "As anyone who’s seen her in concert knows, Charli xcx is usually laser-focused on her current material and rarely looks back for more than a couple of songs. But she made an exception on Saturday night at the Kia Forum…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-at-1.50.21-PM-e1792345934562.png"
   },
   {
    "title": "Pro-Israel leader warns Democrats failing to condemn ‘vicious Jew haters’ in Congress",
@@ -353,15 +416,6 @@
    "image": null
   },
   {
-   "title": "Mitos editor is a fork of Helix",
-   "link": "https://mitos.computer/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T17:19:34+00:00",
-   "summary": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 48 # Comments: 47",
-   "image": null
-  },
-  {
    "title": "Taylor Swift Performs ‘The Fate of Ophelia’ Live for First Time at Academy Museum Gala",
    "link": "https://www.rollingstone.com/music/music-news/taylor-swift-performs-the-fate-of-ophelia-live-academy-gala-1235644441/",
    "source": "Rolling Stone",
@@ -394,7 +448,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T16:56:56+00:00",
-   "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 245 # Comments: 128",
+   "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 365 # Comments: 176",
    "image": null
   },
   {
@@ -412,7 +466,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T16:32:00+00:00",
-   "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 213 # Comments: 76",
+   "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 272 # Comments: 112",
    "image": null
   },
   {
@@ -457,7 +511,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T16:20:27+00:00",
-   "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 73 # Comments: 17",
+   "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 83 # Comments: 26",
    "image": null
   },
   {
@@ -506,15 +560,6 @@
    "image": "https://i.guim.co.uk/img/media/e3439b6dde6858e4f00f522708c30b35d747dcd9/468_0_3507_2806/master/3507.jpg?width=140&quality=85&auto=format&fit=max&s=22969b9211f9d7b60c162341031ee129"
   },
   {
-   "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-   "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T15:00:40+00:00",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 111 # Comments: 148",
-   "image": null
-  },
-  {
    "title": "See Charli XCX and Chappell Roan Perform ‘Boom Clap’ in Los Angeles",
    "link": "https://www.rollingstone.com/music/music-news/charli-xcx-chappell-roan-boom-clap-los-angeles-1235644412/",
    "source": "Rolling Stone",
@@ -547,7 +592,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T14:47:37+00:00",
-   "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 110 # Comments: 82",
+   "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 126 # Comments: 98",
    "image": null
   },
   {
@@ -569,15 +614,6 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/barack-obama-michigan.jpg?ve=1&tl=1"
   },
   {
-   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-   "link": "https://ranet3.com/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T14:31:52+00:00",
-   "summary": "btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;) especially for the mac, my ISP is SFR (over coaxial connection) with only…",
-   "image": null
-  },
-  {
    "title": "J Mascis has nothing better to do",
    "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
    "source": "The Verge",
@@ -592,16 +628,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T13:48:48+00:00",
-   "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 290 # Comments: 45",
-   "image": null
-  },
-  {
-   "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
-   "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-18T13:41:06+00:00",
-   "summary": "Article URL: https://www.thing.net/~rdom/ecd/EDTECD.html Comments URL: https://news.ycombinator.com/item?id=50141024 Points: 30 # Comments: 9",
+   "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 317 # Comments: 50",
    "image": null
   },
   {
@@ -611,15 +638,6 @@
    "category": "tech",
    "published": "2026-10-18T13:25:01+00:00",
    "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he…",
-   "image": null
-  },
-  {
-   "title": "Harry Styles Enlists John Wilson for Documentary About Madison Square Garden Residency",
-   "link": "https://www.rollingstone.com/music/music-news/harry-styles-john-wilson-documentary-msg-residency-1235644404/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-18T13:13:08+00:00",
-   "summary": "The History of Concrete documentarian has been quietly filming singer's historic Together, Together residency since August",
    "image": null
   },
   {
@@ -727,7 +745,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T11:16:22+00:00",
-   "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 159 # Comments: 13",
+   "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 170 # Comments: 13",
    "image": null
   },
   {
@@ -754,17 +772,8 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T10:21:51+00:00",
-   "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 210…",
+   "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 214…",
    "image": null
-  },
-  {
-   "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
-   "link": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-18T10:03:49+00:00",
-   "summary": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang members An aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot be Muslim and…",
-   "image": "https://i.guim.co.uk/img/media/7f601b339d3a0c9c463f93264f26ce7119101ed1/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=0bcfbd5114172afd88b4ac32e4309d59"
   },
   {
    "title": "This robot dog was made to save soldiers' lives as US races into new era of autonomous warfare",
@@ -808,7 +817,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T08:19:53+00:00",
-   "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 205 # Comments: 76",
+   "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 218 # Comments: 77",
    "image": null
   },
   {
@@ -821,21 +830,12 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/democratic-socialists-america-rent-guidelines-board-new-york.jpg?ve=1&tl=1"
   },
   {
-   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-   "link": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-18T07:00:53+00:00",
-   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it…",
-   "image": "https://i.guim.co.uk/img/media/e65d9406458078d3d6327d2627a8ee34413c9350/40_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=ddf59aa37f049ff429ebdc4255e2b2a7"
-  },
-  {
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "link": "https://api-docs.deepseek.com/guides/search/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-18T06:50:36+00:00",
-   "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 497 # Comments: 241",
+   "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 522 # Comments: 252",
    "image": null
   },
   {
@@ -845,6 +845,15 @@
    "category": "tech",
    "published": "2026-10-18T04:33:49+00:00",
    "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL…",
+   "image": null
+  },
+  {
+   "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+   "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T03:19:49+00:00",
+   "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 350 # Comments: 492",
    "image": null
   },
   {
@@ -864,6 +873,15 @@
    "published": "2026-10-18T02:32:15+00:00",
    "summary": "JD Vance defended Trump administration policies on gas prices, Iran's nuclear program, and H-1B visas while blasting Abdul El-Sayed at a CBS town hall.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jd-vance-fox-news-interview.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-18T01:38:08+00:00",
+   "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 90 # Comments: 64",
+   "image": null
   },
   {
    "title": "‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’",
@@ -918,15 +936,6 @@
    "published": "2026-10-17T20:00:15+00:00",
    "summary": "Happy hour business jumped from roughly 8% to nearly 30% of sales at a San Diego restaurant group as California diners hunt for cheaper meals.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/california-diners.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "TikTok bans Musk documentary account",
-   "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-17T19:32:23+00:00",
-   "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The…",
-   "image": null
   },
   {
    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
@@ -1053,15 +1062,6 @@
    "published": "2026-10-17T10:02:40+00:00",
    "summary": "\"No Kings\" organizers promote \"Vote Blue\" and partisan slogans that their own national coalition rulebook explicitly prohibits at Saturday's rallies.",
    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/9c5753a7-no-kings-protest.gif"
-  },
-  {
-   "title": "From ‘Third Reich’ to ‘not that informed’: Senate debates deliver fireworks before midterms",
-   "link": "https://www.foxnews.com/politics/third-reich-not-informed-senate-debates-deliver-fireworks-before-midterms",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-17T10:00:34+00:00",
-   "summary": "Candidates in Michigan, Georgia, South Carolina and Maine delivered personal accusations and unexpected admissions during debates that have led up to their elections.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/el-sayed-rogers-debate.jpg?ve=1&tl=1"
   },
   {
    "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
