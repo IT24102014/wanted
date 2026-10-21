@@ -1,59 +1,365 @@
 {
- "updated": "2026-10-21T06:20:47.658992+00:00",
+ "updated": "2026-10-21T12:11:06.989251+00:00",
  "items": [
   {
-   "title": "Three ideas for how to deal with Thames Water",
-   "link": "https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-21T06:00:04+00:00",
-   "summary": "The Guardian proposes emergency legislation, public control via the courts or stripping the utility company of its licence Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present…",
-   "image": "https://i.guim.co.uk/img/media/535318ddf017dc682b293bfcd483a717eefaf8a0/247_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fea5ea819b06767f490c86405124d198"
+   "title": "Netflix Stock Deflates to Two-Year Low. What Will It Take to Revive Revenue Growth?",
+   "link": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T12:06:57+00:00",
+   "summary": "Shares of Netflix hit a two-year low after the streamer’s Q3 2026 earnings report revealed an ongoing softening in top-line growth and a miss on advertising revenue for the full year. The stock was down -7% in premarket…",
+   "image": "https://variety.com/wp-content/uploads/2024/06/Netflix-LA-Building.jpg"
   },
   {
-   "title": "Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling",
-   "link": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
+   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+   "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-21T12:00:00+00:00",
+   "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models…",
+   "image": null
+  },
+  {
+   "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+   "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-21T12:00:00+00:00",
+   "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using…",
+   "image": null
+  },
+  {
+   "title": "The iPhone Duo is a messy, expensive, good time",
+   "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-21T12:00:00+00:00",
+   "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet…",
+   "image": null
+  },
+  {
+   "title": "‘Glee’ Reboot Officially Set at Disney+ and Hulu",
+   "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T12:00:00+00:00",
+   "summary": "To quote Finn Hudson, “The show must go all over the place, or something.” He was right: “Glee” is back. Disney+ and Hulu have greenlit a reboot of Ryan Murphy’s famous (and infamous) musical dramedy series. “Glee”…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/TCDGLEE_EC025-1000.jpg"
+  },
+  {
+   "title": "Burnham and Badenoch clash over Jackdaw gasfield and inflation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
    "source": "The Guardian",
    "category": "politics",
-   "published": "2026-10-21T06:00:03+00:00",
-   "summary": "Court of appeal decision prevents woman from suing police and CPS for disclosing her address to violent ex-partner The Labour MP Jess Phillips has said she hopes the UK’s highest court “sees sense” and overturns a…",
-   "image": "https://i.guim.co.uk/img/media/d3b97278ecc80d0438534e37d164fe31a9ab51dc/582_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=221816686de6fdb306ae896f41b188b4"
+   "published": "2026-10-21T11:58:39+00:00",
+   "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned…",
+   "image": "https://i.guim.co.uk/img/media/00aac9f3adde47e75eb3db3d844f0904c3353018/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=c117c019ac984574b032f1aaf09dcfc6"
+  },
+  {
+   "title": "A critical PHP vulnerability may take websites down today",
+   "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-21T11:49:17+00:00",
+   "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet…",
+   "image": null
+  },
+  {
+   "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+   "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-21T11:46:59+00:00",
+   "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+   "image": null
+  },
+  {
+   "title": "Emmylou Harris, Elvis Costello, Black Crowes to Pay Tribute to Gram Parsons Ahead of Posthumous Rock & Roll Hall of Fame Induction",
+   "link": "https://www.billboard.com/music/rock/gram-parsons-tribute-emmylou-harris-elvis-costello-rock-hall-1236364344/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T11:40:23+00:00",
+   "summary": "Margo Price, Grace Potter and Jesse Welles will also be on hand for the Nov. 11 show at the Troubadour in Los Angeles.",
+   "image": null
+  },
+  {
+   "title": "Bereaved civil service families could face ‘unjust’ tax bills due to pension scheme delays",
+   "link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-21T11:12:49+00:00",
+   "summary": "MPs say ‘chaos’ at Capita-run scheme could mean some claims miss tax-free time limit on lump sum payments Bereaved families could face “unconscionable” tax bills because of “chaos” in the civil service pension scheme…",
+   "image": "https://i.guim.co.uk/img/media/7e05629c61b0333e56dc3fe3ceba89fbfbcf46d2/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=25d005a42cb9036517ce6bb6724b6f8d"
+  },
+  {
+   "title": "Italian Content Investment Dropped 7.4% in 2025 Largely Due to Uncertainty Over Domestic Tax Credits, Rome MIA Market Report Says",
+   "link": "https://variety.com/2026/film/global/italian-content-investment-dropped-uncertainty-tax-credits-1236918479/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T11:05:26+00:00",
+   "summary": "Investment in content production destined for Italy’s film TV and streaming industries dropped 7.4% to €2 billion ($2.24 billion) in 2025, compared with the previous year, with the scripted sphere suffering most amid…",
+   "image": "https://variety.com/wp-content/uploads/2025/08/The-Monster-of-Florence.jpg"
+  },
+  {
+   "title": "‘When I Existed,’ a Cannes Market Standout, Swooped On for World Sales by M-Appeal and Now Bound for Tallinn Black Nights (EXCLUSIVE)",
+   "link": "https://variety.com/2026/film/global/when-i-existed-cannes-market-standout-m-appeal-tallinn-1236918550/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T11:04:30+00:00",
+   "summary": "Berlin-based M-Appeal has boarded “When I Existed,” a buzzy, feel-good second-chance drama comedy and Kafkian social satire which proved a standout at the Cannes Market’s Ventana Sur Goes to Cannes showcase, marking an…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/When-I-Existed-CYE-2026-El-Cielo-Cine-SAS-·-Doce-Entertainment-SL.jpg"
+  },
+  {
+   "title": "How Saudi Arabia's defense vulnerabilities could become Trump's problem amid Houthi onslaught",
+   "link": "https://www.foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-21T11:00:05+00:00",
+   "summary": "Saudi Arabia seeks foreign allies to counter Houthi missiles and drones as Trump weighs whether to launch direct U.S. military strikes on Yemen.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/houthis-april-3.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Stratford International on track to get cross-Channel trains in budget boost",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-21T10:59:12+00:00",
+   "summary": "Sadiq Khan says upgrade would unlock station’s true potential and allow it to live up to its name Business live – latest updates Stratford International train station in east London will receive funding in next week’s…",
+   "image": "https://i.guim.co.uk/img/media/56b6cdee5adaae08a5660ee1f509c79ec8c515f7/0_0_4267_3413/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=53e67f289e3bc030007fc000abd37236"
+  },
+  {
+   "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-21T10:21:18+00:00",
+   "summary": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workers UK politics live – latest updates A cabinet split over Shabana Mahmood’s immigration policy has deepened…",
+   "image": "https://i.guim.co.uk/img/media/6eee7faa83b2cf35028103d85dbf8beb1cf09b67/238_0_2378_1903/master/2378.jpg?width=140&quality=85&auto=format&fit=max&s=9db3a541e98044afe4dddca0b331f0a5"
+  },
+  {
+   "title": "Noel Clarke Pleads Not Guilty to Sexual Offense Charges",
+   "link": "https://variety.com/2026/film/global/noel-clarke-pleads-not-guilty-sexual-offense-charges-1236918512/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T10:19:24+00:00",
+   "summary": "Noel Clarke has pleaded not guilty to six sexual offense charges. Appearing at Westminster Magistrates Court in London on Wednesday morning, the actor, writer and director entered not guilty pleas in relation to all the…",
+   "image": "https://variety.com/wp-content/uploads/2022/08/Noel-Clarke.jpg"
+  },
+  {
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-21T10:16:17+00:00",
+   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg"
+  },
+  {
+   "title": "Whatever Happened to Fire Escapes",
+   "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-21T10:14:43+00:00",
+   "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 35 # Comments: 14",
+   "image": null
+  },
+  {
+   "title": "Usha Vance is a closed book – but her Goodreads account is surprisingly revealing | Arwa Mahdawi",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/21/usha-vance-closed-book-goodreads-account-surprisingly-revealing",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-21T10:00:02+00:00",
+   "summary": "From Roman-era political potboilers to stories of Catholic priests struggling to impose their authority, what could the reading list of vice-president JD Vance’s wife be trying to tell us? Usha Vance, a very clever…",
+   "image": "https://i.guim.co.uk/img/media/dbf86856d5dfd5ce2f8c4c76acb812ec3ccfaa68/529_0_3711_2969/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=49b69f654bb8604e187f1eb3dd7c93e5"
+  },
+  {
+   "title": "Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’",
+   "link": "https://variety.com/2026/music/global/ozzy-osbourne-happy-before-died-final-show-sharon-1236918473/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T09:58:18+00:00",
+   "summary": "Ozzy Osbourne’s final “Back to the Beginning” concert kept him “flying high” until the day he died, his wife Sharon Osbourne said. Speaking at a London screening of the film “Ozzy & Black Sabbath: Back to the Beginning”…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1201987490.jpg"
+  },
+  {
+   "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+   "link": "https://github.com/blue-idea/linkit",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-21T09:51:41+00:00",
+   "summary": "Article URL: https://github.com/blue-idea/linkit Comments URL: https://news.ycombinator.com/item?id=50178218 Points: 10 # Comments: 4",
+   "image": null
+  },
+  {
+   "title": "Oscar Entries From Thailand, Nepal Head to Tokyo Filmex Competition; Lee Kang-sheng Joins Jury",
+   "link": "https://variety.com/2026/film/festivals/oscar-entries-thailand-nepal-tokyo-filmex-competition-1236918493/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T09:38:00+00:00",
+   "summary": "Thailand’s and Nepal’s Oscar submissions, “9 Temples to Heaven” and “Elephants in the Fog,” are among 10 titles competing at the 27th edition of Tokyo Filmex, which will run Nov. 20–29 in the Japanese capital’s…",
+   "image": "https://variety.com/wp-content/uploads/2026/05/Elephants-in-the-Fog.jpg"
+  },
+  {
+   "title": "LISA Is a Boss In New PlayStation Spot Featuring ‘Tarantino’: Watch",
+   "link": "https://www.billboard.com/music/pop/lisa-playstation-spot-tarantino-watch-1236364319/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T09:18:57+00:00",
+   "summary": "The BLACKPINK star gets her game on with PlayStation, for a promo that unlocks an extended preview of \"Tarantino.\"",
+   "image": null
+  },
+  {
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-21T09:08:08+00:00",
+   "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 229 # Comments: 97",
+   "image": null
+  },
+  {
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-21T09:07:49+00:00",
+   "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 355 # Comments: 380",
+   "image": null
+  },
+  {
+   "title": "Cyndi Lauper on fun, fashion and freedom of expression: ‘We have braces on our brains’",
+   "link": "https://www.theguardian.com/music/2026/oct/21/cyndi-lauper-auction-fashion",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-21T09:00:00+00:00",
+   "summary": "As she auctions off her treasures, the synth-pop savant opens up about her eccentric style and why she doesn’t believe in cancel culture Before Cyndi Lauper rose to fame as one of the most singular pop breakouts of the…",
+   "image": "https://i.guim.co.uk/img/media/be7a9dcc7382663d852596e79fabec055a771e44/592_368_5530_4420/master/5530.jpg?width=140&quality=85&auto=format&fit=max&s=cfa9db62e24d6a21d80773460e52a741"
+  },
+  {
+   "title": "Sam Fender Is Doing a Proper Massive Stadium Tour for 2027 in U.K. & Ireland, Including Nights at Wembley",
+   "link": "https://www.billboard.com/music/music-news/sam-fender-2027-tour-dates-uk-ireland-1236363653/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T09:00:00+00:00",
+   "summary": "Wunderhorse join the bill as the support act for the U.K. shows.",
+   "image": null
+  },
+  {
+   "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+   "link": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-21T08:49:44+00:00",
+   "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c4/live/9aad62c0-cd2e-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
+   "title": "Why Republicans frustrated with Trump's policies continue to support the party",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009279/why-republicans-frustrated-with-trumps-policies-continue-to-support-the-party",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-21T08:41:34+00:00",
+   "summary": "NPR's Steve Inskeep asks Bloomberg politics columnist Ron Brownstein what motivates Republicans angry with the Trump administration to continue voting for the Republican party.",
+   "image": null
+  },
+  {
+   "title": "Trump to campaign for Sen. Darline Graham despite disagreement on Russia sanctions",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009283/trump-to-campaign-for-sen-darline-graham-despite-disagreement-on-russia-sanctions",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-21T08:41:12+00:00",
+   "summary": "President Trump is expected to campaign with Sen. Darline Graham on Wednesday even as the two are not in agreement on how to best pressure Russia to end the war in Ukraine.",
+   "image": null
+  },
+  {
+   "title": "‘Industry,’ ‘Doctor Who’ Producer Jane Tranter on Resisting Trends, Centering Women and Telling Stories About ‘People Being Accepted for Who They Choose to Be’",
+   "link": "https://variety.com/2026/tv/global/jane-tranter-mia-rome-1236918447/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T08:38:12+00:00",
+   "summary": "“Industry” and “Doctor Who” producer Jane Tranter has made a career of going against the grain, and at Rome’s MIA Market on Tuesday, she told European producers that the only way to survive in uncertain times is to “go…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-21-Oct-2026-10-17-AM-5392.jpg"
+  },
+  {
+   "title": "Jeff Satur Signs With Universal Music Southeast Asia",
+   "link": "https://www.billboard.com/music/music-news/jeff-satur-signs-universal-music-southeast-asia-1236364306/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T08:32:57+00:00",
+   "summary": "UM SEA has tentatively scheduled a Q2 2027 release date for Satur’s next album, his first through the major music company.",
+   "image": null
   },
   {
    "title": "UK approves Jackdaw gasfield in North Sea",
    "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
    "source": "The Guardian",
    "category": "politics",
-   "published": "2026-10-21T05:56:32+00:00",
-   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will…",
+   "published": "2026-10-21T08:26:09+00:00",
+   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? UK politics live – latest updates Business live – latest updates…",
    "image": "https://i.guim.co.uk/img/media/2885655dd839a75c40b74e84dde7bce3d84eafc7/670_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=5f96d863fac397ab4cc461602b71f993"
   },
   {
-   "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
-   "link": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-21T05:17:15+00:00",
-   "summary": "Article URL: https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead Comments URL: https://news.ycombinator.com/item?id=50176351 Points: 5 # Comments: 2",
+   "title": "Climate campaigners condemn ‘maddening’ decision to approve Jackdaw gasfield",
+   "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-21T08:23:46+00:00",
+   "summary": "Critics say move will jeopardise climate targets, fail to cut cost of living and distract from need to decarbonise energy UK politics live – latest updates Climate campaigners and green experts have condemned the…",
+   "image": "https://i.guim.co.uk/img/media/4cc4b7f0e9f2b057c70b5a71f477b0ac0741a7ba/976_0_7084_5667/master/7084.jpg?width=140&quality=85&auto=format&fit=max&s=630d13b564690137aeaa9fd47d38a3c4"
+  },
+  {
+   "title": "The Mystery of What Befell in the Ditch by Thure Erik Lund review – is this the greatest living Norwegian writer?",
+   "link": "https://www.theguardian.com/books/2026/oct/21/the-mystery-of-what-befell-in-the-ditch-by-thure-erik-lund-review-is-this-the-greatest-living-norwegian-writer",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-21T08:00:04+00:00",
+   "summary": "Translated into English at last, this portrait of a man appalled by modernity and desperate to get back to nature is brimming with Nordic weltschmerz T-O-M. The initials of Tomas Olsen Myrbråten, the narrator in Thure…",
+   "image": "https://i.guim.co.uk/img/media/e5ed58ba13b3890c65a23deea188045309736783/0_456_2667_2133/master/2667.jpg?width=140&quality=85&auto=format&fit=max&s=14efadbd5956ee959f9ebc32ab1bb3aa"
+  },
+  {
+   "title": "‘Father’s House,’ Starring David Dencik and Trine-Dyrholm, Picked Up by DR Sales Ahead of Tallinn Competition",
+   "link": "https://variety.com/2026/film/global/trine-dyrholm-david-dencik-dr-sales-religious-sect-1236918444/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T07:19:28+00:00",
+   "summary": "Copenhagen-based DR Sales, the international distributor of Oscar-winning doc “Mr Nobody Against Putin” and Sundance winner “A New Kind of Wilderness,” has boarded Denmark’s “Father’s House,” starring David Dencik (“No…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Fathers-House-_credit_Mia-Mai-Dengsoe-Graabaek.jpeg.jpeg"
+  },
+  {
+   "title": "Australia’s Live Entertainment Industry Feels The Pinch From Escalating Costs",
+   "link": "https://www.billboard.com/pro/australia-live-industry-results-2025/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T07:05:09+00:00",
+   "summary": "“Australians love their live performance experiences but are under more intense cost-of-living pressures and being more selective in their ticket buying choices.\"",
    "image": null
   },
   {
-   "title": "Pillowfort Is Closing",
-   "link": "https://www.pillowfort.social/posts/8413273",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-21T05:05:37+00:00",
-   "summary": "Article URL: https://www.pillowfort.social/posts/8413273 Comments URL: https://news.ycombinator.com/item?id=50176301 Points: 17 # Comments: 4",
-   "image": null
+   "title": "‘Pirates of the Caribbean’ Secret Cinema Immersive Stage Show Casts George Maguire as Jack Sparrow, Extends London Run",
+   "link": "https://variety.com/2026/theater/news/pirates-of-the-caribbean-secret-cinema-jack-sparrow-1236918148/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T07:00:00+00:00",
+   "summary": "Olivier winner George Maguire will play Captain Jack Sparrow in “Disney’s Pirates of the Caribbean: The Immersive Adventure,” the London stage production from Secret Cinema and TodayTix. Phil Daniels, known for…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Pirates-of-the-Caribbean-secret-cinema.jpg"
   },
   {
-   "title": "Battlezone Online: BZFlag in the Browser",
-   "link": "https://github.com/timriker/bzo",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-21T05:05:19+00:00",
-   "summary": "Article URL: https://github.com/timriker/bzo Comments URL: https://news.ycombinator.com/item?id=50176298 Points: 8 # Comments: 3",
-   "image": null
+   "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+   "link": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-21T06:48:00+00:00",
+   "summary": "Government paid £10.9bn in debt interest, the highest September figure since records began Business live – latest updates The Treasury ran a higher than expected budget deficit of £24.5bn last month as rising inflation…",
+   "image": "https://i.guim.co.uk/img/media/1c14f3ec4c42fe0ddf52479032cdd090187325e4/0_3_6252_5001/master/6252.jpg?width=140&quality=85&auto=format&fit=max&s=e1757337f913b44d1a2c99d75426b2d2"
+  },
+  {
+   "title": "On Another Planet They Can Save Me by Lieke Marsman review – an astonishing memoir of terminal illness",
+   "link": "https://www.theguardian.com/books/2026/oct/21/on-another-planet-they-can-save-me-by-lieke-marsman-review-an-astonishing-memoir-of-terminal-illness",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-21T06:00:04+00:00",
+   "summary": "Published four months after her death, the poet’s reflections on mortality are both agonising and profoundly life-affirming There are no atheists in foxholes, goes the saying, and indeed social scientists and…",
+   "image": "https://i.guim.co.uk/img/media/9bdb565dd1e7bfe950518ccc61462d35bbcc8f60/0_2025_5464_4369/master/5464.jpg?width=140&quality=85&auto=format&fit=max&s=9a7a07ccf6a5e969246f5d8837fc52ad"
   },
   {
    "title": "Beck Gets Some Help From Sacha Baron Cohen For ‘Tonight Show’ Performance: Watch",
@@ -63,24 +369,6 @@
    "published": "2026-10-21T05:00:42+00:00",
    "summary": "The British funnyman flexed his musician muscles for a surprise back seat spot on the cello, supporting Beck on “In the Night.”",
    "image": null
-  },
-  {
-   "title": "Streeting delays defence jobs plan for young people after union pushback",
-   "link": "https://www.theguardian.com/politics/2026/oct/21/wes-streeting-delays-defence-jobs-plan-young-people-union-pushback-mod-uk",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-21T05:00:05+00:00",
-   "summary": "UK defence secretary had been due to unveil proposals on Thursday until concerns were raised at 11th hour Wes Streeting has been forced to delay the publication of a plan to get more young people into defence industry…",
-   "image": "https://i.guim.co.uk/img/media/3d1b21de59f5dc280d242fab381347800e8624f2/303_0_1764_1412/master/1764.jpg?width=140&quality=85&auto=format&fit=max&s=ec83e93ec62ec8c6ad4630b42e2ab95a"
-  },
-  {
-   "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-21T05:00:03+00:00",
-   "summary": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within…",
-   "image": "https://i.guim.co.uk/img/media/2b09105d2b79b46ef1a983c490e1fa164adc9012/0_1497_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=f13d90a050d01ad424652b7f28d41900"
   },
   {
    "title": "From strife-torn France to the UK, rightwing populists win when they stir chaos while promising order | Rafael Behr",
@@ -110,58 +398,22 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/us-dept-of-ed-urged-to-address-violence-on-college-campuses-transparency-1.jpeg?ve=1&tl=1"
   },
   {
-   "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-   "link": "https://github.com/xamrayev/nexus-cli",
+   "title": "Using Claude to reduce the attack surface of code",
+   "link": "https://www.anthropic.com/research/attack-surface-reduction",
    "source": "Hacker News",
    "category": "tech",
-   "published": "2026-10-21T04:37:18+00:00",
-   "summary": "Article URL: https://github.com/xamrayev/nexus-cli Comments URL: https://news.ycombinator.com/item?id=50176129 Points: 7 # Comments: 1",
+   "published": "2026-10-21T03:36:43+00:00",
+   "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 67 # Comments: 28",
    "image": null
   },
   {
-   "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
-   "link": "https://jackalsyn.com/posts/php-up-2026.html",
+   "title": "C# now beats Rust on WASM size",
+   "link": "https://github.com/zion-sati/NetWasm",
    "source": "Hacker News",
    "category": "tech",
-   "published": "2026-10-21T04:26:56+00:00",
-   "summary": "Article URL: https://jackalsyn.com/posts/php-up-2026.html Comments URL: https://news.ycombinator.com/item?id=50176077 Points: 115 # Comments: 32",
+   "published": "2026-10-21T02:53:47+00:00",
+   "summary": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 95 # Comments: 33",
    "image": null
-  },
-  {
-   "title": "Julia Stiles ‘Bawled’ Before Heath Ledger Tribute, Breaks Down ’10 Things I Hate About You’ Cast Reunion on ‘Dancing With the Stars’",
-   "link": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T04:05:00+00:00",
-   "summary": "Julia Stiles paid tribute to the late Heath Ledger on Tuesday night’s episode of “Dancing With the Stars.” During Dedication Night, she performed a contemporary routine with her partner Ezra Sosa to “Can’t Take My Eyes…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/183899_DSC00189.jpg"
-  },
-  {
-   "title": "‘Young Sheldon’ Star Iain Armitage Says He Was the ‘Most Happy’ About the Show Ending: I Wasn’t ‘Going Home and Crying All Day’",
-   "link": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T04:02:29+00:00",
-   "summary": "“Young Sheldon” actor Iain Armitage might’ve become a star thanks to the hit CBS sitcom, but when it came time to call it quits on the seven-season series in 2024, he admits he was the cast member “the most happy about…",
-   "image": "https://variety.com/wp-content/uploads/2017/05/young-sheldon1.jpg"
-  },
-  {
-   "title": "Setting Up SSH Keys on macOS with Touch ID",
-   "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-21T03:51:25+00:00",
-   "summary": "Article URL: https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/ Comments URL: https://news.ycombinator.com/item?id=50175882 Points: 11 # Comments: 7",
-   "image": null
-  },
-  {
-   "title": "Leica and Formula 1 Team Up on $9,950 Camera Inspired by the Racetrack (Featuring Exclusive F1 Photo Setting)",
-   "link": "https://variety.com/2026/shopping/news/leica-formula-1-camera-shop-online-1236916678/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T03:00:00+00:00",
-   "summary": "Formula 1’s luxury ambitions are extending to the camera business. Leica is the latest high-end brand to get in on the sport’s growing cultural cachet, teaming up with Formula 1 on a new licensing deal that will see the…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Leica_Q3_43_F1_HiRes_01.jpg"
   },
   {
    "title": "‘Nothing Short of Extraordinary’: Powderfinger Pledges Encore Dates After Reunion Tour Sells Out",
@@ -180,24 +432,6 @@
    "published": "2026-10-21T02:38:00+00:00",
    "summary": "A complete rundown of the most important events across the music business.",
    "image": null
-  },
-  {
-   "title": "‘Billions’ and ‘John Wick 3’ Star Asia Kate Dillon Says Acting Jobs Have ‘Diminished’ and They’re in Need of Customer Service Work",
-   "link": "https://variety.com/2026/tv/news/billions-john-wick-3-asia-kate-dillon-jobs-diminished-customer-service-1236918269/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T02:37:12+00:00",
-   "summary": "Asia Kate Dillon, who starred in shows like “Orange Is the New Black” and “Billions,” took to social media on Tuesday to share that they are looking for service work after their acting work “has all but diminished”…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2277747102.webp"
-  },
-  {
-   "title": "Park Min-young, Yook Sung-jae, Go Soo Lead Prime Video Korean Office Romance ‘Nine to Six’",
-   "link": "https://variety.com/2026/tv/news/park-min-young-yook-sung-jae-prime-video-korean-office-romance-nine-to-six-1236918266/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T02:18:57+00:00",
-   "summary": "Park Min-young, the star of “Marry My Husband,” will lead “Nine to Six,” a Korean office romance. Yook Sung-jae of K-pop group BtoB and Go Soo co-star in the 12-episode series. Park plays Kang Yi-ji, a senior manager on…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Nine-to-Six-cast.jpg"
   },
   {
    "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
@@ -223,7 +457,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-21T02:04:15+00:00",
-   "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 58 # Comments: 26",
+   "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 102 # Comments: 58",
    "image": null
   },
   {
@@ -241,7 +475,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-21T01:47:28+00:00",
-   "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 173 # Comments: 58",
+   "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 416 # Comments: 170",
    "image": null
   },
   {
@@ -250,7 +484,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-21T01:45:07+00:00",
-   "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 73 # Comments: 8",
+   "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 140 # Comments: 12",
    "image": null
   },
   {
@@ -263,66 +497,12 @@
    "image": null
   },
   {
-   "title": "Charli xcx Cancels Arizona Concert, Says ‘It Breaks Me’ to Miss It",
-   "link": "https://www.billboard.com/music/pop/charli-xcx-arizona-concert-canceled-1236364200/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-21T01:24:44+00:00",
-   "summary": "\"I have been fighting sickness throughout this run of shows and have now completely lost my voice,\" she tells her fans ahead of Wednesday show.",
-   "image": null
-  },
-  {
    "title": "Charli XCX Cancels ‘Music, Fashion, Film’ Show in Arizona: ‘Completely Lost My Voice’",
    "link": "https://www.rollingstone.com/music/music-news/charli-xcx-cancels-music-fashion-film-show-arizona-illness-1235645838/",
    "source": "Rolling Stone",
    "category": "pop",
    "published": "2026-10-21T01:08:10+00:00",
    "summary": "The star said that she has been fighting an illness and had to cut her performance on Wednesday",
-   "image": null
-  },
-  {
-   "title": "The Women’s Panel: Global Rising | Billboard Latin Music Week 2026",
-   "link": "https://www.billboard.com/video/the-womens-panel-global-rising-billboard-latin-music-week/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-21T00:47:18+00:00",
-   "summary": "A conversation with the female powerhouses of Latin music from around the globe, featuring Ana Mena, Aria Vega, Greeicy, LALI, Lola Indigo and RaiNao. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at…",
-   "image": null
-  },
-  {
-   "title": "Alice Cooper’s Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star’s Life",
-   "link": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-21T00:46:35+00:00",
-   "summary": "Released Oct. 6, the “Poison” singer says 90% of the stories in his 2026 memoir are true, unlike his two earlier books.",
-   "image": null
-  },
-  {
-   "title": "Netflix Chiefs Concede That Slowdown in U.S. Viewing Sparked the Content Leadership Shakeup: ‘We’re Focusing on Execution,’ Ted Sarandos Says",
-   "link": "https://variety.com/2026/tv/news/netflix-slowdown-u-s-viewing-shakeup-bela-bajaria-dan-lin-1236918124/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T00:40:11+00:00",
-   "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters nodded to slowdown in U.S. viewing and ad sales that spurred the radical shake-up of the streamer’s content leadership during Tuesday’s conversation with Wall Street analysts…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Greg-Peters-Ted-Sarandos.jpg"
-  },
-  {
-   "title": "The New Generation of Regional Mexican Music Bets on Fresh Sounds & More Personal Lyrics",
-   "link": "https://www.billboard.com/music/latin/clave-especial-regional-mexican-music-latin-music-week-1236364172/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-21T00:23:29+00:00",
-   "summary": "Clave Especial, Edgardo Núñez, Emmanuel Cortés, Hermanos Espinoza & Los Dos de Tamaulipas discussed the path to success at Billboard Latin Music Week.",
-   "image": null
-  },
-  {
-   "title": "Doechii Detonates Herself in the Desert in Explosive ‘CATWOMAN’ Video: Watch",
-   "link": "https://www.billboard.com/music/rb-hip-hop/doechii-catwoman-video-swamp-sessions-1236364134/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-21T00:15:14+00:00",
-   "summary": "The Florida rapper returned with another installment of Swamp Sessions .",
    "image": null
   },
   {
@@ -333,33 +513,6 @@
    "published": "2026-10-21T00:00:56+00:00",
    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu…",
    "image": null
-  },
-  {
-   "title": "Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’",
-   "link": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-21T00:00:00+00:00",
-   "summary": "Kurosawa Kiyoshi and “Ju-on” director Shimizu Takashi are among the seven filmmakers behind “Night Tales Club,” a six-part Japanese supernatural anthology series set to premiere on Disney+ and Hulu in January 2027…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Night-Tales-Club.jpg"
-  },
-  {
-   "title": "Access: Horror Virtual Film Festival Sheds Light on Disability by ‘Centering Ableism as the Horror Rather Than Disability’",
-   "link": "https://variety.com/2026/film/features/access-horror-film-festival-disability-horrror-1236916976/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T23:32:04+00:00",
-   "summary": "When Ariel Baska traded their 15-year career teaching Latin for the film industry, they were instantly faced with a series of unexpected guardrails. “I found that all of these doors were closed to me because I could not…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/TAL_Poster.jpg"
-  },
-  {
-   "title": "Charli xcx Cancels ‘Music, Fashion, Film’ Show in Arizona Due to Illness: ‘It Breaks Me That I Can’t Be With You’",
-   "link": "https://variety.com/2026/music/news/charli-xcx-cancels-arizona-show-due-to-illness-1236918156/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T23:21:31+00:00",
-   "summary": "Charli xcx has announced that she has canceled tomorrow night’s “Music, Fashion, Film” performance in Arizona due to illness. The pop singer is currently on her “Music, Fashion, Film” tour across North America and…",
-   "image": "https://variety.com/wp-content/uploads/2026/05/Charli-xcx-Rock-Music-e1778233979122.jpg"
   },
   {
    "title": "My late wife Jo Cox was murdered in her constituency in 2016. The alleged attack on Helen Haines is a punch to the gut | Brendan Cox",
@@ -385,7 +538,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T23:04:09+00:00",
-   "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 146 # Comments: 96",
+   "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 209 # Comments: 160",
    "image": null
   },
   {
@@ -416,6 +569,15 @@
    "image": null
   },
   {
+   "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+   "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-20T22:29:24+00:00",
+   "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\"",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d7/live/8ccefeb0-cd11-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "source": "TechCrunch",
@@ -430,7 +592,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T22:21:05+00:00",
-   "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 159 # Comments: 66",
+   "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 217 # Comments: 101",
    "image": null
   },
   {
@@ -477,15 +639,6 @@
    "published": "2026-10-20T22:04:54+00:00",
    "summary": "\"I do think there's a lot of merit to combining the companies.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-500x500.jpg"
-  },
-  {
-   "title": "Costume Designer Sandy Powell to Present Film London Jarman Award – Film News in Brief",
-   "link": "https://variety.com/2026/artisans/news/film-news-in-brief-oct19-2026-1236916412/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T21:58:10+00:00",
-   "summary": "Oscar-winning costume designer Sandy Powell is set to present this year’s Film London Jarman Award on Nov. 24, where she will also be the guest of honor. Powell frequently collaborated and was mentored by Derek Jarman…",
-   "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2249400194.jpg"
   },
   {
    "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
@@ -578,15 +731,6 @@
    "image": null
   },
   {
-   "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
-   "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:52:07+00:00",
-   "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going…",
-   "image": null
-  },
-  {
    "title": "How to Watch NBA Games Online During the 2026-27 Season",
    "link": "https://www.rollingstone.com/product-recommendations/lifestyle/stream-nba-basketball-games-online-free-2026-2027-1235645716/",
    "source": "Rolling Stone",
@@ -623,33 +767,6 @@
    "image": null
   },
   {
-   "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-   "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:32:09+00:00",
-   "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring…",
-   "image": null
-  },
-  {
-   "title": "SpaceX says big AI growth fueled revenue jump",
-   "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:26:58+00:00",
-   "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\"…",
-   "image": null
-  },
-  {
-   "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-   "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:26:04+00:00",
-   "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and…",
-   "image": null
-  },
-  {
    "title": "Reporter’s Notebook: A Democratic majority could expose the limits of the progressive agenda",
    "link": "https://www.foxnews.com/politics/reporters-notebook-democratic-majority-expose-limits-progressive-agenda",
    "source": "Fox News Politics",
@@ -668,12 +785,12 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-500x500.png"
   },
   {
-   "title": "Upcoming critical PHP security release",
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
    "link": "https://news-web.php.net/php.announce/509",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T20:15:50+00:00",
-   "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 419 # Comments: 155",
+   "summary": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1069 # Comments: 442",
    "image": null
   },
   {
@@ -794,13 +911,13 @@
    "image": null
   },
   {
-   "title": "What does the UK’s approval of the Jackdaw gasfield mean?",
-   "link": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
-   "source": "The Guardian",
+   "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+   "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
    "category": "politics",
-   "published": "2026-10-20T18:58:20+00:00",
-   "summary": "Decision has implications for household energy bills, the UK economy and the climate crisis Andy Burnham faces climate revolt after approval of North Sea gas drilling About four years and six energy secretaries after it…",
-   "image": "https://i.guim.co.uk/img/media/094df060be8849be9ec24a6189e8a66e4da3eeb2/493_300_4406_3525/master/4406.jpg?width=140&quality=85&auto=format&fit=max&s=e74d86509c6e33907273ebb1539ab50f"
+   "published": "2026-10-20T18:52:32+00:00",
+   "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e7/live/61a2e960-cca6-11f1-a64c-550be9e3c66b.jpg"
   },
   {
    "title": "On the streets with Dr Oz as surprise fraud crackdown sends daycare directors scrambling",
@@ -839,15 +956,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7829/live/7174ad40-cca8-11f1-a5d0-db40ec16d9a9.jpg"
   },
   {
-   "title": "Senior Reform official cast doubt over legality of huge donations",
-   "link": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-20T18:40:15+00:00",
-   "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher…",
-   "image": "https://i.guim.co.uk/img/media/221b0a11b1f025ae0c2a5f867c25fe3f1ddc3ea2/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=af740f3052e6507fa3f068789abcfd5c"
-  },
-  {
    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
    "source": "TechCrunch",
@@ -871,7 +979,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T18:29:09+00:00",
-   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 688 # Comments: 352",
+   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 825 # Comments: 384",
    "image": null
   },
   {
@@ -925,7 +1033,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T17:25:07+00:00",
-   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 341 # Comments: 405",
+   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 416 # Comments: 488",
    "image": null
   },
   {
@@ -952,7 +1060,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T16:40:24+00:00",
-   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 309 # Comments: 68",
+   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 351 # Comments: 73",
    "image": null
   },
   {
@@ -997,7 +1105,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T16:02:07+00:00",
-   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 588 # Comments: 149",
+   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 703 # Comments: 173",
    "image": null
   },
   {
@@ -1019,12 +1127,21 @@
    "image": null
   },
   {
+   "title": "The little-known friendship between Nina Simone and Langston Hughes",
+   "link": "https://www.theguardian.com/culture/2026/oct/20/nina-simone-langston-hughes-friendship-book",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-20T15:59:39+00:00",
+   "summary": "A new book charts how a 1949 meeting between the renowned poet and the legendary musician, then a 16-year-old girl, sparked enduring ties and fruitful collaboration In 1949, the poet and writer Langston Hughes was…",
+   "image": "https://i.guim.co.uk/img/media/74fce152940f524b8225158502a5efedd253be9d/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2951381877ae60a1b7287678d4b9efc0"
+  },
+  {
    "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
    "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T15:59:06+00:00",
-   "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 240 # Comments: 144",
+   "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 288 # Comments: 165",
    "image": null
   },
   {
@@ -1053,15 +1170,6 @@
    "published": "2026-10-20T15:32:42+00:00",
    "summary": "Late-night hosts discussed Vance’s apology for ‘imperfect’ comments on immigrants, and Katie Zacharia’s brief tenure as press secretary Late-night hosts mocked JD Vance ’s apology for “imperfect” rhetoric condemning…",
    "image": "https://i.guim.co.uk/img/media/84e7163ac3de8d76a751b5463f88ea45ff7503fd/498_0_1337_1070/master/1337.jpg?width=140&quality=85&auto=format&fit=max&s=f9520add24df407ac13fc638fb94b6d2"
-  },
-  {
-   "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-   "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-20T15:32:36+00:00",
-   "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/3ebd08e0-cc97-11f1-94e6-edd4c60b2e1d.png"
   },
   {
    "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
@@ -1132,7 +1240,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T14:30:31+00:00",
-   "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 367 # Comments: 272",
+   "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 405 # Comments: 317",
    "image": null
   },
   {
@@ -1152,24 +1260,6 @@
    "published": "2026-10-20T14:13:32+00:00",
    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
    "image": null
-  },
-  {
-   "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-20T13:54:35+00:00",
-   "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg"
-  },
-  {
-   "title": "Actor Christina Applegate reveals she was misdiagnosed with multiple sclerosis",
-   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/20/christina-applegate-ms-misdiagnosed",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-20T13:51:59+00:00",
-   "summary": "The Married … With Children actor says the news is ‘unnerving’ and ‘really confusing’ Sign up for the Breaking News US newsletter email After becoming a prominent advocate for multiple sclerosis awareness and…",
-   "image": "https://i.guim.co.uk/img/media/1993dc4c42d10fad651722fa4310bca9a3d76bae/459_157_3558_2847/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=9b7ff5d3d73fe1024a39b459fb9f4345"
   },
   {
    "title": "Bush family royalty backs Democrat in battle to flip Texas blue",
@@ -1199,15 +1289,6 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ELEC26_FS_PWRRNK_GOV_MAP_1020.png?ve=1&tl=1"
   },
   {
-   "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-   "link": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-20T12:54:43+00:00",
-   "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0581/live/00144f80-cc7f-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
    "title": "DOJ sends grand jury subpoenas to Philadelphia DA Krasner after judge's referral, sources say",
    "link": "https://www.foxnews.com/politics/doj-sends-grand-jury-subpoenas-philadelphia-da-krasner-after-judges-referral-sources-say",
    "source": "Fox News Politics",
@@ -1226,15 +1307,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg"
   },
   {
-   "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
-   "link": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-20T12:00:34+00:00",
-   "summary": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically…",
-   "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=140&quality=85&auto=format&fit=max&s=3392b2ce8639d760de38c582952d2f21"
-  },
-  {
    "title": "Talarico skips Bernie Sanders rally in Texas, campaigns separately as Senate race heats up",
    "link": "https://www.foxnews.com/politics/talarico-skips-bernie-sanders-rally-texas-campaigns-separately-senate-race-heats",
    "source": "Fox News Politics",
@@ -1242,15 +1314,6 @@
    "published": "2026-10-20T11:29:54+00:00",
    "summary": "James Talarico held a Fort Worth rally while Bernie Sanders headlined a separate El Paso event promoting his Texas Senate bid against Ken Paxton.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/beto-bernie-fight-oligarchy.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
-   "link": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-20T11:28:47+00:00",
-   "summary": "The actor’s forthcoming memoir Is It Too Late to Make a Run for It? says the makers had honourable intentions but the elements ‘didn’t coalesce’ Dame Judi Dench has long made her feelings clear about Cats, the doomed…",
-   "image": "https://i.guim.co.uk/img/media/4fd511b9ad4acdeee42a4de7d5af3159b2e82425/824_119_1127_902/master/1127.jpg?width=140&quality=85&auto=format&fit=max&s=2a4b5ce8f3a3adc54c3e6f00f5bbb0a2"
   },
   {
    "title": "Jobless rate falls but small firms cut back hiring",
@@ -1280,15 +1343,6 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/trump-usa-flag.jpg?ve=1&tl=1"
   },
   {
-   "title": "‘Unguarded moments’: a lost archive of street photography – in pictures",
-   "link": "https://www.theguardian.com/artanddesign/gallery/2026/oct/20/archive-john-baer-street-photography-1940s",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-20T11:00:36+00:00",
-   "summary": "Little-known photographer John Baer captured everyday life before putting down his camera in 1954. His son discovered the images decades later after his death, and John Baer: The Extraordinary Ordinary / A Memoir in…",
-   "image": "https://i.guim.co.uk/img/media/c085d26d0f118bd79e2413f10cbda2e7e4f24ebb/270_0_9790_7827/master/9790.jpg?width=140&quality=85&auto=format&fit=max&s=a04dcfa259f213901ab3ea71243dc06d"
-  },
-  {
    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
    "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -1314,24 +1368,6 @@
    "published": "2026-10-20T10:00:43+00:00",
    "summary": "Gas prices surged 9.1% in September as consumer prices rose 3.7% annually, putting Trump's promise to lower costs to the test before midterms.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/donald-trump-affordability-econ-rally.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Ilhan Omar's sister questioned by feds after dramatic DC home raid",
-   "link": "https://www.foxnews.com/politics/ilhan-omars-sister-questioned-feds-after-dramatic-dc-home-raid",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-20T09:00:33+00:00",
-   "summary": "Ilhan Omar's older sister Sahra Noor was questioned by federal investigators in connection with the immigration fraud probe following the DHS raid.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/omar-omar-sister-split.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "‘It speaks very poorly of us as a society’: Lawrence Wright on his book on death row and redemption",
-   "link": "https://www.theguardian.com/books/2026/oct/20/lawrence-wright-book-death-row",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-20T09:00:22+00:00",
-   "summary": "The Pulitzer prize-winning writer’s new book looks at the women on death row in Texas and the nuns who have been trying to help them It is “stunning”, the Pulitzer-winning reporter Lawrence Wright said, that Redemption…",
-   "image": "https://i.guim.co.uk/img/media/8fcfa37bd2dfda1e462a79c6851087f592c4f852/199_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3b57ce34d7e291509f796507487dd622"
   },
   {
    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
@@ -1422,42 +1458,6 @@
    "published": "2026-10-19T21:56:37+00:00",
    "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
    "image": null
-  },
-  {
-   "title": "Between the coasts, populist Democrats see room to reclaim lost ground in red states",
-   "link": "https://www.npr.org/2026/10/19/nx-s1-5985862/democrats-prairie-populism-montana-sam-forstag",
-   "source": "NPR Politics",
-   "category": "politics",
-   "published": "2026-10-19T21:14:26+00:00",
-   "summary": "In parts of the Great Plains and Midwest, Democrats are betting that harnessing anger at corporate power and both parties might succeed when voters believe the economy and government are not working.",
-   "image": null
-  },
-  {
-   "title": "First minister promises to look at Welsh council powers",
-   "link": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-19T20:53:30+00:00",
-   "summary": "Plaid Cymru's leader makes pledge ahead of talks with Andy Burnham, who wants more devolution to councils.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287a/live/c0b0ae30-cbf0-11f1-bd6b-397ab98949f6.jpg"
-  },
-  {
-   "title": "Reform UK mayor investigated over naked photo claims",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-19T20:41:21+00:00",
-   "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c7/live/7757a360-cbb4-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-   "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-   "link": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-19T18:05:14+00:00",
-   "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96cc/live/9b83aa30-cb9c-11f1-bc2e-018d645d8d21.jpg"
   },
   {
    "title": "Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year",
