@@ -1,13 +1,193 @@
 {
- "updated": "2026-10-20T22:56:31.133539+00:00",
+ "updated": "2026-10-21T01:24:00.794057+00:00",
  "items": [
   {
-   "title": "Supreme Court recusals over books raise questions about policy",
-   "link": "https://www.npr.org/2026/10/20/nx-s1-6008040/supreme-court-recusals-over-books-raise-questions-about-policy",
-   "source": "NPR Politics",
+   "title": "Charli XCX Cancels ‘Music, Fashion, Film’ Show in Arizona: ‘Completely Lost My Voice’",
+   "link": "https://www.rollingstone.com/music/music-news/charli-xcx-cancels-music-fashion-film-show-arizona-illness-1235645838/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-21T01:08:10+00:00",
+   "summary": "The star said that she has been fighting an illness and had to cut her performance on Wednesday",
+   "image": null
+  },
+  {
+   "title": "The Women’s Panel: Global Rising | Billboard Latin Music Week 2026",
+   "link": "https://www.billboard.com/video/the-womens-panel-global-rising-billboard-latin-music-week/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:47:18+00:00",
+   "summary": "A conversation with the female powerhouses of Latin music from around the globe, featuring Ana Mena, Aria Vega, Greeicy, LALI, Lola Indigo and RaiNao. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at…",
+   "image": null
+  },
+  {
+   "title": "Alice Cooper’s Third Memoir Becomes No. 1 Bestseller as the Most Accurate Account of the Rock Star’s Life",
+   "link": "https://www.billboard.com/culture/product-recommendations/alice-cooper-memoir-devil-on-my-shoulder-shop-online-1236364058/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:46:35+00:00",
+   "summary": "Released Oct. 6, the “Poison” singer says 90% of the stories in his 2026 memoir are true, unlike his two earlier books.",
+   "image": null
+  },
+  {
+   "title": "Netflix Chiefs Concede That Slowdown in U.S. Viewing Sparked the Content Leadership Shakeup: ‘We’re Focusing on Execution,’ Ted Sarandos Says",
+   "link": "https://variety.com/2026/tv/news/netflix-slowdown-u-s-viewing-shakeup-bela-bajaria-dan-lin-1236918124/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T00:40:11+00:00",
+   "summary": "Netflix co-CEOs Ted Sarandos and Greg Peters nodded to slowdown in U.S. viewing and ad sales that spurred the radical shake-up of the streamer’s content leadership during Tuesday’s conversation with Wall Street analysts…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Greg-Peters-Ted-Sarandos.jpg"
+  },
+  {
+   "title": "The New Generation of Regional Mexican Music Bets on Fresh Sounds & More Personal Lyrics",
+   "link": "https://www.billboard.com/music/latin/clave-especial-regional-mexican-music-latin-music-week-1236364172/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:23:29+00:00",
+   "summary": "Clave Especial, Edgardo Núñez, Emmanuel Cortés, Hermanos Espinoza & Los Dos de Tamaulipas discussed the path to success at Billboard Latin Music Week.",
+   "image": null
+  },
+  {
+   "title": "Doechii Detonates Herself in the Desert in Explosive ‘CATWOMAN’ Video: Watch",
+   "link": "https://www.billboard.com/music/rb-hip-hop/doechii-catwoman-video-swamp-sessions-1236364134/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:15:14+00:00",
+   "summary": "The Florida rapper returned with another installment of Swamp Sessions .",
+   "image": null
+  },
+  {
+   "title": "Microagi: Accelerating Embodied AGI",
+   "link": "https://www.microagi.ai/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-21T00:11:30+00:00",
+   "summary": "Article URL: https://www.microagi.ai/ Comments URL: https://news.ycombinator.com/item?id=50174448 Points: 6 # Comments: 3",
+   "image": null
+  },
+  {
+   "title": "Superstar Q&A With Anuel AA: Premiere Party | Billboard Latin Music Week 2026",
+   "link": "https://www.billboard.com/video/superstar-qa-with-anuel-aa-premiere-party/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:01:38+00:00",
+   "summary": "Superstar Q&A with Anuel AA, in which the Latin star reveals new, unreleased music from his new album, ‘REAL HASTA LA MUERTE 2’ and some of the stories behind the new tracks. The 2026 Billboard Latin Music Week takes…",
+   "image": null
+  },
+  {
+   "title": "YouTube might be testing hiding the dislike button",
+   "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-21T00:00:56+00:00",
+   "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu…",
+   "image": null
+  },
+  {
+   "title": "Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’",
+   "link": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-21T00:00:00+00:00",
+   "summary": "Kurosawa Kiyoshi and “Ju-on” director Shimizu Takashi are among the seven filmmakers behind “Night Tales Club,” a six-part Japanese supernatural anthology series set to premiere on Disney+ and Hulu in January 2027…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Night-Tales-Club.jpg"
+  },
+  {
+   "title": "TUNEXX Is Billboard’s K-Pop Up & Comer of the Month for October: Exclusive Photos",
+   "link": "https://www.billboard.com/photos/tunexx-kpop-up-comer-october-photos-1236363572/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-21T00:00:00+00:00",
+   "summary": "Ready to make fresh waves in the global music scene through constant experimentation, TUNEXX share their story in their own words.",
+   "image": null
+  },
+  {
+   "title": "Superstar Q&A With Fuerza Regida, Moderated by Memo Ochoa | Billboard Latin Music Week 2026",
+   "link": "https://www.billboard.com/video/superstar-qa-with-fuerza-regida-moderated-by-memo-ochoa/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-20T23:48:03+00:00",
+   "summary": "The Superstar Q&A with Fuerza Regida is moderated by recently retired Mexican soccer star Guillermo “Memo” Ochoa. The artists share laughs, reflect on their respective career journeys and celebrate the cultural roots…",
+   "image": null
+  },
+  {
+   "title": "A Laptop & The Power of Manifestation: How Rawayana Envisioned Its Historic Arena Tour",
+   "link": "https://www.billboard.com/music/latin/rawayana-live-nation-panel-latin-music-week-2026-1236364156/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-20T23:33:35+00:00",
+   "summary": "\"Beto\" Montenegro and \"Fofo\" Story, together with Hans Schafer of Live Nation, delivered a masterclass at Billboard Latin Music Week.",
+   "image": null
+  },
+  {
+   "title": "Access: Horror Virtual Film Festival Sheds Light on Disability by ‘Centering Ableism as the Horror Rather Than Disability’",
+   "link": "https://variety.com/2026/film/features/access-horror-film-festival-disability-horrror-1236916976/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-20T23:32:04+00:00",
+   "summary": "When Ariel Baska traded her 15-year career teaching Latin for the film industry, they were instantly faced with a series of unexpected guardrails. “I found that all of these doors were closed to me because I could not…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/TAL_Poster.jpg"
+  },
+  {
+   "title": "Charli xcx Cancels ‘Music, Fashion, Film’ Show in Arizona Due to Illness: ‘It Breaks Me That I Can’t Be With You’",
+   "link": "https://variety.com/2026/music/news/charli-xcx-cancels-arizona-show-due-to-illness-1236918156/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-20T23:21:31+00:00",
+   "summary": "Charli xcx has announced that she has canceled tomorrow night’s “Music, Fashion, Film” performance in Arizona due to illness. The pop singer is currently on her “Music, Fashion, Film” tour across North America and…",
+   "image": "https://variety.com/wp-content/uploads/2026/05/Charli-xcx-Rock-Music-e1778233979122.jpg"
+  },
+  {
+   "title": "Golden Globes Shift ‘Michael’ Biopic From Musical/Comedy to Drama Categories for 2027 Awards",
+   "link": "https://www.billboard.com/music/awards/golden-globes-michael-biopic-moved-musical-drama-2027-1236364145/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-20T23:15:42+00:00",
+   "summary": "The film is studded with music, but does that make it a musical? The Globes said no.",
+   "image": null
+  },
+  {
+   "title": "My wife Jo Cox was murdered in her constituency in 2016. The alleged attack on Helen Haines is a punch to the gut | Brendan Cox",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/21/my-wife-jo-cox-was-murdered-in-her-constituency-in-2016-the-alleged-attack-on-helen-haines-is-a-punch-to-the-gut-ntwnfb",
+   "source": "The Guardian",
    "category": "politics",
-   "published": "2026-10-20T22:38:37+00:00",
-   "summary": "A publishing dispute has highlighted the issue of recusals by Supreme Court justices. We take a look at the court's policy and its impact.",
+   "published": "2026-10-20T23:11:35+00:00",
+   "summary": "Moments like these can reinforce our divisions or remind us of what we stand to lose when hatred and intimidation are allowed to brutalise our democracy It’s never a good sign when you turn on your phone to find a dozen…",
+   "image": "https://i.guim.co.uk/img/media/4da4289147d50648252159d2362d497ea1891f26/486_0_4319_3456/master/4319.jpg?width=140&quality=85&auto=format&fit=max&s=e46ab51e3a5bf2bda6400ee950d4a99a"
+  },
+  {
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-20T23:04:19+00:00",
+   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by…",
+   "image": null
+  },
+  {
+   "title": "The Other Epidemic: Trying to get off benzodiazepines",
+   "link": "https://www.thebeliever.net/the-other-epidemic/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-20T23:04:09+00:00",
+   "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 54 # Comments: 30",
+   "image": null
+  },
+  {
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-20T23:01:23+00:00",
+   "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "image": null
+  },
+  {
+   "title": "SpaceX and Tesla boards form special committees to review merger",
+   "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-20T22:57:57+00:00",
+   "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
    "image": null
   },
   {
@@ -29,21 +209,21 @@
    "image": null
   },
   {
-   "title": "Lil Baby Announces ‘Fresh’ Album Release Date & Track List Featuring Young Thug & Future",
-   "link": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-album-release-date-track-list-young-thug-1236364074/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T22:26:59+00:00",
-   "summary": "Baby topped the Billboard 200 with his WHAM album back in January 2025.",
-   "image": null
-  },
-  {
    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "source": "TechCrunch",
    "category": "tech",
    "published": "2026-10-20T22:24:02+00:00",
    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "image": null
+  },
+  {
+   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+   "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-20T22:21:05+00:00",
+   "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 84 # Comments: 21",
    "image": null
   },
   {
@@ -92,24 +272,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-500x500.jpg"
   },
   {
-   "title": "How’s Rod Stewart Doing After Canceling His Tour Due to Heart Procedure: ‘F—ing Brilliant’",
-   "link": "https://www.billboard.com/music/music-news/rod-stewart-health-update-canceled-tour-heart-procedure-1236364078/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T22:03:56+00:00",
-   "summary": "The rocker is planning to return to the stage next year for one last farewell tour, with dates set for April through July 2027.",
-   "image": null
-  },
-  {
-   "title": "Kroger and LG Sued for Allegedly Using Dog-Themed ‘Cheese Tax’ TikTok Song Without Licenses",
-   "link": "https://www.billboard.com/pro/kroger-lg-lawsuits-viral-tiktok-cheese-tax-dog-song/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:58:47+00:00",
-   "summary": "It's become common in recent years for music rights holders to take legal action over synchs on corporate social media accounts.",
-   "image": null
-  },
-  {
    "title": "Costume Designer Sandy Powell to Present Film London Jarman Award – Film News in Brief",
    "link": "https://variety.com/2026/artisans/news/film-news-in-brief-oct19-2026-1236916412/",
    "source": "Variety",
@@ -117,15 +279,6 @@
    "published": "2026-10-20T21:58:10+00:00",
    "summary": "Oscar-winning costume designer Sandy Powell is set to present this year’s Film London Jarman Award on Nov. 24, where she will also be the guest of honor. Powell frequently collaborated and was mentored by Derek Jarman…",
    "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2249400194.jpg"
-  },
-  {
-   "title": "Anuel AA Reveals He’s Dropping an All-Corridos Album Along With ‘RHLM 2’: Everything We Know",
-   "link": "https://www.billboard.com/music/latin/anuel-aa-new-album-premiere-party-latin-music-week-2026-1236362394/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:56:38+00:00",
-   "summary": "The Puerto Rican trap star teased new music at the 2026 Billboard Latin Music Week.",
-   "image": null
   },
   {
    "title": "‘Princess Diaries’ Actor Erik von Detten Accused of Elder Abuse and Fraud in Gold Scheme",
@@ -155,15 +308,6 @@
    "image": null
   },
   {
-   "title": "The Criterion Collection Drops ‘The Complete Kubrick’: Here’s Where to Shop the Box Set Online",
-   "link": "https://www.billboard.com/culture/product-recommendations/the-complete-kubrick-criterion-collection-buy-shop-online-1236363705/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:35:45+00:00",
-   "summary": "The 30-disc Blu-ray box set comes with 13 of the director's feature films, plus loads of bonus features.",
-   "image": null
-  },
-  {
    "title": "Music Industry Moves: Barbara Cane, BMI’s VP of Worldwide Creative, to Retire After Five Decades",
    "link": "https://variety.com/2026/music/news/barbara-cane-retire-bmi-five-decades-1236918072/",
    "source": "Variety",
@@ -171,15 +315,6 @@
    "published": "2026-10-20T21:35:44+00:00",
    "summary": "After a five-decade career with BMI, Barbara Cane has announced that she will retire from the company at the end of this year. While she is leaving her current role as BMI’s Vice President of Worldwide Creative, Cane…",
    "image": "https://variety.com/wp-content/uploads/2026/10/BarbaraCanePreferred.jpg"
-  },
-  {
-   "title": "Salsa Revival: Bridging Generations | Billboard Latin Music Week 2026",
-   "link": "https://www.billboard.com/video/salsa-revival-bridging-generations-latin-music-week-2026/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:33:59+00:00",
-   "summary": "This is sponsored content. Salsa’s revival by bridging generations with Tito Nieves and Luis Figueroa presented by AARP. The 2026 Billboard Latin Music Week takes place from Oct. 19-22 at the Faena Forum Miami Beach…",
-   "image": null
   },
   {
    "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
@@ -198,15 +333,6 @@
    "published": "2026-10-20T21:30:00+00:00",
    "summary": "The word disruptor is a vividly descriptive one, and it’s almost always applied to an individual. But it doesn’t have to be. Take the rule-busting, category-smashing…",
    "image": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp"
-  },
-  {
-   "title": "Cardi B Says She’s ‘Very Scared’ to Get Another Boob Job: ‘These Kids Done F—ed My Sh–s Up’",
-   "link": "https://www.billboard.com/music/rb-hip-hop/cardi-b-boob-job-surgery-scared-1236364005/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:30:00+00:00",
-   "summary": "The mother of four previously said she last went under the knife in 2024.",
-   "image": null
   },
   {
    "title": "Roseanne Barr ‘Met a Lot of Resistance Casting Black Actors’ for New Show",
@@ -236,15 +362,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/0c34cc90-ccc0-11f1-b943-5f5800ec2246.png"
   },
   {
-   "title": "Reparto: Cuba’s Modern-Day Soundscape | Billboard Latin Music Week 2026",
-   "link": "https://www.billboard.com/video/reparto-cubas-modern-day-sound-billboard-latin-music-week/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:16:44+00:00",
-   "summary": "Presented by EMM, Rami Records and Plus Media. Bebeshito, DJ Conds, Helabusador & Rey Tony and Wow Popy share how they’ve taken on the lead of spreading Reparto. The 2026 Billboard Latin Music Week takes place from Oct…",
-   "image": null
-  },
-  {
    "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
    "link": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
    "source": "The Guardian Culture",
@@ -252,15 +369,6 @@
    "published": "2026-10-20T21:16:23+00:00",
    "summary": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim…",
    "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=f4e0cc0d85e781218d9d52b35d9e2421"
-  },
-  {
-   "title": "Film and Music | Billboard Latin Music Week 2026",
-   "link": "https://www.billboard.com/video/film-and-music-billboard-latin-music-week/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-20T21:16:13+00:00",
-   "summary": "Singer Tokischa, Actor Carlos Sanson Jr. and Scott Budnick, CEO, 1Community, Film and Television Producer, explore the intersection of film and music in Latin storytelling. Moderated by Rebeca León, CEO, Lionfish…",
-   "image": null
   },
   {
    "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
@@ -322,7 +430,7 @@
    "source": "Variety",
    "category": "pop",
    "published": "2026-10-20T20:45:15+00:00",
-   "summary": "The music of “Michael” is bringing some drama. Variety has confirmed that Lionsgate’s bid to have its Michael Jackson biopic compete as a comedy or musical at the Golden Globes has been denied. The Golden Globes’…",
+   "summary": "The music of “Michael” is bringing some drama. Variety has confirmed that Lionsgate’s bid to have its Michael Jackson biopic compete as a comedy or musical at the Golden Globes has been denied. News of the decision was…",
    "image": "https://variety.com/wp-content/uploads/2026/04/MCDMICH_LG028.jpg"
   },
   {
@@ -362,15 +470,6 @@
    "image": null
   },
   {
-   "title": "‘NCIS: Origins’ Producer on the Show’s Historic Mark Harmon/Michael Weatherly Reunion: ‘It Was a Special Day in My Life, Seeing That Happen After a Decade’",
-   "link": "https://variety.com/2026/tv/news/ncis-origins-mark-harmon-michael-weatherly-reunion-producer-1236917961/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T20:30:35+00:00",
-   "summary": "When the characters of Jethro Gibbs and Tony DiNozzo reunite for the first time in a decade in Tuesday night’s episode of “NCIS: Origins,” there will be no head slaps — something that may disappoint a few original…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/3245384_NCOR_S3_0855b.jpg"
-  },
-  {
    "title": "SpaceX says big AI growth fueled revenue jump",
    "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
    "source": "The Verge",
@@ -405,33 +504,6 @@
    "published": "2026-10-20T20:20:12+00:00",
    "summary": "A lifetime ad-free subscription is available.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-500x500.png"
-  },
-  {
-   "title": "TikTok has started censoring searches for popular peptides",
-   "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:16:04+00:00",
-   "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility…",
-   "image": null
-  },
-  {
-   "title": "Netflix Q3 Revenue Meets Wall Street Estimates, Forecasts Q4 Slowdown and Says It Will Miss Ad Sales Target for the Year",
-   "link": "https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T20:13:23+00:00",
-   "summary": "Netflix’s third-quarter 2026 earnings met revenue expectations and it slightly beat on the bottom line. But the streamer faces an urgent need to refresh its queue: Revenue growth in the period slowed to its lowest rate…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Netflix-Los-Angeles-Offices.jpg"
-  },
-  {
-   "title": "‘American Horror Story’ Renewed for Season 14",
-   "link": "https://variety.com/2026/tv/news/american-horror-story-renewed-season-14-1236917963/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T20:10:35+00:00",
-   "summary": "“American Horror Story” has been renewed for its 14th season at FX. The news comes ahead of the Oct. 29 finale of Season 13, which reunites franchise legends Jessica Lange, Sarah Paulson, Evan Peters, Angela Bassett…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/AHS-PENTHOUSE_ep1310_00222_r.jpg"
   },
   {
    "title": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts",
@@ -470,15 +542,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-500x500.png"
   },
   {
-   "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-   "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-20T20:00:00+00:00",
-   "summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion…",
-   "image": null
-  },
-  {
    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
    "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
    "source": "TechCrunch",
@@ -497,15 +560,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-500x198.png"
   },
   {
-   "title": "On AI writing",
-   "link": "https://www.bolkunov.com/p/on-ai-writing",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-20T19:55:11+00:00",
-   "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 72 # Comments: 35",
-   "image": null
-  },
-  {
    "title": "Vance reveals the Trump dilemma that could complicate his 2028 White House ambitions",
    "link": "https://www.foxnews.com/politics/vance-reveals-trump-dilemma-complicate-2028-white-house-ambitions",
    "source": "Fox News Politics",
@@ -513,15 +567,6 @@
    "published": "2026-10-20T19:49:27+00:00",
    "summary": "JD Vance says he believes Trump would endorse him for the 2028 presidential election but admits he hasn't actually discussed a potential run.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Donald-Trump-JD-Vance-Midterm-Convention-Dallas-Sept.-10_-2026.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Keanu Reeves in Talks to Star in James Wan’s ‘The Gangster, The Cop, The Devil’ at Paramount",
-   "link": "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-20T19:48:02+00:00",
-   "summary": "Keanu Reeves is in talks to team with James Wan for the filmmaker’s latest project, “The Gangster, The Cop, The Devil” at Paramount Pictures. The Paramount Pictures movie reimagines the 2019 Korean action-crime thriller…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Keanu-Reeves_PC_Brian-Bowen-Smith-1.jpeg"
   },
   {
    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
@@ -592,7 +637,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T18:51:40+00:00",
-   "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 44 #…",
+   "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 119 #…",
    "image": null
   },
   {
@@ -682,16 +727,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T18:29:09+00:00",
-   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 400 # Comments: 219",
-   "image": null
-  },
-  {
-   "title": "Bill Kreutzmann Plans ‘A Very Grateful Thanksgiving’ in Hawaii",
-   "link": "https://www.rollingstone.com/music/music-news/bill-kreutzmann-a-very-grateful-thanksgiving-in-hawaii-1235645523/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-20T18:27:57+00:00",
-   "summary": "The event featuring Gillian Welch and David Rawlings, Holly Bowling, and others, will “be a coming together of the Deadhead community,” the drummer tells Rolling Stone",
+   "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 542 # Comments: 287",
    "image": null
   },
   {
@@ -749,15 +785,6 @@
    "image": "https://i.guim.co.uk/img/media/a1300a7434278bbdac6f10899814a6b68460510d/442_0_5263_4210/master/5263.jpg?width=140&quality=85&auto=format&fit=max&s=47d0996d996c960433687877cea0c521"
   },
   {
-   "title": "Claude designed protein binders against scorpion neurotoxins",
-   "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-20T17:48:29+00:00",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 70 # Comments: 38",
-   "image": null
-  },
-  {
    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
    "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
    "source": "Ars Technica",
@@ -781,7 +808,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T17:25:07+00:00",
-   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 187 # Comments: 259",
+   "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 256 # Comments: 321",
    "image": null
   },
   {
@@ -794,12 +821,21 @@
    "image": null
   },
   {
-   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "link": "https://research.poh.org/bot-benchmarking-2026/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-20T17:10:31+00:00",
+   "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 24 # Comments: 0",
+   "image": null
+  },
+  {
+   "title": "Nige seems tired and bored of himself as Kemi conjures a telepathic budget | John Crace",
    "link": "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
    "source": "The Guardian",
    "category": "politics",
    "published": "2026-10-20T16:56:33+00:00",
-   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits UK politics live – latest updates If you’re worried about next week’s budget, then now is your time to chill out…",
+   "summary": "The Tory leader has glimpsed the future and it involves Labour putting every last UK citizen on benefits If you’re worried about next week’s budget, then now is your time to chill out. Because Kemi Badenoch has all the…",
    "image": "https://i.guim.co.uk/img/media/5781badff0f1297c91922296cea510e80431ad3e/337_0_4733_3786/master/4733.jpg?width=140&quality=85&auto=format&fit=max&s=5c4e06325de1591f31014aa55da36db4"
   },
   {
@@ -817,7 +853,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T16:40:24+00:00",
-   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 217 # Comments: 51",
+   "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 257 # Comments: 63",
    "image": null
   },
   {
@@ -862,7 +898,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T16:02:07+00:00",
-   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 465 # Comments: 128",
+   "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 522 # Comments: 140",
    "image": null
   },
   {
@@ -889,7 +925,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T15:59:06+00:00",
-   "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 136 # Comments: 88",
+   "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 185 # Comments: 113",
    "image": null
   },
   {
@@ -916,7 +952,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T15:42:45+00:00",
-   "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 120 # Comments: 37",
+   "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 137 # Comments: 50",
    "image": null
   },
   {
@@ -970,7 +1006,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T15:06:08+00:00",
-   "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 393 # Comments: 351",
+   "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 414 # Comments: 374",
    "image": null
   },
   {
@@ -1024,7 +1060,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T14:30:31+00:00",
-   "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 286 # Comments: 196",
+   "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 329 # Comments: 250",
    "image": null
   },
   {
@@ -1042,7 +1078,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T14:13:49+00:00",
-   "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 146 # Comments: 39",
+   "summary": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 166 # Comments: 47",
    "image": null
   },
   {
@@ -1060,7 +1096,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T13:58:33+00:00",
-   "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 532 # Comments: 286",
+   "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 623 # Comments: 338",
    "image": null
   },
   {
@@ -1078,7 +1114,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T13:53:48+00:00",
-   "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 141 # Comments: 66",
+   "summary": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 161 # Comments: 82",
    "image": null
   },
   {
@@ -1096,7 +1132,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T13:39:24+00:00",
-   "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 290 # Comments: 70",
+   "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 318 # Comments: 76",
    "image": null
   },
   {
@@ -1123,43 +1159,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-20T13:18:07+00:00",
-   "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 316 # Comments: 144",
-   "image": null
-  },
-  {
-   "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-   "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-20T13:17:36+00:00",
-   "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-   "image": null
-  },
-  {
-   "title": "Jepsen: Orkes Conductor 5.3.2",
-   "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-20T13:14:39+00:00",
-   "summary": "Article URL: https://jepsen.io/analyses/orkes-conductor-5.3.2 Comments URL: https://news.ycombinator.com/item?id=50165904 Points: 48 # Comments: 1",
-   "image": null
-  },
-  {
-   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-20T13:07:24+00:00",
-   "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-   "image": null
-  },
-  {
-   "title": "Publish fake stats, get cited in LLMs",
-   "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-20T13:06:22+00:00",
-   "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 304 # Comments: 176",
+   "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 344 # Comments: 167",
    "image": null
   },
   {
