@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-23T23:19:30.496646+00:00",
+ "updated": "2026-10-24T01:48:48.324608+00:00",
  "items": [
+  {
+   "title": "Ken Atchity, ‘The Meg’ Producer and Literary Agent, Dies at 82",
+   "link": "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-24T00:59:59+00:00",
+   "summary": "Kenneth Atchity, “The Meg” producer and literary agent, died on Monday. He was 82. Across his career as a literary manager, producer and writer, Atchity produced more than 30 films; wrote over 20 books; negotiated…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/27d7a293-0c76-4aad-932d-016a319a80c4.jpeg"
+  },
+  {
+   "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
+   "link": "https://www.billboard.com/pro/summer-walker-bebe-rexha-billboard-canada-women-in-music/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-24T00:40:41+00:00",
+   "summary": "Also this week: Drake finances a new album for a Canadian rapper and Tate McRae's Victoria's Secret performance draws criticism.",
+   "image": null
+  },
+  {
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-24T00:05:45+00:00",
+   "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+  },
+  {
+   "title": "The Best Noise-Canceling Headphones of 2026, Tested",
+   "link": "https://www.rollingstone.com/product-recommendations/tech/best-noise-canceling-headphones-1235398146/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-23T23:48:05+00:00",
+   "summary": "From tried-and-true models to manufacturers that may not be on your radar, these are the best ANC headphones right now",
+   "image": null
+  },
+  {
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-23T23:30:17+00:00",
+   "summary": "Article URL…",
+   "image": null
+  },
+  {
+   "title": "Andy Bloke appears vaguely normal on Gogglebox – but Kemi dodged a bullet",
+   "link": "https://www.theguardian.com/politics/2026/oct/24/andy-bloke-appears-vaguely-normal-on-gogglebox-but-kemi-dodged-a-bullet",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-23T23:16:33+00:00",
+   "summary": "PM and the Liverpool mayor prove to be naturals at watching TV, with a genuine connection and sense of fun On nights like this a man can feel like he’s slipped through the looking-glass. I’m sitting on the sofa watching…",
+   "image": "https://i.guim.co.uk/img/media/24bdbea1925f78d8476fa224060d24228135ed3f/614_0_4334_3467/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=13bdc77300d80d65d4d0cfd06d8859c9"
+  },
   {
    "title": "Startups don’t need to go viral to win customers",
    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
@@ -53,6 +107,15 @@
    "category": "pop",
    "published": "2026-10-23T22:32:09+00:00",
    "summary": "Hila Klein, who co-hosts H3 Podcast with her husband, accused him of having an over six-month-long affair with an unnamed person",
+   "image": null
+  },
+  {
+   "title": "German court calls Google aerial imagery 'spying'",
+   "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-23T22:18:49+00:00",
+   "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 11",
    "image": null
   },
   {
@@ -124,7 +187,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T21:21:47+00:00",
-   "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 52 # Comments: 5",
+   "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 100 # Comments: 38",
    "image": null
   },
   {
@@ -232,16 +295,16 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T20:38:06+00:00",
-   "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 17 # Comments: 11",
+   "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 26",
    "image": null
   },
   {
-   "title": "A whirlwind tour of systemd-nspawn containers",
+   "title": "A whirlwind tour of systemd-nspawn containers (2025)",
    "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T20:37:12+00:00",
-   "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 18 # Comments: 2",
+   "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 32 # Comments: 6",
    "image": null
   },
   {
@@ -270,15 +333,6 @@
    "published": "2026-10-23T20:20:45+00:00",
    "summary": "Believe the hype. “Wicker,” now in theaters, is every bit as horny, romantic and wonderful as the trailer leads you to believe. Olivia Colman plays a spinster fisherwoman in a medieval community where marriage is what…",
    "image": "https://variety.com/wp-content/uploads/2026/10/W_R_00006-1.jpg"
-  },
-  {
-   "title": "KATSEYE’s Daniela Is Showing Fans a New Side of Herself: ‘There’s Still So Much of Me I Want People to Get to Know’",
-   "link": "https://www.billboard.com/culture/product-recommendations/katseye-daniela-lounge-campaign-interview-oct-2026-buy-1236367361/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-23T20:20:36+00:00",
-   "summary": "The singer opens up about her new Lounge fashion campaign, reuniting with Sophia Laforteza and finding her voice.",
-   "image": null
   },
   {
    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
@@ -340,7 +394,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T19:50:56+00:00",
-   "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 54 # Comments: 61",
+   "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 73 # Comments: 89",
    "image": null
   },
   {
@@ -358,16 +412,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T19:42:01+00:00",
-   "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 27 # Comments: 6",
-   "image": null
-  },
-  {
-   "title": "We are all living inside of an obscure sci-fi film from 1970",
-   "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-23T19:41:59+00:00",
-   "summary": "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/ Comments URL: https://news.ycombinator.com/item?id=50214323 Points: 86 # Comments: 80",
+   "summary": "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 37 # Comments: 8",
    "image": null
   },
   {
@@ -457,7 +502,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T19:09:54+00:00",
-   "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 160 # Comments: 63",
+   "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 225 # Comments: 96",
    "image": null
   },
   {
@@ -479,21 +524,12 @@
    "image": null
   },
   {
-   "title": "Zendaya Sets ‘Dune 3’ Oscar Campaign for Best Actress in Category Shake-Up (EXCLUSIVE)",
-   "link": "https://variety.com/2026/film/awards/zendaya-oscars-dune-3-best-actress-1236918133/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-23T19:02:02+00:00",
-   "summary": "Zendaya is “Dune’s” leading lady. Multiple sources tell Variety that Zendaya will campaign for Oscar consideration in the lead actress category for her role as Chani in “Dune: Part Three,” the final chapter of Denis…",
-   "image": "https://variety.com/wp-content/uploads/2026/03/zendaya-dune-3-1.jpg"
-  },
-  {
    "title": "DNS: A Replacement for Finger",
    "link": "https://altchan.org/sh/42",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T19:00:04+00:00",
-   "summary": "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 15 # Comments: 14",
+   "summary": "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 24 # Comments: 19",
    "image": null
   },
   {
@@ -503,15 +539,6 @@
    "category": "pop",
    "published": "2026-10-23T18:57:47+00:00",
    "summary": "“Because of this, I am forced to cancel the remaining U.K./EU dates to avoid permanent damage to my voice,” singer writes",
-   "image": null
-  },
-  {
-   "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
-   "link": "https://github.com/clashman/caffeinate-plus",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-23T18:54:01+00:00",
-   "summary": "Article URL: https://github.com/clashman/caffeinate-plus Comments URL: https://news.ycombinator.com/item?id=50213717 Points: 8 # Comments: 7",
    "image": null
   },
   {
@@ -583,7 +610,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T17:40:22+00:00",
-   "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 57 # Comments: 16",
+   "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 65 # Comments: 25",
    "image": null
   },
   {
@@ -594,15 +621,6 @@
    "published": "2026-10-23T17:37:14+00:00",
    "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote.",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/7d8b2860-cecf-11f1-8507-45cb00a1c41c.jpg"
-  },
-  {
-   "title": "Chappell Roan Concludes Benefit Shows With Surprise Duets Featuring PinkPantheress, Lola Young",
-   "link": "https://www.rollingstone.com/music/music-news/chappell-roan-performance-pinkpantheress-lola-young-1235647178/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-23T17:35:44+00:00",
-   "summary": "Roan also joined Caroline Polachek to perform “Look at Me Now,” after kicking off the two-night run with a special Christina Aguilera-assisted duet",
-   "image": null
   },
   {
    "title": "Elon Musk’s dangerous grip on outer space",
@@ -637,7 +655,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T17:28:36+00:00",
-   "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 42 # Comments: 57",
+   "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 59 # Comments: 93",
    "image": null
   },
   {
@@ -668,21 +686,12 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-500x500.jpg"
   },
   {
-   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-   "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-23T17:15:03+00:00",
-   "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 107 # Comments: 67",
-   "image": null
-  },
-  {
    "title": "Animations for System Builders",
    "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T17:02:24+00:00",
-   "summary": "Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 26 # Comments: 3",
+   "summary": "Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 34 # Comments: 3",
    "image": null
   },
   {
@@ -790,7 +799,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T16:39:45+00:00",
-   "summary": "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 97 # Comments: 83",
+   "summary": "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 111 # Comments: 94",
    "image": null
   },
   {
@@ -799,7 +808,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T16:38:35+00:00",
-   "summary": "Article URL: https://isaacmarovitz.com/posts/sonic-06/ Comments URL: https://news.ycombinator.com/item?id=50211729 Points: 55 # Comments: 14",
+   "summary": "Article URL: https://isaacmarovitz.com/posts/sonic-06/ Comments URL: https://news.ycombinator.com/item?id=50211729 Points: 59 # Comments: 18",
    "image": null
   },
   {
@@ -835,7 +844,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T16:21:50+00:00",
-   "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 680 # Comments: 452",
+   "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 742 # Comments: 500",
    "image": null
   },
   {
@@ -862,7 +871,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-23T15:56:06+00:00",
-   "summary": "Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 15 # Comments: 58",
+   "summary": "Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 23 # Comments: 76",
    "image": null
   },
   {
@@ -1035,6 +1044,15 @@
    "published": "2026-10-23T12:38:44+00:00",
    "summary": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph? This weekend, the identity of the next…",
    "image": "https://i.guim.co.uk/img/media/6afdddbdf1497e7b3c968daff33d3ed06120f174/0_55_4000_3197/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=7089fa1c132959c9200481c046bfc928"
+  },
+  {
+   "title": "Apple Music 404 Not Found",
+   "link": "https://music.apple.com/this-url-doesnt-exist",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-23T12:28:47+00:00",
+   "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 583 # Comments: 190",
+   "image": null
   },
   {
    "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
@@ -1476,24 +1494,6 @@
    "published": "2026-10-22T21:10:46+00:00",
    "summary": "President Donald Trump's Clemson rally revealed GOP fractures over the Iran war, funding and immigration as one student eyes crossing party lines.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sc-rallygoers.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Singham-linked nonprofits defy House ultimatum, blast 'MAGA-led witch hunt'",
-   "link": "https://www.foxnews.com/politics/singham-linked-nonprofits-defy-house-ultimatum-blast-maga-led-witch-hunt",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-22T21:09:18+00:00",
-   "summary": "The People's Forum and BreakThrough News rejected House Ways and Means Committee demands, accusing Jason Smith's probe of violating First Amendment rights.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Neville-Roy-Singham-US-Capitol-Congressional-Probe.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Hegseth unleashes Trump's 'Arsenal of Freedom' with warning to defense giants",
-   "link": "https://www.foxnews.com/politics/hegseth-unleashes-trumps-arsenal-freedom-warning-defense-giants",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-22T21:08:44+00:00",
-   "summary": "Pete Hegseth's video showcases missile launches and production lines as the Trump administration's \"Arsenal of Freedom\" campaign targets Pentagon red tape.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/secofwar.gif"
   },
   {
    "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
