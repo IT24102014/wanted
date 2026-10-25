@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-25T03:26:01.338962+00:00",
+ "updated": "2026-10-25T08:39:30.219856+00:00",
  "items": [
+  {
+   "title": "Iran’s oil lifeline is drying up. The biggest pain may fall on ordinary citizens",
+   "link": "https://www.foxnews.com/politics/irans-oil-lifeline-drying-up-biggest-pain-may-fall-ordinary-citizens",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-25T08:00:09+00:00",
+   "summary": "Iran's floating oil inventory has fallen to zero as the U.S. naval blockade tightens, but the IRGC may be shielded while civilians bear the pain.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Iranian-Leaders.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-25T06:00:54+00:00",
+   "summary": "The story of the emirates’ presence in Manchester winds from the Arab Spring to some of the most deprived places in England – with complicated results Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in 10…",
+   "image": "https://i.guim.co.uk/img/media/5d18e78d301848ee476161295fad0e090dc4951a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=aa692421b6e86f4c985261ebb1239290"
+  },
+  {
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-25T06:00:15+00:00",
+   "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "Macklemore Speaks Out on Palestine and ICE at First Show Since Ed Sheeran Tour Exit",
+   "link": "https://www.billboard.com/music/music-news/macklemore-free-palestine-red-rocks-ed-sheeran-tour-exit-1236367576/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-25T05:26:30+00:00",
+   "summary": "During a 17-song set at Colorado’s Red Rocks Amphitheatre, the rapper paused the show to address the crowd.",
+   "image": null
+  },
+  {
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "link": "https://github.com/slee-persis/GVS5H",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-25T03:56:01+00:00",
+   "summary": "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 151 # Comments: 49",
+   "image": null
+  },
+  {
+   "title": "Soccer Drama ‘Forza,’ With AC Milan Great Alessandro Costacurta, Heads to Tokyo Market With EST N8 (EXCLUSIVE)",
+   "link": "https://variety.com/2026/film/news/soccer-drama-forza-ac-milan-alessandro-costacurta-tokyo-market-est-n8-1236930538/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-25T03:32:14+00:00",
+   "summary": "“Forza,” Marco Balsamo’s soccer drama shot between Bali and Milan, has been picked up for international sales by EST N8, which will take the film to the Tokyo International Film Festival’s TIFFCOM market (Oct. 28–30)…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Forza.jpg"
+  },
   {
    "title": "‘KPop Demon Hunters,’ ‘Squid Game’ Stars Fete Netflix’s Korea Decade as Ted Sarandos Teases ‘Tantara,’ ‘All of Us Are Dead’ Season 2",
    "link": "https://variety.com/2026/tv/news/kpop-demon-hunters-squid-game-stars-netflix-korea-decade-1236930528/",
@@ -29,15 +83,6 @@
    "image": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg"
   },
   {
-   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-   "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-25T02:18:35+00:00",
-   "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.ycombinator.com/item?id=50227639 Points: 14 # Comments: 4",
-   "image": null
-  },
-  {
    "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
    "link": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -52,7 +97,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-25T01:33:49+00:00",
-   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 10 # Comments: 4",
+   "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 136 # Comments: 44",
    "image": null
   },
   {
@@ -101,21 +146,12 @@
    "image": "https://variety.com/wp-content/uploads/2026/09/You-Can-See-everything.jpg"
   },
   {
-   "title": "FindMyWeb: Apple Find My, reverse enginiered",
-   "link": "https://codeberg.org/Misom/FindMyWeb",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-24T23:42:52+00:00",
-   "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 27 # Comments: 7",
-   "image": null
-  },
-  {
    "title": "Why Gopher in 2026?",
    "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T23:33:19+00:00",
-   "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 38 # Comments: 9",
+   "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 72 # Comments: 21",
    "image": null
   },
   {
@@ -124,7 +160,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T23:11:54+00:00",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 211 # Comments: 194",
+   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 335 # Comments: 328",
    "image": null
   },
   {
@@ -196,7 +232,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T21:47:31+00:00",
-   "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 233 # Comments: 193",
+   "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 368 # Comments: 318",
    "image": null
   },
   {
@@ -205,7 +241,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T21:44:23+00:00",
-   "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 52 # Comments: 5",
+   "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 100 # Comments: 7",
    "image": null
   },
   {
@@ -214,7 +250,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T21:42:47+00:00",
-   "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 34 # Comments: 10",
+   "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 60 # Comments: 16",
    "image": null
   },
   {
@@ -243,15 +279,6 @@
    "published": "2026-10-24T21:29:12+00:00",
    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost…",
    "image": null
-  },
-  {
-   "title": "‘SNL U.K.’ Cold Open Spoofs Andy Burnham on ‘Gogglebox,’ Prince William on ‘The Graham Norton Show,’ ‘The Celebrity Traitors’ and More",
-   "link": "https://variety.com/2026/tv/global/snl-uk-cold-open-prince-william-graham-norton-show-1236930390/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-24T21:28:27+00:00",
-   "summary": "“SNL U.K.” ran down the week in TV during its cold open, through the lens of Prime Minister Andy Burnham’s recent appearance on “Celebrity Gogglebox.” Burnham, played by George Fouracres, featured on the show with…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/snl-prince-william-graham-norton.jpg"
   },
   {
    "title": "Starlink seems to be working normally again in Ukraine",
@@ -290,15 +317,6 @@
    "image": null
   },
   {
-   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-   "link": "https://missileer.watch",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-24T19:43:27+00:00",
-   "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 137 # Comments: 86",
-   "image": null
-  },
-  {
    "title": "Jay-Z Brings Out Blue Ivy, John Legend, DJ Khaled & Scarface in Los Angeles",
    "link": "https://www.billboard.com/music/rb-hip-hop/jay-z-la-night-one-guests-blue-ivy-john-legend-scarface-1236367544/",
    "source": "Billboard",
@@ -313,7 +331,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T19:19:43+00:00",
-   "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 93 # Comments: 12",
+   "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 134 # Comments: 24",
    "image": null
   },
   {
@@ -322,7 +340,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T19:06:55+00:00",
-   "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 275 # Comments: 179",
+   "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 364 # Comments: 239",
    "image": null
   },
   {
@@ -367,7 +385,16 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T18:22:14+00:00",
-   "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 64 # Comments: 10",
+   "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 105 # Comments: 10",
+   "image": null
+  },
+  {
+   "title": "Why is AI generated language so hard to understand?",
+   "link": "https://arxiv.org/abs/2610.29162",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-24T18:04:57+00:00",
+   "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 191 # Comments: 166",
    "image": null
   },
   {
@@ -412,7 +439,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T16:41:55+00:00",
-   "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 99 # Comments: 32",
+   "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 114 # Comments: 36",
    "image": null
   },
   {
@@ -448,7 +475,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T16:06:26+00:00",
-   "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 269 # Comments: 184",
+   "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 285 # Comments: 196",
    "image": null
   },
   {
@@ -466,16 +493,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T15:57:17+00:00",
-   "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 96 # Comments: 34",
-   "image": null
-  },
-  {
-   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-   "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-24T15:35:17+00:00",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 38 # Comments: 28",
+   "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 104 # Comments: 37",
    "image": null
   },
   {
@@ -493,7 +511,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T15:20:01+00:00",
-   "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 262 # Comments: 65",
+   "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 285 # Comments: 73",
    "image": null
   },
   {
@@ -808,7 +826,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T09:58:27+00:00",
-   "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 197 # Comments: 63",
+   "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 236 # Comments: 71",
    "image": null
   },
   {
@@ -817,7 +835,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-24T09:53:26+00:00",
-   "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 289 # Comments: 220",
+   "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 309 # Comments: 244",
    "image": null
   },
   {
@@ -884,6 +902,15 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/marco-rubio-us-embassy-new-delhi-fox-news-001.jpeg?ve=1&tl=1"
   },
   {
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-24T08:06:39+00:00",
+   "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 304 # Comments: 151",
+   "image": null
+  },
+  {
    "title": "A New England city was transformed by refugees; now, it faces a youth gun violence crisis: 'Fear for my life'",
    "link": "https://www.foxnews.com/politics/new-england-city-transformed-refugees-now-faces-youth-gun-violence-crisis-fear-my-life",
    "source": "Fox News Politics",
@@ -945,6 +972,15 @@
    "published": "2026-10-24T06:00:25+00:00",
    "summary": "In his rogue new travelogue, the Hollywood star tees off, has drunken pub singalongs – but mostly just proves how tired he is of fame I’m suspicious of travelogues, which often feature celebrities in contrived…",
    "image": "https://i.guim.co.uk/img/media/5f817c71b4e8d94203aa84957030a785148de3d3/574_0_3010_2410/master/3010.jpg?width=140&quality=85&auto=format&fit=max&s=078374883513d5fd38e675cfcd00d702"
+  },
+  {
+   "title": "How close can pure functional programming get to C?",
+   "link": "https://rtfeldman.com/fp-vs-c",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-24T03:43:54+00:00",
+   "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 268 # Comments: 92",
+   "image": null
   },
   {
    "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
@@ -1025,15 +1061,6 @@
    "category": "politics",
    "published": "2026-10-23T22:35:40+00:00",
    "summary": "We talk with voters at a Texas high school football game at the tailgate, in line at the concession booth and in the stands to hear about the issues that matter to Texans this cycle.",
-   "image": null
-  },
-  {
-   "title": "Hailee Steinfeld Will Have a Hold on You in ‘Magic’ Cover of The Cars for ‘Hexed’ Movie: Listen",
-   "link": "https://www.billboard.com/music/music-news/hailee-steinfeld-magic-the-cars-cover-hexed-movie-listen-1236367434/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-23T21:59:36+00:00",
-   "summary": "The star also voices the lead role in the upcoming film.",
    "image": null
   },
   {
@@ -1226,15 +1253,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfdd/live/e8088930-cefc-11f1-accf-3309656ad0bb.jpg"
   },
   {
-   "title": "‘Realistic and reassuring’: UK public ‘responding calmly’ to Be Ready campaign",
-   "link": "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-23T17:22:18+00:00",
-   "summary": "Government’s emergency planning advice has sparked sales of essentials but no panic stockpiling, say prepping shop owners When the UK government launched its “Protect and Survive” public information campaign in 1980 on…",
-   "image": "https://i.guim.co.uk/img/media/81450ec00e1a9bfb238cb29c46f0ec47505cece2/425_0_4078_3264/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=c576a020338cbe46cf3829fe0270c196"
-  },
-  {
    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
    "source": "Ars Technica",
@@ -1379,15 +1397,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c3/live/4fe5eca0-ce2b-11f1-9f18-490cec60aa0f.png"
   },
   {
-   "title": "Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight",
-   "link": "https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-23T14:11:24+00:00",
-   "summary": "Ketanji Brown Jackson publicly dissented as the Supreme Court let New Hampshire block student ID cards as ballot identification for midterm elections.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ketanji-brown-jackson-lecture-courtroom.jpg?ve=1&tl=1"
-  },
-  {
    "title": "Seth Meyers on Trump’s fixation on men’s bodies: ‘Why are you so weird?’",
    "link": "https://www.theguardian.com/culture/2026/oct/23/seth-meyers-trump-fixation-mens-bodies",
    "source": "The Guardian Culture",
@@ -1395,15 +1404,6 @@
    "published": "2026-10-23T14:11:21+00:00",
    "summary": "The late-night host discussed Trump’s ramblings at rallies and expressed disdain for a controversial Republican ad Seth Meyers shared his horror at a much-criticised Republican campaign ad while also trying to…",
    "image": "https://i.guim.co.uk/img/media/f9d7df9a3eaf58c2638639fa0acdec85f9561543/264_0_1379_1104/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=fe6b158e09adeef5cab964d23a1663eb"
-  },
-  {
-   "title": "Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe",
-   "link": "https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-23T13:27:34+00:00",
-   "summary": "Rep. Randy Fine says he plans to pursue House expulsion of Rep. Ilhan Omar if the Justice Department finds her guilty of immigration fraud.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ilhan-omar-abdul-for-senate-campaign.jpg?ve=1&tl=1"
   },
   {
    "title": "Ryu Murakami, cult Japanese author, dies aged 74",
