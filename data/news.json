@@ -1,14 +1,887 @@
 {
- "updated": "2026-10-30T13:19:53.441808+00:00",
+ "updated": "2026-10-30T18:43:58.641294+00:00",
  "items": [
   {
-   "title": "How ‘Up Again’ Director Captured the Rise of a Teenage Figure Skating Champion: ‘The Technical Conditions Were Extremely Challenging’",
-   "link": "https://variety.com/2026/film/global/teenage-skater-up-again-jihlava-1236934423/",
+   "title": "Comeback or Farewell? Guns N’ Roses, Black Crowes, and Friends Salute Aerosmith at Hollywood Bowl",
+   "link": "https://www.rollingstone.com/music/music-live-reviews/aerosmith-guns-n-roses-black-crowes-hollywood-bowl-set-list-1235650380/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T18:33:12+00:00",
+   "summary": "During the first of their two-night “California Dream On: Aerosmith & Friends” concerts, drummer Joey Kramer played part of the set along with Dave Grohl and John Douglas",
+   "image": null
+  },
+  {
+   "title": "Treasury flags $8B in suspicious foreign-directed transfers through US money services firms",
+   "link": "https://www.foxnews.com/politics/treasury-flags-8b-suspicious-foreign-directed-transfers-us-money-services-firms",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T18:31:54+00:00",
+   "summary": "The Trump administration uncovered what it says is $8 billion in suspicious cross-border wire payments directed by foreign agents.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/scott-bessent.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Liberal court delivers immigration win for Trump as judge warns of ‘floodgates’ if law firm succeeded",
+   "link": "https://www.foxnews.com/politics/liberal-court-delivers-immigration-win-trump-judge-warns-floodgates-law-firm-succeeded",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T18:30:19+00:00",
+   "summary": "The Ninth Circuit ruled that law firm Red Eagle lacked standing to challenge the State Department's indefinite pause on the diversity visa lottery.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Trump-Visa.png?ve=1&tl=1"
+  },
+  {
+   "title": "Netflix’s ‘Haunted Hotel’ Renewed for Season 3",
+   "link": "https://variety.com/2026/tv/news/netflixs-haunted-hotel-season-3-1236935451/",
    "source": "Variety",
    "category": "pop",
-   "published": "2026-10-30T13:17:15+00:00",
-   "summary": "The immersive Czech film “Up Again,” screening in its world premiere at the Ji.hlava docu fest, starts in darkness as the unmistakable sound of ice skates scraping at high speed fills the cinema. Director Eliska Cilkova…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Up-Again.jpg"
+   "published": "2026-10-30T18:24:53+00:00",
+   "summary": "“Haunted Hotel” is now accepting reservations for 2027, as Netflix has renewed the animated series for third season. The adult comedy comes from “Rick & Morty” writer Matt Roller and follows a single mother who runs the…",
+   "image": "https://variety.com/wp-content/uploads/2025/06/Haunted-Hotel.jpg"
+  },
+  {
+   "title": "Eric Bauza to Make Posthumous ‘Simpsons’ Debut: Late ‘Looney Tunes’ Voice Actor Plays Two Characters",
+   "link": "https://variety.com/2026/tv/news/eric-bauza-osthumous-simpsons-debut-two-characters-1236934521/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T18:24:40+00:00",
+   "summary": "In recent years, Eric Bauza had become one of the most successful and popular voice-over artists in the business, including his command of the entire library of Bugs Bunny and other “Looney Tunes” characters. But there…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Eric-Bauza-Simpsons.jpg"
+  },
+  {
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T18:21:38+00:00",
+   "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board…",
+   "image": null
+  },
+  {
+   "title": "Mizuho Kusanagi’s ‘Akatsuki no Yona’ Vol. 48 Debuts at No. 1 on Billboard Japan Book Hot 100",
+   "link": "https://www.billboard.com/music/chart-beat/mizuho-kusanagi-akatsuki-no-yona-48-japan-book-hot-100-1236371193/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:21:21+00:00",
+   "summary": "FANTASTICS member Yusei Yagi’s second photo book Be my enters at No. 2.",
+   "image": null
+  },
+  {
+   "title": "Billboard’s Music Industry Events Calendar",
+   "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:20:00+00:00",
+   "summary": "A complete rundown of the most important events across the music business.",
+   "image": null
+  },
+  {
+   "title": "The New ‘ACOTAR’ Book Is Finally Here, and Amazon Is Discounting the Original Series to Celebrate",
+   "link": "https://www.rollingstone.com/product-recommendations/lifestyle/court-of-thorns-and-roses-box-set-deal-discount-1235343100/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T18:18:39+00:00",
+   "summary": "The latest installment in the fantasy series just hit shelves, and the first five books are now discounted for less than $50",
+   "image": null
+  },
+  {
+   "title": "MAZZEL Scores First Japan Hot 100 No. 1 With ‘Touch,’ Naniwa Danshi’s ‘Moonlit’ Follows",
+   "link": "https://www.billboard.com/music/chart-beat/mazzel-japan-hot-100-number-1-touch-naniwa-danshi-moonlit-1236371185/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:16:55+00:00",
+   "summary": "Lienel’s “Ai no Dabada” soars 38-3.",
+   "image": null
+  },
+  {
+   "title": "NFL to Face New Trial in Sunday Ticket Class-Action Lawsuit to Determine Financial Damages",
+   "link": "https://variety.com/2026/tv/news/nfl-sunday-ticket-verdict-retrial-sunday-ticket-lawsuit-1236935444/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T18:16:02+00:00",
+   "summary": "A federal appeals court ordered a new trial in the class-action lawsuit against the NFL to determine how much the league must pay in financial damages to affected subscribers of its Sunday Ticket out-of-market games…",
+   "image": "https://variety.com/wp-content/uploads/2024/05/NFL-Netflix.jpg"
+  },
+  {
+   "title": "Executive Turntable: Mel Curey Joins Believe, ACM Names New Board of Directors",
+   "link": "https://www.billboard.com/lists/executive-turntable-mel-curey-acm-board-of-directors/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:11:15+00:00",
+   "summary": "Plus, Hayley Silvertown joins Create Music Group, Cristina Pimentel and Caitlin Glazebrook launch a new company to help startups connect with investors and more music industry hires and promotions.",
+   "image": null
+  },
+  {
+   "title": "Annie Lennox, Tom Morello, Desmond Child & More Honored at 2026 SONA Awards:’The Songwriter Prom’",
+   "link": "https://www.billboard.com/lists/2026-sona-awards-annie-lennox-tom-morello-desmond-child/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:08:46+00:00",
+   "summary": "Several speakers addressed AI, \"the elephant in the room.\"",
+   "image": null
+  },
+  {
+   "title": "Patrick Stewart Changed Genre Acting Forever With ‘Star Trek’ and ‘X-Men’",
+   "link": "https://variety.com/2026/tv/columns/patrick-stewart-changed-genre-acting-star-trek-x-men-1236935337/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T18:01:44+00:00",
+   "summary": "I will never claim to be a true Shakespeare buff, save for having read plays like “Romeo & Juliet” or “Julius Caesar” in school many years ago. But ever since I learned of the death of Sir Patrick Stewart, a line from…",
+   "image": "https://variety.com/wp-content/uploads/2020/01/patrick-stewart-1-1000-16x9-1.jpg"
+  },
+  {
+   "title": "Satlyt takes another step toward turning satellites into space data centers",
+   "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T18:01:24+00:00",
+   "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+   "image": null
+  },
+  {
+   "title": "My Chemical Romance Score First U.K. No. 1 With 20th Anniversary Edition of ‘The Black Parade’",
+   "link": "https://www.billboard.com/music/chart-beat/my-chemical-romance-uk-number-one-black-parade-1236370977/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:00:00+00:00",
+   "summary": "The album peaked at No. 2 back upon its original release in 2006.",
+   "image": null
+  },
+  {
+   "title": "Jamie Miller’s ‘Babydoll’ Bags Second Consecutive Week as U.K. No. 1",
+   "link": "https://www.billboard.com/music/chart-beat/jamie-miller-babydoll-uk-number-1-second-week-1236371004/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T18:00:00+00:00",
+   "summary": "Miller's is the first Welsh-born artist to hit the No. 1 spot on the U.K. Singles Chart in 15 years.",
+   "image": null
+  },
+  {
+   "title": "GitHub Incident with Actions, Pages, and Webhooks",
+   "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T17:57:35+00:00",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 39 # Comments: 19",
+   "image": null
+  },
+  {
+   "title": "The Guardian view on Labour’s fiscal devolution: the future of Burnhamism will play out in municipal England | Editorial",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-labours-fiscal-devolution-the-future-of-burnhamism-will-play-out-in-municipal-england",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T17:56:11+00:00",
+   "summary": "Replacing government grants with revenue streams from taxation will not in itself reduce regional inequalities. But the political implications are radical Following Wednesday’s budget, the Treasury minister, Torsten…",
+   "image": "https://i.guim.co.uk/img/media/c15b0807f4b104720749077d310d020d04f17a1f/536_54_1510_1208/master/1510.jpg?width=140&quality=85&auto=format&fit=max&s=b4f86040527a9a5acf44f90671047f5f"
+  },
+  {
+   "title": "From Artist-Approved Headphones to Diamonds and Decor, Here Are 18 Luxury Gifts Worth Giving This Year",
+   "link": "https://www.rollingstone.com/product-recommendations/gift-guide/best-luxury-gift-guide-1234644291/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T17:55:00+00:00",
+   "summary": "From fancy tech to designer accessories, these are the best gifts for loved ones you want to spoil a little (or a lot)",
+   "image": null
+  },
+  {
+   "title": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
+   "link": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T17:53:51+00:00",
+   "summary": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not Westminster Scotland and Wales’s first ministers have told Andy Burnham that decisions on local devolution rest solely…",
+   "image": "https://i.guim.co.uk/img/media/1f5cdf71a56a7e2e93b0afac99dbd2568c8faf90/1108_426_3175_2540/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=91a348597e0939832636a34dba85a0f4"
+  },
+  {
+   "title": "Minnesota Dem declined to refer Ilhan Omar for ethics probe despite fellow lawmaker's 2019 request",
+   "link": "https://www.foxnews.com/politics/minnesota-dem-declined-refer-ilhan-omar-ethics-probe-despite-fellow-lawmakers-2019-request",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:53:47+00:00",
+   "summary": "Communications obtained by Fox News Digital show Angie Craig declined a 2019 request to refer Ilhan Omar to the House Ethics Committee probe.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/angie-craig.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Nelly Recalls Taylor Swift Flying Him Out to Perform at Her Houston Show for $50,000: ‘I Would’ve Did It for Free’",
+   "link": "https://www.billboard.com/music/rb-hip-hop/nelly-taylor-swift-mcdonalds-houston-2011-just-a-dream-1236371006/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T17:52:51+00:00",
+   "summary": "Nelly and Ashanti were guests at Swift and Travis Kelce's wedding over the summer.",
+   "image": null
+  },
+  {
+   "title": "Americans 'frustrated' about Iran war going into midterms as Trump admin has decision to make: GOP lawmaker",
+   "link": "https://www.foxnews.com/politics/americans-frustrated-iran-war-midterms-trump-admin-decision-gop-lawmaker",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:49:53+00:00",
+   "summary": "House Armed Services Committee member Pat Harrigan says the U.S., in the ongoing conflict against Iran, must \"do what it takes to either win or come home.\"",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Pat-Harrigan-CENTCOM.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T17:47:12+00:00",
+   "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "image": null
+  },
+  {
+   "title": "From Sobremesa to Something New, Walmart Celebrates Latino Flavor at Billboard Latin Music Week",
+   "link": "https://www.billboard.com/music/features/walmart-celebrates-latino-flavor-at-billboard-latin-music-week-2026-1236371106/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T17:45:38+00:00",
+   "summary": "From family traditions to fresh takes on Miami favorites, Walmart brought the flavors, stories and creative perspectives shaping Latino food culture to the table",
+   "image": null
+  },
+  {
+   "title": "Tony Gilroy on the Lunch With Pedro Pascal That Saved ‘Behemoth!’ and How the Film Explores ‘New Varieties of Loneliness’",
+   "link": "https://variety.com/2026/film/awards/behemoth-tony-gilroy-pedro-pascal-loneliness-oscars-1236935214/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:40:40+00:00",
+   "summary": "Tony Gilroy had the speech ready on his way to meet Pedro Pascal. He was rehearsing it in the car on the way to lunch. Oscar Isaac was out of “Behemoth!,” lost to what Gilroy calls “a traffic jam between ‘Frankenstein’…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Behemoth-Pedro-pascal-Tony-gilroy-eva-victor.jpg"
+  },
+  {
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "published": "2026-10-30T17:38:19+00:00",
+   "summary": "Low costs and offline security mean magnetic tape still has a job.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-500x500-1793381600.jpg"
+  },
+  {
+   "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T17:38:04+00:00",
+   "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that…",
+   "image": null
+  },
+  {
+   "title": "Beyoncé, Zendaya and Halle Berry’s Go-To Red Carpet Designer Launches Affordable H&M Collection",
+   "link": "https://variety.com/2026/shopping/news/elie-saab-h-and-m-collection-shop-online-1236935358/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:37:57+00:00",
+   "summary": "Elie Saab, the luxury fashion house behind some of Hollywood’s most memorable red carpet looks, is bringing its signature glamour to H&M at a fraction of its usual price. The Lebanese designer, whose creations have been…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/2024-ELIESAAB-Guest-Designer-PR-Campaign-Landscape-Image-3x2-sRGB-300ppi-17.jpg"
+  },
+  {
+   "title": "Rotterdam and Alexandria Festival Programmers on What Gets a Movie Accepted and Why Rejection Isn’t a Verdict on Quality",
+   "link": "https://variety.com/2026/film/global/sharjah-film-festival-programmers-selection-rejection-1236935318/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:37:49+00:00",
+   "summary": "A film festival selection or rejection is not necessarily a verdict on a film’s quality. For programmers sorting through hundreds or even thousands of submissions, the decision can depend on everything from the balance…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Sharjah-Festivals.jpg"
+  },
+  {
+   "title": "Blink49 Studios Evolves as a Pure-Play Content Shop to Meet the Moment for Content Production",
+   "link": "https://variety.com/2026/tv/news/yaga-golden-life-blink49-studios-john-morayniss-1236934425/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:35:36+00:00",
+   "summary": "When veteran producer John Morayniss hung out his shingle as Blink49 Studios five years ago, he knew the company’s work would be markedly different from his past experiences at Alliance Atlantis and Entertainment One…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Hudson_Williams_in_YAGA_photo_credit_Crave_and_Christopher_Lawrence.jpg"
+  },
+  {
+   "title": "Ripcord Halloween Film Festival: ‘Long’s Long Lost & Mini Mart’ Director Julian Doan Takes $100,000 Grand Prize",
+   "link": "https://variety.com/2026/film/news/ripcord-halloween-film-festival-longs-long-lost-mini-mart-1236935354/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:33:58+00:00",
+   "summary": "“Long’s Long Lost & Mini Mart” was a short film that won a big amount of prize money for its creator. Director Julian Doan took home a $100,000 first-place prize at the first annual Ripcord Halloween Film Festival, the…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/SC1_7561_QhfBuKGF.jpeg"
+  },
+  {
+   "title": "Gracie Abrams, Dominic Fike, Daddy Yankee, and All the Songs You Need to Know This Week",
+   "link": "https://www.rollingstone.com/music/music-features/gracie-abrams-dominic-fike-songs-you-need-to-know-1235650270/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T17:33:49+00:00",
+   "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+   "image": null
+  },
+  {
+   "title": "Martin Rowson on the UK budget fallout – cartoon",
+   "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/30/martin-rowson-uk-budget-fallout-cartoon",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T17:33:07+00:00",
+   "summary": "Continue reading...",
+   "image": "https://i.guim.co.uk/img/media/ca125dbdd3fe57e34bd549d1fc08c0ec70021f8d/12_0_4143_3314/master/4143.jpg?width=140&quality=85&auto=format&fit=max&s=81c2d122872d53ab00a58662ec10caac"
+  },
+  {
+   "title": "Collins accuses top Senate Dem of blocking protections for Maine lobstermen as Cruz vows action",
+   "link": "https://www.foxnews.com/politics/collins-accuses-top-senate-dem-blocking-protections-maine-lobstermen-cruz-vows-action",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:30:22+00:00",
+   "summary": "Sen. Ted Cruz pledged to advance the Northeast Lobsterman Protection Act as Susan Collins accused a Democratic senator of blocking the bill.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/senate-ted-cruz-012026-1.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Dominic Fike Nets First No. 1 on Billboard’s Pop Airplay Chart With ‘Babydoll’",
+   "link": "https://www.billboard.com/music/chart-beat/dominic-fike-babydoll-pop-airplay-number-one-1236371119/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T17:28:14+00:00",
+   "summary": "The song leads after being released in 2018.",
+   "image": null
+  },
+  {
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T17:27:25+00:00",
+   "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 49 # Comments: 13",
+   "image": null
+  },
+  {
+   "title": "Treasury accepts role in staff member's death",
+   "link": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:26:40+00:00",
+   "summary": "A Surrey coroner raises concerns over HM Treasury procedures following the death of Chloe Moffat.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3823/live/0c68bc20-d487-11f1-80bc-6d398902272f.jpg"
+  },
+  {
+   "title": "The delightfully messy state of Apple gadgets",
+   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T17:25:20+00:00",
+   "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't…",
+   "image": null
+  },
+  {
+   "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:25:20+00:00",
+   "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"
+  },
+  {
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T17:25:15+00:00",
+   "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 61 # Comments: 7",
+   "image": null
+  },
+  {
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T17:24:45+00:00",
+   "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 135 # Comments: 86",
+   "image": null
+  },
+  {
+   "title": "California election workers hit with criminal subpoenas as Trump DOJ turns up heat in voting showdown",
+   "link": "https://www.foxnews.com/politics/california-election-workers-criminal-subpoenas-trump-doj-voting-showdown",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:22:03+00:00",
+   "summary": "The Department of Justice issued criminal grand jury subpoenas to at least four California election workers over alleged noncitizen voting records.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/voting-la-county.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Rivian’s autonomy gamble faces its first real test",
+   "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T17:16:09+00:00",
+   "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle…",
+   "image": null
+  },
+  {
+   "title": "Rolling Stone Editors’ Picks, October 2026: Our Favorite Products, Sips, and Services of the Month",
+   "link": "https://www.rollingstone.com/product-recommendations/lifestyle/shop-best-products-to-buy-online-october-2026-1235647449/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T17:14:24+00:00",
+   "summary": "From jackets made for the changing weather to spirits that warm you up in a different way, these are the items our editors were obsessed with this month",
+   "image": null
+  },
+  {
+   "title": "Schumer accused of yearlong plot to plant 'decoy' candidate in critical Senate race",
+   "link": "https://www.foxnews.com/politics/schumer-accused-yearlong-plot-plant-decoy-candidate-critical-senate-race",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T17:14:15+00:00",
+   "summary": "Senate No. 2 Republican John Barrasso alleges Chuck Schumer schemed with Mary Peltola's campaign to recruit a decoy Dan Sullivan in Alaska.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/chuck-schumer-press-conference-capitol-hill.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Variety’s Doc Dreams Live Returns to New York for Third Year",
+   "link": "https://variety.com/2026/biz/news/doc-dreams-new-york-1236934702/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T17:08:45+00:00",
+   "summary": "Variety is proud to announce the return of Doc Dreams NYC Live, its marquee event dedicated to honoring the art of documentary filmmaking, on Nov. 9 in New York City. Following a successful debut in 2024, Doc Dreams…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/DOC_DREAMS_2026_EDITORIAL-ANNOUNCEMENT-2.jpg"
+  },
+  {
+   "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+   "link": "https://github.com/spinfinc/spinf-serve",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T17:03:12+00:00",
+   "summary": "Article URL: https://github.com/spinfinc/spinf-serve Comments URL: https://news.ycombinator.com/item?id=50306815 Points: 7 # Comments: 0",
+   "image": null
+  },
+  {
+   "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+   "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T17:01:07+00:00",
+   "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the…",
+   "image": null
+  },
+  {
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T17:00:00+00:00",
+   "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "image": null
+  },
+  {
+   "title": "Where to Buy Tickets to Golden State Valkyries vs. Atlanta Dream",
+   "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-wnba-finals-game-7-tickets-valkyries-vs-dream-1235650166/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T17:00:00+00:00",
+   "summary": "The Atlanta Dream forced the first Game 7 in WNBA history, which will take place at Chase Center in San Francisco",
+   "image": null
+  },
+  {
+   "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T16:56:33+00:00",
+   "summary": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b4/live/763d0920-d45b-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "title": "Musk issues dire warning over 3 moves Dems could make if they sweep Washington: 'End of democracy'",
+   "link": "https://www.foxnews.com/politics/musk-issues-dire-warning-3-moves-dems-could-make-sweep-washington-end-democracy",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T16:56:16+00:00",
+   "summary": "Elon Musk warns a Democratic sweep in 2028 could create a permanent one-party state through statehood, immigration and Supreme Court expansion.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-ramaphosa-press-availability-oval-office.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T16:55:53+00:00",
+   "summary": "From surgeons to senior civil servants, even the most decent people can make disastrous mistakes. But these gaffes require honesty Gabriel Weston made a mistake at work this summer. It doesn’t define her – she was and…",
+   "image": "https://i.guim.co.uk/img/media/1131de75544b9abac16edb0bdebe59b6a17d3722/615_0_4139_3312/master/4139.jpg?width=140&quality=85&auto=format&fit=max&s=eef7760faaa285b0bfcd240a05058d45"
+  },
+  {
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "published": "2026-10-30T16:53:49+00:00",
+   "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-500x500.jpg"
+  },
+  {
+   "title": "Governor probing 'Decoy Dan' Sullivan election scandal warns system flaw hiding in plain sight",
+   "link": "https://www.foxnews.com/politics/governor-probing-decoy-dan-sullivan-election-scandal-warns-system-flaw-hiding-plain-sight",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T16:46:21+00:00",
+   "summary": "Gov. Mike Dunleavy says Alaska is now investigating alleged efforts to recruit a second Dan Sullivan into the pivotal Senate race as a spoiler.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mike-dunleavy-white-house.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "A Working Nintendo in ~1GB of Qwen Weights",
+   "link": "https://github.com/dbreunig/nesformer",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T16:40:22+00:00",
+   "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 87 # Comments: 79",
+   "image": null
+  },
+  {
+   "title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
+   "link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T16:37:03+00:00",
+   "summary": "Rhun ap Iorwerth says new powers for more cash matter of how and when, after meeting.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35e/live/2b201120-d475-11f1-9dda-1ba6fcc7d159.jpg"
+  },
+  {
+   "title": "Daddy Yankee Is Back With New Album ‘La Postal,’ Featuring Cardi B, More",
+   "link": "https://www.rollingstone.com/music/music-latin/daddy-yankee-la-postal-album-cardi-b-1235650456/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T16:36:45+00:00",
+   "summary": "The star-studded LP looks at love and romance with collabs alongside guests like Myke Towers, Danny Ocean, Diljit Dosanjh",
+   "image": null
+  },
+  {
+   "title": "4 US cities are the lucky winners of Trump's $300M crime crackdown contest",
+   "link": "https://www.foxnews.com/politics/4-us-cities-lucky-winners-trumps-300m-crime-crackdown-contest",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T16:27:47+00:00",
+   "summary": "Jacksonville, Baton Rouge, Jackson and St. Louis will split nearly $300 million in DOJ Model Cities Initiative funding to combat violent crime.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/chicago-police-city-crime.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T16:21:35+00:00",
+   "summary": "This blog is now closed Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensive than the usual No…",
+   "image": "https://i.guim.co.uk/img/media/5407f0bb8b4ec3f07ec3bb346d75ffa3f399525f/639_47_5791_4633/master/5791.jpg?width=140&quality=85&auto=format&fit=max&s=2310792a58398241de1593bde83be92f"
+  },
+  {
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T16:13:02+00:00",
+   "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 181 # Comments: 160",
+   "image": null
+  },
+  {
+   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+   "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "published": "2026-10-30T16:12:59+00:00",
+   "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-500x500.jpeg"
+  },
+  {
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+   "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T16:03:45+00:00",
+   "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "image": null
+  },
+  {
+   "title": "Closing Arguments Begin in Russell Brand’s U.K. Rape Trial",
+   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/closing-arguments-russell-brand-rape-trial-1235650386/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T16:02:32+00:00",
+   "summary": "“Women as a whole were disposable to him, they didn’t matter, he didn’t even need to know their names,” prosecutor says of actor as trial approaches its conclusion",
+   "image": null
+  },
+  {
+   "title": "Ohio Denies Evidence of Fracking Waste in Drinking Water. Its Own Records Show Otherwise",
+   "link": "https://www.rollingstone.com/politics/politics-features/ohio-records-fracking-waste-drinking-water-1235650323/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T16:00:00+00:00",
+   "summary": "As more than a billion gallons of oil and gas wastewater flood beneath Ohio, pollution concerns reach its heated governor’s race",
+   "image": null
+  },
+  {
+   "title": "Burnham's Number 10 North goes on multi-million pound hiring spree",
+   "link": "https://www.bbc.co.uk/news/articles/cqm24pdylmm2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T15:57:43+00:00",
+   "summary": "The new government office in Manchester has launched 50 job adverts for roles including a \"rewiring the state deputy director\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab6/live/294f96e0-d475-11f1-9dda-1ba6fcc7d159.jpg"
+  },
+  {
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:52:18+00:00",
+   "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 298 # Comments: 221",
+   "image": null
+  },
+  {
+   "title": "Patrick Stewart Knew There Was a Scrooge in All of Us. His Work Was the Cure",
+   "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/patrick-stewart-a-christmas-carol-tribute-remembrance-1235650376/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T15:49:05+00:00",
+   "summary": "Remembering the actor’s virtuoso performance in a one-man adaptation of A Christmas Carol — and the lessons he took away",
+   "image": null
+  },
+  {
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "link": "https://github.com/kevinraymond/florilegium",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:48:12+00:00",
+   "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 74 # Comments: 11",
+   "image": null
+  },
+  {
+   "title": "Geist Serif",
+   "link": "https://vercel.com/blog/introducing-geist-serif",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:46:42+00:00",
+   "summary": "Article URL: https://vercel.com/blog/introducing-geist-serif Comments URL: https://news.ycombinator.com/item?id=50305601 Points: 61 # Comments: 20",
+   "image": null
+  },
+  {
+   "title": "The federated code forge",
+   "link": "https://tangled.org/blog/forge/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:44:29+00:00",
+   "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 103 # Comments: 38",
+   "image": null
+  },
+  {
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:39:05+00:00",
+   "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 113 # Comments: 54",
+   "image": null
+  },
+  {
+   "title": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/30/sctv-greatest-show-you-never-heard-of-netflix-comedy-sketch-show-documentary",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-30T15:33:19+00:00",
+   "summary": "It influenced The Simpsons and sparked the careers of Eugene Levy, Catherine O’Hara, John Candy and many others. Now this extraordinary Canadian series is finally getting its due SCTV – short for Second City Television…",
+   "image": "https://i.guim.co.uk/img/media/61a639069df13a50e24f94baf94d1292ef47486d/539_68_1742_1394/master/1742.jpg?width=140&quality=85&auto=format&fit=max&s=582961571ef8e99bfe6221afd0aff8d3"
+  },
+  {
+   "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+   "link": "https://catcopter.com",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:29:40+00:00",
+   "summary": "Hi everyone! I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It's a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and…",
+   "image": null
+  },
+  {
+   "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+   "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T15:29:02+00:00",
+   "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at…",
+   "image": null
+  },
+  {
+   "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+   "link": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:23:41+00:00",
+   "summary": "Article URL: https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405 Comments URL: https://news.ycombinator.com/item?id=50305225 Points: 70 # Comments: 21",
+   "image": null
+  },
+  {
+   "title": "Northflank Breached",
+   "link": "https://status.northflank.com",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T15:10:31+00:00",
+   "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 195 # Comments: 117",
+   "image": null
+  },
+  {
+   "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-30T15:00:00+00:00",
+   "summary": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.",
+   "image": null
+  },
+  {
+   "title": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T14:58:20+00:00",
+   "summary": "Swedish climate academic says he has been ‘kept in the dark’ over Home Office decision to revoke his travel authorisation The Swedish climate academic Andreas Malm has condemned a travel ban imposed on him by the UK…",
+   "image": "https://i.guim.co.uk/img/media/d25aa27ed036c3b7ae4d3ae55532ce3c3455b452/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=38a1124e0176d29d97da20f8be49a0c0"
+  },
+  {
+   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T14:58:06+00:00",
+   "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United…",
+   "image": null
+  },
+  {
+   "title": "Pope Leo makes history in US election with move confirmed by Vatican",
+   "link": "https://www.foxnews.com/politics/pope-leo-makes-history-us-election-move-confirmed-vatican",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T14:45:17+00:00",
+   "summary": "Pope Leo XIV requested a mail ballot from Vatican City to vote in Illinois' midterm elections, potentially the first pope to vote in a U.S. election.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/pope-leo-return-after-surgery.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+   "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T14:27:44+00:00",
+   "summary": "Article URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no Comments URL: https://news.ycombinator.com/item?id=50304419 Points: 218 # Comments: 209",
+   "image": null
+  },
+  {
+   "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+   "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T14:23:26+00:00",
+   "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial…",
+   "image": null
+  },
+  {
+   "title": "Seth Meyers on Trump and Vance’s tactics: ‘No one’s buying your fake folksy bullshit’",
+   "link": "https://www.theguardian.com/culture/2026/oct/30/seth-meyers-trump-vances",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-30T14:15:08+00:00",
+   "summary": "Late-night hosts criticised ‘cosplaying as everyday folks’ and mocked the president’s latest attack on a reporter Late-night hosts ridiculed Donald Trump and JD Vance for their hollow attempts to appeal to working-class…",
+   "image": "https://i.guim.co.uk/img/media/8f561a3f675eb70f6d6f25116b4538022b304b07/270_0_1316_1054/master/1316.jpg?width=140&quality=85&auto=format&fit=max&s=a23675227685412334b3bb0daea1b756"
+  },
+  {
+   "title": "Dem operative admits Ilhan Omar case has legs as liberal firewall begins to crack: 'I'm not stupid'",
+   "link": "https://www.foxnews.com/politics/dem-operative-admits-ilhan-omar-case-has-legs-liberal-firewall-begins-crack-im-not-stupid",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T14:01:29+00:00",
+   "summary": "A prominent Minnesota Dem operative says the federal investigation into Ilhan Omar's marriage fraud allegations is \"almost certainly\" legitimate.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ilhan-omar-fox-news-001.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+   "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T14:00:25+00:00",
+   "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+   "image": null
+  },
+  {
+   "title": "Sampa the Great: Nu Zamrock review – a full-circle moment for a world-class act",
+   "link": "https://www.theguardian.com/music/2026/oct/31/sampa-the-great-nu-zamrock-review-a-full-circle-moment-for-a-world-class-act",
+   "source": "The Guardian Culture",
+   "category": "pop",
+   "published": "2026-10-30T14:00:17+00:00",
+   "summary": "Sampa Tembo’s genre-hopping third album meets the moment with charisma and cheek In 2019, as Sampa the Great, Sampa Tembo became the first woman to win an Australian Recording Industry Association award for hip-hop or…",
+   "image": "https://i.guim.co.uk/img/media/8d1003404005c1a54fa9833f28095c4a96a27751/1819_547_3648_2920/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=0e25fdd365fd1e6589e0dcd75ea8310d"
+  },
+  {
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T14:00:00+00:00",
+   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group…",
+   "image": null
+  },
+  {
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T13:54:25+00:00",
+   "summary": "DoorDash said that it is open to working with third-party agent makers.",
+   "image": null
+  },
+  {
+   "title": "GM to pay $220 million after selling customer Smart Driver data",
+   "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "published": "2026-10-30T13:53:20+00:00",
+   "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-500x500.jpg"
+  },
+  {
+   "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+   "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+   "source": "The Verge",
+   "category": "tech",
+   "published": "2026-10-30T13:52:14+00:00",
+   "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first…",
+   "image": null
+  },
+  {
+   "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+   "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+   "source": "Ars Technica",
+   "category": "tech",
+   "published": "2026-10-30T13:46:39+00:00",
+   "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-500x500.jpg"
+  },
+  {
+   "title": "Mayor defects from Greens after Zionism motion",
+   "link": "https://www.bbc.co.uk/news/articles/ck20r295pw2vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T13:46:11+00:00",
+   "summary": "Drew Creek joins the Labour party after the policy motion was passed earlier this month.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c5/live/7090c400-d44a-11f1-97f9-27ebf08d99fe.png"
+  },
+  {
+   "title": "Texas' red wall facing its biggest threat in decades as Republicans scramble to defend it",
+   "link": "https://www.foxnews.com/politics/red-wall-facing-its-biggest-threat-decades-republicans-scramble-defend-texas",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T13:31:44+00:00",
+   "summary": "James Talarico raised over $146 million for the Texas Senate race while Elon Musk bankrolled more than $200 million in outside support for Paxton.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/talarico-rally-supporters-texas.png?ve=1&tl=1"
+  },
+  {
+   "title": "Winter fuel cuts turned the Welsh against Labour, former leader Neil Kinnock says",
+   "link": "https://www.bbc.co.uk/news/articles/ckg5j4jp5d5lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Politics",
+   "category": "politics",
+   "published": "2026-10-30T13:24:44+00:00",
+   "summary": "The former Labour leader says welfare policies turned disillusionment with Labour into \"active dislike\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa01/live/76111430-d3b8-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "title": "Unhinged judge who called Latino attorney a 'White savior' ordered to undergo psychiatric examination",
+   "link": "https://www.foxnews.com/politics/unhinged-judge-called-latino-attorney-white-savior-ordered-undergo-psychiatric-examination",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T13:18:19+00:00",
+   "summary": "Judge Ada Brown called attorney Ezra Young a \"White savior\" intimidated by \"Black excellence\" in a hearing now under Fifth Circuit investigation.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Judge-Ada-Brown.jpg?ve=1&tl=1"
   },
   {
    "title": "Silicon Valley wants you to invest in miracles",
@@ -20,24 +893,6 @@
    "image": null
   },
   {
-   "title": "Dominic Fike’s ‘How to Quit Smoking’: All 15 Tracks Ranked",
-   "link": "https://www.billboard.com/lists/dominic-fike-how-to-quit-smoking-album-best-songs-ranked/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T13:10:23+00:00",
-   "summary": "Fike's third studio LP, which he's billed as a \"living album,\" arrived on Friday (Oct. 30).",
-   "image": null
-  },
-  {
-   "title": "Rom-Com ‘Eavesdropping’ Tests the Future of Scripted Social Video",
-   "link": "https://variety.com/2026/tv/news/eavesdropping-kaleigh-howland-nicolas-ayalo-sullivan-1236934845/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T13:07:35+00:00",
-   "summary": "The romantic comedy “Eavesdropping” has all the ingredients of a traditional TV series: recurring characters, serialized storylines and a will-they-or-won’t-they relationship at its center. But you won’t find it on a…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/1-PNG-image.png"
-  },
-  {
    "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
    "link": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
    "source": "The Guardian",
@@ -47,15 +902,6 @@
    "image": "https://i.guim.co.uk/img/media/44ad5917cfe307f50a5e26514caa5d9e3186e54f/187_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0f365de8412c7a2dd724a195092718d8"
   },
   {
-   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-30T13:01:14+00:00",
-   "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of…",
-   "image": null
-  },
-  {
    "title": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
    "link": "https://www.theguardian.com/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma",
    "source": "The Guardian Culture",
@@ -63,15 +909,6 @@
    "published": "2026-10-30T13:00:54+00:00",
    "summary": "The star takes on her biggest challenge yet: resurrecting her family’s Cantonese restaurant. She discusses the stress of rewatching her sitcom, nearly becoming a meat inspector … and her beloved matriarch, who passed…",
    "image": "https://i.guim.co.uk/img/media/1a3e10bc7fbb25903259d8c39a9a6bfc3bb85f30/423_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=e555cd197703e82cb20cd01eeae23ffc"
-  },
-  {
-   "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-   "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did…",
-   "image": null
   },
   {
    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
@@ -92,93 +929,12 @@
    "image": null
   },
   {
-   "title": "David Bowie’s Immersive ‘Stage’ Concert Experience: Director Brett Morgen on the Show, the Artist and the Archive (EXCLUSIVE)",
-   "link": "https://variety.com/2026/music/news/david-bowie-stage-concert-documentary-brett-morgen-speaks-1236934780/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "Although he released two albums during the final dozen years of his life, David Bowie had effectively retired from active duty, focusing on his family and, as his extensive posthumous catalog of sound and vision shows…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/blackout_imax_r4_24_rec709.351710-e1793331623553.jpg"
-  },
-  {
-   "title": "AI Vocal Modifier Voicemod Inks Disney Deal to Add Star Wars, Marvel Soundboards to Platform",
-   "link": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "Voicemod, the AI-powered voice-modifying platform that lets users change the tone and sound of their voice and make use of sound effects, will add the likes of Star Wars and Marvel characters to the mix. The company…",
-   "image": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD099.jpg"
-  },
-  {
-   "title": "Liev Schreiber and Stephen Graham Lead Apple TV’s Gripping Serial Killer Thriller ‘Nocturne’: TV Review",
-   "link": "https://variety.com/2026/tv/reviews/nocturne-review-apple-tv-1236929731/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "Television has no shortage of thrillers, but the sinister twists and turns of Apple TV’s latest entry into the genre, “Nocturne” — based on Lars Kepler’s novels “Lazarus” and “The Sandman” — make it well worth your…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Nocturne_Photo_010401.jpg"
-  },
-  {
-   "title": "100 Unhinged Things Trump Did That You May Have Forgotten",
-   "link": "https://www.rollingstone.com/politics/political-commentary/trump-second-term-100-actions-forgotten-1235650305/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "An open letter to independents about what Trump promised, what he delivered, and what you need to remember before you vote",
-   "image": null
-  },
-  {
-   "title": "The DNA Kits Behind Viral Celebrity Family Reveals Are 65% Off Right Now: Shop Ancestry.com Deals Here",
-   "link": "https://www.billboard.com/culture/product-recommendations/ancestry-dna-kit-membership-sales-christmas-2026-buy-online-1236369456/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "From Oct. 30 to Nov. 19, Ancestry.com is offering 30% off gift memberships and 65% off DNA kits.",
-   "image": null
-  },
-  {
-   "title": "‘Jimmy Webb: American Songwriter’: 5 Best Moments From the PBS Special: ‘Those Songs Are So Timeless; So Rich’",
-   "link": "https://www.billboard.com/lists/jimmy-webb-american-songwriter-pbs-special-highlights/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T13:00:00+00:00",
-   "summary": "\"They're the American songbook of my lifetime,” Vince Gill says in the special.",
-   "image": null
-  },
-  {
-   "title": "Burnham says he wants to ‘draw a line’ under relationship with devolved powers – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-30T12:49:02+00:00",
-   "summary": "PM hoping for improved relations and ‘model of deeper devolution in Scotland and Wales’ Downing Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson…",
-   "image": "https://i.guim.co.uk/img/media/0eb4149668b5a6f41e30deab0f2d00049322dc2e/1004_487_4020_3216/master/4020.jpg?width=140&quality=85&auto=format&fit=max&s=7ea35a2d9d76d733a7267eea31216572"
-  },
-  {
-   "title": "Russell Brand’s Defense in Rape Trial Is ‘A Lot of Half-Truths, but Spun Into Lies,’ Prosecution Claims in Closing Argument",
-   "link": "https://variety.com/2026/tv/global/russell-brand-rape-trial-defense-lies-closing-argument-1236934889/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T12:40:15+00:00",
-   "summary": "Russell Brand’s defense in his London rape trial was “a lot of half-truths” that were “spun into lies,” the prosecution said on Friday in its closing argument. Brand has been charged with with three counts of rape…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/russell-3_63b889.jpg"
-  },
-  {
-   "title": "The Apple Pencil turned the Duo into my new favorite notebook",
-   "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
-   "source": "The Verge",
+   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+   "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "source": "Hacker News",
    "category": "tech",
-   "published": "2026-10-30T12:30:00+00:00",
-   "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it…",
-   "image": null
-  },
-  {
-   "title": "Skid Row Tap Broadway Star of ‘Rock of Ages’ and ‘Spider Man: Turn Off the Dark’ As New Lead Singer",
-   "link": "https://www.billboard.com/music/rock/skid-row-new-lead-singer-broadway-star-justin-sargent-1236370916/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T12:29:22+00:00",
-   "summary": "Justin Sargent made his official debut on Thursday (Oct. 29) with a wailing cover of The Who's \"Won't Get Fooled Again.\"",
+   "published": "2026-10-30T12:50:01+00:00",
+   "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 235 # Comments: 164",
    "image": null
   },
   {
@@ -198,24 +954,6 @@
    "published": "2026-10-30T12:24:19+00:00",
    "summary": "Why is he not made of willow? Why is he plaited and not woven? World’s basket makers have plenty of questions Hollywood heart-throbs are known for their good looks and charisma. But in a classic plot twist, the latest…",
    "image": "https://i.guim.co.uk/img/media/be0d97fc91c315045415219d27f15042ad1de9dc/0_160_2893_2314/master/2893.jpg?width=140&quality=85&auto=format&fit=max&s=42757aba577d3cb2aee5d2bf7662ad94"
-  },
-  {
-   "title": "25 In-the-Know Gifts for Women: Mahjong Boards, ACOTAR Merch, Nathan Fielder Lingerie and More",
-   "link": "https://variety.com/2026/shopping/news/gifts-for-women-2026-christmas-shop-online-1236934071/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T12:24:06+00:00",
-   "summary": "Shopping for the women in your life is easy enough if you’re sticking to the usual suspects: a cashmere sweater, a luxury fragrance, a pair of designer sunglasses. But what about the friend who thinks Nathan Fielder is…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/best-gifts-for-women-2026.png"
-  },
-  {
-   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-   "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T12:08:00+00:00",
-   "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL…",
-   "image": null
   },
   {
    "title": "The week’s best new tracks and the act you need to know: Dutch squat-punks Bombstrap’s uncompromising racket",
@@ -245,15 +983,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-500x500-1793298715.jpg"
   },
   {
-   "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-   "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-30T12:00:00+00:00",
-   "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with…",
-   "image": null
-  },
-  {
    "title": "Mayors will be free to use share of tax to give residents grants",
    "link": "https://www.bbc.co.uk/news/articles/cm8xzw8zgdedo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Politics",
@@ -263,49 +992,13 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbdc/live/1a4aa570-d45e-11f1-ab12-eb0c94f5b382.jpg"
   },
   {
-   "title": "Rock Singer Bára Basiková Lived Her Traumas in the Public Gaze, Documentary Director Helena Třeštíková Says",
-   "link": "https://variety.com/2026/film/global/bara-basikova-helena-trestikova-jihlava-1236934480/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T11:52:47+00:00",
-   "summary": "“Bára Basiková is a truly fascinating singer,” says Czech documentary filmmaker Helena Třeštíková, who was honored for her contribution to the genre at this week’s Ji.hlava Documentary Film Festival. Her subject for the…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Bara-–-Diary-of-a-Rockstar.jpg"
-  },
-  {
-   "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-   "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-30T11:44:53+00:00",
-   "summary": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto…",
-   "image": null
-  },
-  {
-   "title": "Blink-182, Korn, MGK, Alice in Chains, The Offspring to Play 2027 Welcome to Rockville Festival",
-   "link": "https://www.billboard.com/music/concerts/2027-welcome-to-rockville-festival-lineup-blink-182-korn-mgk-1236370913/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T11:31:42+00:00",
-   "summary": "More than 150 acts are lined up for the four-day rock fest in Daytona Beach, Fla. from May 6-9.",
-   "image": null
-  },
-  {
    "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
    "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
    "source": "Ars Technica",
    "category": "tech",
    "published": "2026-10-30T11:30:01+00:00",
-   "summary": "Elizabeth Holmes has some people falling for her act all over again.",
+   "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-500x500-1792610840.jpg"
-  },
-  {
-   "title": "Double Oscar Winner Barbara Kopple Talks ‘Union Town’ and People Who Fight for ‘Dignity and Fairness’: ‘They Are My Heroes’",
-   "link": "https://variety.com/2026/film/global/barbara-kopple-union-town-labor-rights-1236934012/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T11:26:50+00:00",
-   "summary": "Barbara Kopple completes her trilogy on labor rights with “Union Town.” It follows US delivery and warehouse workers employed by UPS and Amazon, as well as app-based “deliveristas,” as they fight for a better future. “I…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-29-Oct-2026-11-46-AM-9972.jpg"
   },
   {
    "title": "Streeting denies 'kicking can down the road' in defence spending row",
@@ -326,15 +1019,6 @@
    "image": null
   },
   {
-   "title": "Backdoors in official Claude Code extensions",
-   "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T11:05:53+00:00",
-   "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 369 # Comments: 103",
-   "image": null
-  },
-  {
    "title": "Digested week: The Traitors suddenly feels tired – time for a politicians version? | John Crace",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/digested-week-celebrity-traitors-liz-truss-harry-kane",
    "source": "The Guardian",
@@ -349,17 +1033,8 @@
    "source": "Ars Technica",
    "category": "tech",
    "published": "2026-10-30T11:00:35+00:00",
-   "summary": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
+   "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-500x500.jpg"
-  },
-  {
-   "title": "Maine’s data center revolt will decide who controls the Senate",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-30T11:00:00+00:00",
-   "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are…",
-   "image": null
   },
   {
    "title": "After 50 years of playing video games, I’m finally starring in one",
@@ -369,24 +1044,6 @@
    "published": "2026-10-30T10:30:51+00:00",
    "summary": "Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father “I listen to you on the radio and I keep…",
    "image": "https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=140&quality=85&auto=format&fit=max&s=92dc445e39f7bc5c1f681854028e1d3c"
-  },
-  {
-   "title": "Shah Rukh Khan, Kajol, Rani Mukerji, Salman Khan Starrer ‘Kuch Kuch Hota Hai’ to Mark 30th Anniversary at Edinburgh Film Festival With Karan Johar",
-   "link": "https://variety.com/2026/film/festivals/shah-rukh-khan-karan-johar-kuch-kuch-hota-hai-30th-anniversary-edinburgh-film-festival-1236934894/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-30T10:30:00+00:00",
-   "summary": "“Kuch Kuch Hota Hai,” Karan Johar’s first film as director, starring Shah Rukh Khan, Kajol and Rani Mukerji, will screen at the Edinburgh International Film Festival in 2028 to celebrate its 30th anniversary, with Johar…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Kuch-Kuch-Hota-Hai.jpg"
-  },
-  {
-   "title": "Anthropic hacked to deliver remote access trojan",
-   "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T10:22:51+00:00",
-   "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 241 #…",
-   "image": null
   },
   {
    "title": "Exciting new talent in photojournalism: the IPPG 2026 recipients – in pictures",
@@ -403,16 +1060,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-30T10:06:15+00:00",
-   "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 65 # Comments: 1",
-   "image": null
-  },
-  {
-   "title": "Foo Fighters Close Out ‘Kimmel’ Residency With ‘Baker Street’ Cover: Watch",
-   "link": "https://www.billboard.com/music/rock/foo-fighters-close-kimmel-residency-baker-street-cover-1236370879/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T10:03:14+00:00",
-   "summary": "A guilty pleasure of Dave Grohl, “Baker Street” was the Foos' only cover this week on \"Fallon.\"",
+   "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 206 # Comments: 35",
    "image": null
   },
   {
@@ -434,21 +1082,12 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sullivan-peltola-sullivan.png?ve=1&tl=1"
   },
   {
-   "title": "How Do You Take a Picture of a Black Hole?",
+   "title": "How do you take a picture of a black hole?",
    "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-30T09:49:02+00:00",
-   "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 36 # Comments: 25",
-   "image": null
-  },
-  {
-   "title": "elect.horse",
-   "link": "https://elect.horse/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T09:14:34+00:00",
-   "summary": "Article URL: https://elect.horse/ Comments URL: https://news.ycombinator.com/item?id=50301462 Points: 211 # Comments: 49",
+   "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 62 # Comments: 45",
    "image": null
   },
   {
@@ -470,12 +1109,21 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jonathan-kreiss-tomkins-and-bernadette-wilson.jpg?ve=1&tl=1"
   },
   {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "category": "tech",
+   "title": "Democrats seek to weaken the Republican lead in state legislatures",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+   "source": "NPR Politics",
+   "category": "politics",
    "published": "2026-10-30T09:00:00+00:00",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
+   "summary": "Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.",
+   "image": null
+  },
+  {
+   "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-30T09:00:00+00:00",
+   "summary": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
    "image": null
   },
   {
@@ -488,12 +1136,12 @@
    "image": null
   },
   {
-   "title": "Democrats seek to weaken the Republican lead in state legislatures",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+   "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
    "source": "NPR Politics",
    "category": "politics",
    "published": "2026-10-30T09:00:00+00:00",
-   "summary": "Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.",
+   "summary": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
    "image": null
   },
   {
@@ -515,39 +1163,12 @@
    "image": null
   },
   {
-   "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-   "source": "NPR Politics",
-   "category": "politics",
-   "published": "2026-10-30T09:00:00+00:00",
-   "summary": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
-   "image": null
-  },
-  {
-   "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
-   "source": "NPR Politics",
-   "category": "politics",
-   "published": "2026-10-30T09:00:00+00:00",
-   "summary": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
-   "image": null
-  },
-  {
    "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
    "link": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
    "source": "NPR Politics",
    "category": "politics",
    "published": "2026-10-30T09:00:00+00:00",
    "summary": "Critics say the tech entrepreneur's enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he's not unique.",
-   "image": null
-  },
-  {
-   "title": "Stand Atlantic Bag First ARIA No. 1 With ‘GODBREATH’",
-   "link": "https://www.billboard.com/music/chart-beat/stand-atlantic-first-aria-no-1-godbreath-1236370859/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T08:55:18+00:00",
-   "summary": "The Sydneysiders becomes the fourth Australian rock act to lead the national chart in 2026.",
    "image": null
   },
   {
@@ -578,16 +1199,16 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mary-peltola-alaska-senate-race.jpg?ve=1&tl=1"
   },
   {
-   "title": "Dominic Fike, Mariah Carey & Queens of the Stone Age: New Music Friday Guide",
-   "link": "https://www.billboard.com/music/music-news/mariah-carey-queens-of-the-stone-age-new-music-friday-guide-1236367438/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T07:58:28+00:00",
-   "summary": "Check out the must-hear releases of the week.",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T07:09:12+00:00",
+   "summary": "https://cursor.com/blog/claude-code-extension-security-notic... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 497 # Comments: 384",
    "image": null
   },
   {
-   "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+   "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
    "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
    "source": "TechCrunch",
    "category": "tech",
@@ -605,42 +1226,6 @@
    "image": "https://i.guim.co.uk/img/media/73dfad6c841689fe76ccae456df5b0bc5d83194c/324_0_2253_1803/master/2253.jpg?width=140&quality=85&auto=format&fit=max&s=c41568195432d26ed11f835b1ce11726"
   },
   {
-   "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-   "link": "https://www.workatastartup.com/jobs/98722",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T07:00:35+00:00",
-   "summary": "Article URL: https://www.workatastartup.com/jobs/98722 Comments URL: https://news.ycombinator.com/item?id=50300643 Points: 0 # Comments: 0",
-   "image": null
-  },
-  {
-   "title": "Rosalía Addresses Spain’s Train Disaster at WSJ. Magazine’s Innovator Awards",
-   "link": "https://www.billboard.com/music/awards/rosalia-addresses-spain-train-disaster-1236370833/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T06:26:26+00:00",
-   "summary": "“Sending my condolences to all the people affected by the accident that recently occurred in my country,” Rosalía said from the podium.",
-   "image": null
-  },
-  {
-   "title": "‘One Common Goal’: Macklemore, Aurora, and More Unite in Paris for Free Palestine Tour",
-   "link": "https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-paris-aurora-1235650278/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-30T06:20:49+00:00",
-   "summary": "The Seattle rapper arrived in Paris for the charity concert series' second stop after he was dropped from Ed Sheeran’s stadium tour for \"free Palestine\" statements",
-   "image": null
-  },
-  {
-   "title": "UK government’s obesity plan ‘doomed to fail’, MPs warn",
-   "link": "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-30T06:01:45+00:00",
-   "summary": "Cross-party committee says ‘moonshot’ vow to end obesity epidemic in a decade will fail without personal leadership from PM The UK government’s promise to reverse rising obesity rates in the next decade is “doomed to…",
-   "image": "https://i.guim.co.uk/img/media/6f12300ff60cb65768ceac89b0a06f807b31a19c/3_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fb92f6d6cf708cbbd13c229ac8b2e052"
-  },
-  {
    "title": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
    "link": "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
    "source": "The Guardian",
@@ -648,24 +1233,6 @@
    "published": "2026-10-30T06:00:47+00:00",
    "summary": "Andy Burnham must tread cautiously, but Brexit was a very grave act of self-harm – and he is right to address it Andy Burnham’s opening debate on whether Britain should rejoin the EU is divisive, painful and politically…",
    "image": "https://i.guim.co.uk/img/media/76734a5078f8ca9e4585533783cc6c84ca571e77/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=126f0fb1b9a320aba3d71e23b1b9c758"
-  },
-  {
-   "title": "Hitting the fan: London council angers residents with removal of 700 dog-waste bins",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/30/london-council-remove-dog-waste-bins-hillingdon",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-30T06:00:46+00:00",
-   "summary": "Conservative-run Hillingdon aims to save £100,000 but local people fear dog poo will ‘be dumped everywhere’ People in a west London borough fear it will become covered in dog poo after their cash-strapped council…",
-   "image": "https://i.guim.co.uk/img/media/70dc1438439b0a0b7cd9b202dc4bbc86eda0073e/124_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=310f1177f037d56d190fefaf5fbd6309"
-  },
-  {
-   "title": "After an Incredible Brush With Dolly Parton, Fanny Lumsden Celebrates Her ‘Traditions’",
-   "link": "https://www.billboard.com/music/country/fanny-lumsden-interview-traditions-1236370817/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-30T05:51:09+00:00",
-   "summary": "Lumsden talks Dolly Parton, Paul Kelly and her new album, the followup to her ARIA Award winner \"Hey Dawn.\"",
-   "image": null
   },
   {
    "title": "On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity",
@@ -695,15 +1262,6 @@
    "image": "https://i.guim.co.uk/img/media/6c3dcf076474b83a41ffa343627553682e8ea037/70_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=cb0ff3a8fda3363de83c172e8430c5cb"
   },
   {
-   "title": "Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers",
-   "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-short-film-billie-eilish-phoebe-bridgers-1235650256/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-30T04:05:05+00:00",
-   "summary": "The video soundtracks \"The End,\" the first song from The Black Parade",
-   "image": null
-  },
-  {
    "title": "A Few Good Men review – Aaron Sorkin’s legal drama makes unwelcome return to stage",
    "link": "https://www.theguardian.com/stage/2026/oct/30/few-good-men-aaron-sorkin-review",
    "source": "The Guardian Culture",
@@ -711,33 +1269,6 @@
    "published": "2026-10-30T03:00:42+00:00",
    "summary": "Vivian Beaumont theater, New York City Unconvincing performances and an ill-fitting big stage make a retooled version of the classic courtroom drama feel like a missed opportunity Given the current state of the US…",
    "image": "https://i.guim.co.uk/img/media/ee71be12f1d0ae828757539673831e5be09bf8d0/4220_846_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=1ff42d5d7dd6c4cadce575c3750c73c0"
-  },
-  {
-   "title": "Pico CSS is no longer maintained",
-   "link": "https://github.com/picocss/pico/discussions/754",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T01:58:44+00:00",
-   "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 168 # Comments: 79",
-   "image": null
-  },
-  {
-   "title": "Ian McKellen Honors Close Friend Patrick Stewart: ‘A Man to Rely On, to Admire and In My Case, Love’",
-   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/ian-mckellen-patrick-stewart-tribute-1235650247/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-30T01:40:39+00:00",
-   "summary": "McKellen remembered meeting Stewart \"half a century ago\" and shared one of his early memories of the revered actor",
-   "image": null
-  },
-  {
-   "title": "Justice Department issues subpoenas to California election workers",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
-   "source": "NPR Politics",
-   "category": "politics",
-   "published": "2026-10-30T01:35:54+00:00",
-   "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
-   "image": null
   },
   {
    "title": "A ghost story in the US Capitol",
@@ -767,33 +1298,6 @@
    "image": null
   },
   {
-   "title": "Herdr has released native app",
-   "link": "https://github.com/herdrdev/herdr-app",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T00:42:41+00:00",
-   "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 258 # Comments: 173",
-   "image": null
-  },
-  {
-   "title": "Cormac McCarthy's Library",
-   "link": "https://cormacmccarthy.lib.utk.edu/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-30T00:31:00+00:00",
-   "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 74 # Comments: 26",
-   "image": null
-  },
-  {
-   "title": "How Silvana Estrada Expanded the World of ‘Vendrán Suaves Lluvias’",
-   "link": "https://www.rollingstone.com/music/music-latin/silvana-estrada-vendran-suaves-lluvias-new-songs-interview-1235644227/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-30T00:14:37+00:00",
-   "summary": "The Mexican singer followed up her gorgeous album with 'Pensarte' and the M. Ward-assisted 'Todo Baile'",
-   "image": null
-  },
-  {
    "title": "Minnesota official's voter guide message on Somali TV triggers viral backlash: 'Not an accident'",
    "link": "https://www.foxnews.com/politics/minnesota-officials-voter-guide-message-somali-tv-triggers-viral-backlash-not-accident",
    "source": "Fox News Politics",
@@ -801,15 +1305,6 @@
    "published": "2026-10-30T00:00:12+00:00",
    "summary": "A Minnesota voter outreach director's appearance on Somali TV explaining same-day voter registration sparked fierce election integrity concerns online.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/melanie-mn-voting.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "The director of Obsession put a new horror short on YouTube",
-   "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-29T23:57:18+00:00",
-   "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning…",
-   "image": null
   },
   {
    "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
@@ -830,33 +1325,6 @@
    "image": null
   },
   {
-   "title": "Intel says it’s selling every affordable laptop chip it can make",
-   "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-   "source": "The Verge",
-   "category": "tech",
-   "published": "2026-10-29T23:42:21+00:00",
-   "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has…",
-   "image": null
-  },
-  {
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "link": "https://github.com/mottopanikeiku/doomformer",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T23:25:46+00:00",
-   "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and…",
-   "image": null
-  },
-  {
-   "title": "Faith Evans Must Pay $12.5 Million to the Notorious B.I.G.’s Former Manager",
-   "link": "https://www.rollingstone.com/music/music-news/faith-evans-notorious-big-manager-voletta-wallace-estate-1235650168/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T22:47:30+00:00",
-   "summary": "Biggie's mother, Voletta Wallace, appointed Barrow executor of her estate before she died in 2025",
-   "image": null
-  },
-  {
    "title": "US dual citizen extradited to El Salvador, accused of killing son's mother and abandoning toddler: DOJ",
    "link": "https://www.foxnews.com/politics/us-dual-citizen-extradited-el-salvador-accused-killing-sons-mother-abandoning-toddler-doj",
    "source": "Fox News Politics",
@@ -866,48 +1334,12 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/michael-alejandro-castillo-murga-doj-extradition-split-image.jpg?ve=1&tl=1"
   },
   {
-   "title": "Patrick Stewart: 10 Essential Roles",
-   "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/patrick-stewart-best-roles-1235649980/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T22:37:49+00:00",
-   "summary": "From Picard to Pinter, Professor X to the worlds most critical pighead — these roles defined Sir Patrick's work onscreen",
-   "image": null
-  },
-  {
    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
    "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
    "source": "TechCrunch",
    "category": "tech",
    "published": "2026-10-29T22:27:23+00:00",
    "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-   "image": null
-  },
-  {
-   "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-   "link": "https://journal.animationstudies.org/article/id/66/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T22:26:38+00:00",
-   "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 134 # Comments: 33",
-   "image": null
-  },
-  {
-   "title": "Should a medical diagnosis reshape the past? (2025)",
-   "link": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T22:12:29+00:00",
-   "summary": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 54 # Comments: 11",
-   "image": null
-  },
-  {
-   "title": "Kevin Feige, Hugh Jackman, Seth MacFarlane Remember Patrick Stewart: ‘This One Hurts’",
-   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-celebrities-reacts-tributes-1235650051/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T22:00:30+00:00",
-   "summary": "The late actor's Star Trek co-stars, including Jeri Ryan and George Takei, are among the Hollywood figures who have paid tribute to the acting great",
    "image": null
   },
   {
@@ -920,15 +1352,6 @@
    "image": null
   },
   {
-   "title": "Cheap Trick Announce First Touring Break in 50 Years: ‘Not For Health Reasons’",
-   "link": "https://www.rollingstone.com/music/music-news/cheap-trick-touring-break-not-for-health-reasons-1235649919/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T21:51:26+00:00",
-   "summary": "\"Many thanks to everyone who has expressed concern for us,\" they wrote in a group statement. \"To clear things up, we’ve decided to take some time off after decades of touring because we need a break\"",
-   "image": null
-  },
-  {
    "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
    "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
    "source": "Ars Technica",
@@ -936,33 +1359,6 @@
    "published": "2026-10-29T21:47:57+00:00",
    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-500x500.jpg"
-  },
-  {
-   "title": "William Shatner Pays Tribute to Patrick Stewart: ‘A Friend, a Colleague, and a Magnificent Actor’",
-   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/william-shatner-tribute-patrick-stewart-star-trek-1235650102/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T21:43:35+00:00",
-   "summary": "\"Captain Picard stood for the best of us, and so did the man who played him,\" actor who played Captain Kirk said of Star Trek: The Next Generation star",
-   "image": null
-  },
-  {
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "link": "https://labs.ycombinator.com/projects/games/index.html",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T21:40:28+00:00",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 325 # Comments: 127",
-   "image": null
-  },
-  {
-   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T21:38:59+00:00",
-   "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1525 # Comments: 1001",
-   "image": null
   },
   {
    "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
@@ -1019,15 +1415,6 @@
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/donald-trump-elissa-slotkin-fox-news.jpg?ve=1&tl=1"
   },
   {
-   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "link": "https://github.com/SheepSeb/tinyworldformer",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T20:32:28+00:00",
-   "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 238 # Comments: 16",
-   "image": null
-  },
-  {
    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
    "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
    "source": "Ars Technica",
@@ -1055,33 +1442,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-500x500-1792605024.jpg"
   },
   {
-   "title": "Rivian expands joint venture with VW to include AI assistant",
-   "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T20:05:47+00:00",
-   "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-   "image": null
-  },
-  {
-   "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-   "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T20:02:03+00:00",
-   "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-   "image": null
-  },
-  {
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T19:56:19+00:00",
-   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-   "image": null
-  },
-  {
    "title": "Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted",
    "link": "https://www.foxnews.com/politics/report-alleged-second-dan-sullivan-effort-emerges-early-1-10-alaskans-voted",
    "source": "Fox News Politics",
@@ -1089,33 +1449,6 @@
    "published": "2026-10-29T19:19:21+00:00",
    "summary": "The Alaska Division of Elections reported roughly 58,000 early ballots cast as Dan Sullivan faces a same-name independent challenger on the ballot.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/SullivanPeltola_002.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-   "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T19:17:49+00:00",
-   "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-   "image": null
-  },
-  {
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T19:14:36+00:00",
-   "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-   "image": null
-  },
-  {
-   "title": "Trump declares robot imports a national security threat",
-   "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "published": "2026-10-29T19:07:53+00:00",
-   "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-500x500.jpg"
   },
   {
    "title": "Feds raid multiple Minnesota autism service providers amid Medicaid fraud investigations",
@@ -1154,15 +1487,6 @@
    "image": "https://i.guim.co.uk/img/media/d80ab83eddd23dba8663d7563f188c52bacc2ac0/359_31_1948_1558/master/1948.jpg?width=140&quality=85&auto=format&fit=max&s=87a1ae61d374f3b5202c747108a27a3b"
   },
   {
-   "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-   "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "published": "2026-10-29T18:29:12+00:00",
-   "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-500x500.jpg"
-  },
-  {
    "title": "The Guardian view on online harms: Ofcom is failing at its job | Editorial",
    "link": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-online-harms-ofcom-is-failing-at-its-job",
    "source": "The Guardian",
@@ -1170,78 +1494,6 @@
    "published": "2026-10-29T18:25:27+00:00",
    "summary": "Expressions of disappointment are not an adequate response to the concerning lack of safety improvements for children on social media One thing is clear following last week’s report from the media regulator, Ofcom: the…",
    "image": "https://i.guim.co.uk/img/media/f279ae7cd0759376715d0d365d139734417e354b/623_0_5740_4592/master/5740.jpg?width=140&quality=85&auto=format&fit=max&s=a2009fa289b7d2fee558c0b25aea9f6c"
-  },
-  {
-   "title": "Dead felon voting controversy grows as 'Betty No Last Name' surfaces in Spanberger's rights restoration push",
-   "link": "https://www.foxnews.com/politics/dead-felon-voting-controversy-grows-betty-no-last-name-surfaces-spanberger-rights-restoration-push",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T18:18:32+00:00",
-   "summary": "Virginia Gov. Abigail Spanberger's office sent a voting rights citation to \"Betty No Last Name,\" raising fraud concerns over felon restoration.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/abigail-spanberger-virginia-fair-elections-woodbridge-fox-news-001.jpeg?ve=1&tl=1"
-  },
-  {
-   "title": "Libertarians challenge Trump-backed Republicans, look to shake up midterms beyond GOP-Dem duopoly",
-   "link": "https://www.foxnews.com/politics/libertarians-challenge-trump-backed-republicans-look-shake-up-midterms-beyond-gop-dem-duopoly",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T18:08:40+00:00",
-   "summary": "Libertarian candidate Jeremy Todd is running for the U.S. House of Representatives in Kentucky's 4th Congressional District after incumbent Rep. Thomas Massie lost the GOP primary.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jeremy-todd-thomas-massie.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
-   "link": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T18:08:15+00:00",
-   "summary": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c13/live/7da04f20-d392-11f1-b490-07d78ce4b8e5.jpg"
-  },
-  {
-   "title": "Hold your nose: a £1.25bn subsidy for rich Rolls-Royce’s new engine had to happen",
-   "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-29T18:07:27+00:00",
-   "summary": "The chancellor’s budget giveaway is, unfortunately, a reflection of how life works in the global aerospace business It wasn’t a “nothing” budget for engine-maker Rolls-Royce. The company was handed £1.25bn from public…",
-   "image": "https://i.guim.co.uk/img/media/858f02abde6157d2f856cca86d61a494ca2b7899/513_0_2487_1990/master/2487.jpg?width=140&quality=85&auto=format&fit=max&s=110085b1c072549d4f788af13be7838c"
-  },
-  {
-   "title": "Turning a solar power system into its own backup",
-   "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "published": "2026-10-29T18:02:26+00:00",
-   "summary": "Plant design allows it to run on either stored solar heat or combustion.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-500x500.jpeg"
-  },
-  {
-   "title": "What are the government's options for reducing welfare spending?",
-   "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:59:57+00:00",
-   "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ce1/live/683365e0-d3bb-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "Granola crunches up a dictation feature to compete with Wispr",
-   "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T17:54:38+00:00",
-   "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-   "image": null
-  },
-  {
-   "title": "Lib Dems and Reform UK in war of words over alleged shove",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:46:15+00:00",
-   "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c830/live/c86392f0-d3bb-11f1-8c27-87a7c72809db.jpg"
   },
   {
    "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
@@ -1253,69 +1505,6 @@
    "image": "https://i.guim.co.uk/img/media/2183461f44353da3f2611218286e20edea1be335/519_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=9bee1c2cd638288a1c72a290f381456b"
   },
   {
-   "title": "Sky-high gas prices aren't shaking Trump's MAGA faithful in oil country as supporters warn of bigger threat",
-   "link": "https://www.foxnews.com/politics/sky-high-gas-prices-arent-shaking-trumps-maga-faithful-oil-country-supporters-warn-bigger-threat",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:35:05+00:00",
-   "summary": "Donald Trump rallied supporters in Texas who say rising costs haven't shaken their loyalty, warning socialism and progressive policies threaten America.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-rally-texas-voters-3-split.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "published": "2026-10-29T17:21:33+00:00",
-   "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-500x500-1788462770.jpg"
-  },
-  {
-   "title": "Little-known rule could stop socialists from being sworn into Congress",
-   "link": "https://www.foxnews.com/politics/little-known-rule-could-stop-socialists-from-being-sworn-congress",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:20:19+00:00",
-   "summary": "Rep. Keith Self says he could challenge Democratic Socialists of America members' right to take the House oath of office in the new Congress.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/darializa-chevalier-dsa.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "'Decoy Dan' Sullivan case leads top senator to break four-year X silence: 'Pattern of Lies'",
-   "link": "https://www.foxnews.com/politics/decoy-dan-sullivan-case-leads-top-senator-break-four-year-x-silence-pattern-lies",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:19:14+00:00",
-   "summary": "Lisa Murkowski broke years of silence on X to accuse Mary Peltola's team of ballot manipulation through a decoy Dan Sullivan candidate scheme.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Lisa-Murkowski-in-a-hearing.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Cruz says there's 'real risk that Americans will die' if El-Sayed gains access to US intelligence",
-   "link": "https://www.foxnews.com/politics/cruz-says-real-risk-americans-die-el-sayed-gains-access-us-intelligence",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T17:02:19+00:00",
-   "summary": "Sen. Ted Cruz suggested that if Democratic U.S. Senate candidate Abdul El-Sayed becomes a senator, he could tip off terrorists using U.S. intelligence.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/df4c57da-ted-cruz.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T17:00:00+00:00",
-   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-   "image": null
-  },
-  {
-   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T16:42:32+00:00",
-   "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-   "image": null
-  },
-  {
    "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
    "link": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
    "source": "The Guardian Culture",
@@ -1325,42 +1514,6 @@
    "image": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=929b1a01ffc5eacbac0e9d176314b4c1"
   },
   {
-   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-   "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-   "source": "Ars Technica",
-   "category": "tech",
-   "published": "2026-10-29T16:24:55+00:00",
-   "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg"
-  },
-  {
-   "title": "Trump DOJ's fight over 20K suspected noncitizen voters takes sharp turn as California ballots pour in",
-   "link": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T16:18:50+00:00",
-   "summary": "A federal judge blocked the Justice Department's bid to sequester ballots from over 20,000 suspected noncitizen voters on California's voter rolls.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/california-ballot-drop-box-fox-news-001.jpeg?ve=1&tl=1"
-  },
-  {
-   "title": "The ‘breathing space budget’ – breathing space for the government, that is | John Crace",
-   "link": "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-29T16:11:11+00:00",
-   "summary": "John Healey aced the morning-after media round because his Martin Lewis measures left nothing to challenge him on Maybe it had been one of the greatest acts of political genius after all. The day after the budget is…",
-   "image": "https://i.guim.co.uk/img/media/331a990997a442673f2fae223478481ad502237f/3070_0_4031_3229/master/4031.jpg?width=140&quality=85&auto=format&fit=max&s=330a0c692ccce64528a2c6938339aa2d"
-  },
-  {
-   "title": "Further delays for major council overhaul in nine of 14 proposed areas",
-   "link": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T16:02:51+00:00",
-   "summary": "Proposals to merge smaller councils to form larger unitary authorities were put on hold last month.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f0d/live/f1d42d20-d398-11f1-b490-07d78ce4b8e5.jpg"
-  },
-  {
    "title": "​‘He buckled. I could hear his bass ringing out ...’ The luminous rise and tragic end of US alt heroes Morphine",
    "link": "https://www.theguardian.com/music/2026/oct/29/morphine-mark-sandman-cocoon-partisan",
    "source": "The Guardian Culture",
@@ -1368,114 +1521,6 @@
    "published": "2026-10-29T16:00:47+00:00",
    "summary": "​Fronted by Mark Sandman​,​ the group brought enigmatic, elegant rock to post-grunge America. As lost demos surface, those closest to Sandman remember a man who grabbed on to life’s joys It’s early 1998, and at Fort…",
    "image": "https://i.guim.co.uk/img/media/7e6a8b97d406ea76e1944a7ff7212605ffe6ad17/1531_759_3894_3115/master/3894.jpg?width=140&quality=85&auto=format&fit=max&s=20988bc6a44090cb5dcdd9e640acf302"
-  },
-  {
-   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-   "link": "https://news.ycombinator.com/item?id=50291116",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T15:56:32+00:00",
-   "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were…",
-   "image": null
-  },
-  {
-   "title": "H.264 Is Magic (2016)",
-   "link": "https://sidbala.com/h-264-is-magic/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T15:53:03+00:00",
-   "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 465 # Comments: 153",
-   "image": null
-  },
-  {
-   "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T15:42:56+00:00",
-   "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/4b0bdaa0-d3b7-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "title": "Bereaved families will not face tax bill over pension delays under new rules",
-   "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T15:18:04+00:00",
-   "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg"
-  },
-  {
-   "title": "Obama admin first launched the investigation into Ilhan Omar's alleged brother marriage",
-   "link": "https://www.foxnews.com/politics/obama-admin-first-launched-investigation-ilhan-omars-alleged-brother-marriage",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T15:05:27+00:00",
-   "summary": "The FBI probe into whether Ilhan Omar married her brother began under Barack Obama in 2016, but a Biden-appointed attorney shut it down in 2021.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Obama-Omar.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "LLM Voice",
-   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T14:57:55+00:00",
-   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 514 # Comments: 275",
-   "image": null
-  },
-  {
-   "title": "Maine, Kansas Senate races neck and neck as Democrats lead in Texas, Michigan, poll shows",
-   "link": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T14:49:10+00:00",
-   "summary": "High-profile Senate races in Maine, Texas, Michigan and Kansas are extremely tight, with Democrats leading in all four according to a new CNN poll.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/El_Sayed_Collins_talarico.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Economist and former Burnham advisor scores Budget 4 out of 10",
-   "link": "https://www.bbc.co.uk/news/videos/cve8rjl6ewjno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T14:45:40+00:00",
-   "summary": "Former Burnham advisor Andy Haldane scores Healey's Budget out of 10",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5290/live/d4b45820-d396-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Nearly 40 House Dems skip effort to end Ilhan Omar immigration probe",
-   "link": "https://www.foxnews.com/politics/nearly-40-house-dems-skip-effort-end-ilhan-omar-immigration-probe",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T14:30:53+00:00",
-   "summary": "Nancy Pelosi and Steny Hoyer were among nearly 40 House Democrats who did not sign Pramila Jayapal's letter defending Ilhan Omar's probe.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ilhan-omar-news-conference-us-capitol.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "Haley Stevens' fiance hammers El-Sayed, says he'll vote for Rogers",
-   "link": "https://www.foxnews.com/politics/haley-stevens-fiancee-hammers-el-sayed-says-hell-vote-rogers",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T13:23:15+00:00",
-   "summary": "Rep. Haley Stevens' Jewish fiance says he cannot vote for Abdul El-Sayed, calling the Michigan Senate nominee an antisemite who endangers Jews.",
-   "image": null
-  },
-  {
-   "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-   "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Politics",
-   "category": "politics",
-   "published": "2026-10-29T13:19:24+00:00",
-   "summary": "Budget forecasts show growth in living standards grinding almost to a halt.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "title": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
-   "link": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T13:08:37+00:00",
-   "summary": "Lt. Gen. Brett Sylvia allegedly failed three polygraph exams tied to classified leaks about the Iran war and Ukraine before Pete Hegseth fired him.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hegseth-sylvia.jpg?ve=1&tl=1"
   },
   {
    "title": "‘Algorithms make everything predictable’: why the CD is making a comeback",
@@ -1496,24 +1541,6 @@
    "image": "https://i.guim.co.uk/img/media/74a0cd981829a622de6e4a6a5964bf6280aa7aa2/0_3_2496_1996/master/2496.jpg?width=140&quality=85&auto=format&fit=max&s=2fafb131272d74995bbe42e564e4ccfa"
   },
   {
-   "title": "Fox News Power Rankings: South Carolina moves to toss-up",
-   "link": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T13:00:02+00:00",
-   "summary": "South Carolina's Senate race moves to toss-up as new polling shows Graham tied at 48%, and Trump heads to the upstate to boost the GOP senator.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ELEC26_FS_PWRRNK_SENATE_BOP_1029.png?ve=1&tl=1"
-  },
-  {
-   "title": "Bolsonaro declares himself 'leader' of Brazil after fleeing country, arriving in Miami",
-   "link": "https://www.foxnews.com/politics/brazils-bolsonaro-arrives-miami-following-exodus-passport-seizure-order-investigation",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T12:18:30+00:00",
-   "summary": "Brazilian Sen. Flávio Bolsonaro fled to Florida through Argentina after a Supreme Court justice ordered his passport seizure minutes after Lula won.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Bolsonaro_Family_Flavio.jpg?ve=1&tl=1"
-  },
-  {
    "title": "Night Plane review – join the jumbo jet to hell in this indie horror head trip",
    "link": "https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
    "source": "The Guardian Culture",
@@ -1521,33 +1548,6 @@
    "published": "2026-10-29T11:00:30+00:00",
    "summary": "Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the…",
    "image": "https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=edd51cadf182556517532e0dd381fadd"
-  },
-  {
-   "title": "Pop prodigy Underscores: ‘I don’t think Gen Z is a loveless generation’",
-   "link": "https://www.theguardian.com/music/2026/oct/29/underscores-april-grey-music-review-u-fishmonger-wallsocket",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-29T08:00:27+00:00",
-   "summary": "With a sound inspired by the San Francisco tech boom, the hyperpop musician is entering the big leagues, and has a slot on Charli xcx’s tour. First she needs to get over her own shyness – not to mention a fear of love…",
-   "image": "https://i.guim.co.uk/img/media/47007b670a3eca3bef1b6e270990f9c9276c3c1b/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=647fcbf72f828d944d8db38bd95466ba"
-  },
-  {
-   "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
-   "link": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-29T07:00:26+00:00",
-   "summary": "Colman stars as a depressed and bullied fisherwoman in medieval England. Fortunately, Peter Dinklage’s basketmaker delivers the answer to her dreams – an Alexander Skarsgård made of wicker The spirit of mystery author…",
-   "image": "https://i.guim.co.uk/img/media/09cca9caafc5dbf003f61c9d07f5912ff5f41927/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fb3ee7c0c0004166a54ef11acd1a0a6d"
-  },
-  {
-   "title": "The rise and fall of mid-century modern: how millennials fell out of love with their favourite look",
-   "link": "https://www.theguardian.com/lifeandstyle/2026/oct/29/the-rise-and-fall-of-mid-century-modern-how-millennials-fell-out-of-love-with-their-favourite-look",
-   "source": "The Guardian Culture",
-   "category": "pop",
-   "published": "2026-10-29T05:00:24+00:00",
-   "summary": "Once coveted for its clean lines and timeless design, the functional furniture is no longer seen as cool. Anyone for cottagecore and chrome? “I definitely don’t think it is cringe,” says Laura Budds, a vintage furniture…",
-   "image": "https://i.guim.co.uk/img/media/dfe206386c13358afa334498a757bd3b558fa0e6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7f6ee23994a20ca09a6f05117c9d0169"
   },
   {
    "title": "Metropolis: more than four decades of street photography – in pictures",
