@@ -1,6 +1,222 @@
 {
- "updated": "2026-10-30T00:09:18.539806+00:00",
+ "updated": "2026-10-30T06:13:38.381303+00:00",
  "items": [
+  {
+   "title": "Japan’s Anime Market Hits Record $28.2 Billion as Local Sales Surge",
+   "link": "https://variety.com/2026/film/markets-festivals/japan-anime-market-record-28-billion-local-sales-surge-1236934838/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T06:02:57+00:00",
+   "summary": "Spending on Japanese anime worldwide reached a record JPY4.45 trillion ($28.2 billion) in 2025. That is up 15.8% on the previous year, and overseas consumers now account for well over half of the total. Hasegawa…",
+   "image": "https://variety.com/wp-content/uploads/2025/09/Demon-Slayer-Infinity-Castle1.jpg"
+  },
+  {
+   "title": "After an Incredible Brush With Dolly Parton, Fanny Lumsden Celebrates Her ‘Traditions’",
+   "link": "https://www.billboard.com/music/country/fanny-lumsden-interview-traditions-1236370817/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T05:51:09+00:00",
+   "summary": "Lumsden talks Dolly Parton, Paul Kelly and her new album, the followup to her ARIA Award winner \"Hey Dawn.\"",
+   "image": null
+  },
+  {
+   "title": "Rishab Shetty’s Chhatrapati Shivaji Maharaj Epic ‘The Pride of Bharat’ Lands T-Series, Set as Two-Part Saga (EXCLUSIVE)",
+   "link": "https://variety.com/2026/film/news/ishab-shetty-shivaji-epic-pride-of-bharat-t-series-1236934634/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T05:30:00+00:00",
+   "summary": "India’s T-Series has boarded “The Pride of Bharat – Chhatrapati Shivaji Maharaj,” Sandeep Singh’s historical epic starring “Kantara” actor Rishab Shetty as the Maratha king. The project will now be made in two parts…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Rishab-Shetty-Bhushan-Kumar.jpg"
+  },
+  {
+   "title": "British Council’s £197m debt should mostly be written off, MPs say",
+   "link": "https://www.theguardian.com/politics/2026/oct/30/british-council-debt-should-mostly-be-written-off-say-mps",
+   "source": "The Guardian",
+   "category": "politics",
+   "published": "2026-10-30T05:00:46+00:00",
+   "summary": "Commons report calls on Foreign Office to bail out soft-power flagship reeling from job cuts and asset sales Ministers should explore writing off a crippling £197m loan to the British Council by converting as much of it…",
+   "image": "https://i.guim.co.uk/img/media/53d775c197b5ec5fb1b1d586a395f2ff133748e2/1244_69_4056_3244/master/4056.jpg?width=140&quality=85&auto=format&fit=max&s=3f083335d1ed43e4e04e483d080be106"
+  },
+  {
+   "title": "‘Final Album, Final Tour’: Ministry’s Al Jourgensen Talks ‘Hate to Go’",
+   "link": "https://www.billboard.com/music/rock/ministry-al-jourgensen-interview-hate-to-go-1236370718/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T04:06:53+00:00",
+   "summary": "Ministry does not pull a single punch on \"Hate To Go,\" which castigates social media, AI and the current political leadership of the United States.",
+   "image": null
+  },
+  {
+   "title": "Watch My Chemical Romance and Lauren Tsai’s Otherworldly Short Film Featuring Billie Eilish, Phoebe Bridgers",
+   "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-short-film-billie-eilish-phoebe-bridgers-1235650256/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T04:05:05+00:00",
+   "summary": "The video soundtracks \"The End,\" the first song from The Black Parade",
+   "image": null
+  },
+  {
+   "title": "Shabana Azmi, Marco Müller Set for Inaugural Kathmandu Film Festival",
+   "link": "https://variety.com/2026/film/festivals/shabana-azmi-marco-muller-inaugural-kathmandu-film-festival-1236934643/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T03:30:00+00:00",
+   "summary": "Veteran Indian actor Shabana Azmi and film critic and historian Marco Müller are among the guests at the first Kathmandu Film Festival (KFF), which runs Oct. 30–Nov. 1 in Nepal. Launched by Kathmandu Metropolitan City…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Shabana-Azmi-Marco-Muller.jpg"
+  },
+  {
+   "title": "Powderfinger Sets ‘Encore’ Dates for 2027 Reunion Tour",
+   "link": "https://www.billboard.com/music/concerts/powderfinger-encore-dates-2027-reunion-tour-1236370788/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-10-30T02:47:49+00:00",
+   "summary": "The beloved Australian rock band announces an “Encore Run” of nine shows, which will see their tour stretch into December 2027.",
+   "image": null
+  },
+  {
+   "title": "What to Watch on Netflix in November 2026",
+   "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T02:35:00+00:00",
+   "summary": "November means fall is in full swing, and Netflix has a ton of new titles to celebrate. Whether you’re looking to watch family-friendly films over Thanksgiving or are still looking to be spooked post-spooky season…",
+   "image": "https://variety.com/wp-content/uploads/2026/08/The_Hunting_Wives_n_S2_E1_00_01_34_09R.jpg"
+  },
+  {
+   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+   "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T02:33:04+00:00",
+   "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 38 # Comments: 28",
+   "image": null
+  },
+  {
+   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+   "link": "https://github.com/Millillion/lasm",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T02:05:41+00:00",
+   "summary": "Lasm has been my dream for a good part of 2026. I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly…",
+   "image": null
+  },
+  {
+   "title": "Pico CSS is no longer maintained",
+   "link": "https://github.com/picocss/pico/discussions/754",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T01:58:44+00:00",
+   "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 89 # Comments: 25",
+   "image": null
+  },
+  {
+   "title": "Ian McKellen Honors Close Friend Patrick Stewart: ‘A Man to Rely On, to Admire and In My Case, Love’",
+   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/ian-mckellen-patrick-stewart-tribute-1235650247/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T01:40:39+00:00",
+   "summary": "McKellen remembered meeting Stewart \"half a century ago\" and shared one of his early memories of the revered actor",
+   "image": null
+  },
+  {
+   "title": "Justice Department issues subpoenas to California election workers",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+   "source": "NPR Politics",
+   "category": "politics",
+   "published": "2026-10-30T01:35:54+00:00",
+   "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+   "image": null
+  },
+  {
+   "title": "A ghost story in the nation's Capitol",
+   "link": "https://www.foxnews.com/politics/ghost-story-nations-capitol",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-10-30T01:31:46+00:00",
+   "summary": "Chad Pergram recalls slipping on the U.S. Capitol steps in front of Justin Trudeau and explores the ghostly history behind his unexpected fall.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chad-pergram-.png?ve=1&tl=1"
+  },
+  {
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "source": "TechCrunch",
+   "category": "tech",
+   "published": "2026-10-30T01:20:48+00:00",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+   "image": null
+  },
+  {
+   "title": "What to Watch on Disney+ in November 2026",
+   "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T01:20:00+00:00",
+   "summary": "As Disney+ heads into November, the streaming platform is beginning to phase out of its Halloween thrills and introduce a new slate of holiday favorites. Among this month’s Christmas-centered additions are “A Bad Moms…",
+   "image": "https://variety.com/wp-content/uploads/2023/02/A-BAD-MOMS-CHRISTMAS.jpg"
+  },
+  {
+   "title": "‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut",
+   "link": "https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T01:06:54+00:00",
+   "summary": "Hong Sangsoo’s “Nowhere to Lay My Eyes,” a triple prizewinner at the 79th Locarno Film Festival, and Kim Jin-yu’s “Journey There,” the first Korean production to star “Beef” actor Justin H. Min, have picked up a new…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Journey-There.jpg"
+  },
+  {
+   "title": "Herdr has released native app",
+   "link": "https://github.com/herdrdev/herdr-app",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T00:42:41+00:00",
+   "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 108 # Comments: 72",
+   "image": null
+  },
+  {
+   "title": "Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’",
+   "link": "https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T00:35:36+00:00",
+   "summary": "Ian McKellen wrote a moving tribute to Patrick Stewart, his close friend of many years, following his death Thursday at age 86 after suffering from Alzheimer’s and Lewy Body Dementia. “Before everything else, Patrick…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Star-Trek-Picard-UK-Premiere-Red-Carpet-Arrivals-1000.jpg"
+  },
+  {
+   "title": "Cormac McCarthy's Library",
+   "link": "https://cormacmccarthy.lib.utk.edu/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-30T00:31:00+00:00",
+   "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 37 # Comments: 16",
+   "image": null
+  },
+  {
+   "title": "California Begins Discussion on Unlimited Film Incentives: ‘That Is a Heavy Lift’",
+   "link": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T00:16:35+00:00",
+   "summary": "California lawmakers began a discussion Thursday about removing the cap on the state’s $750 million incentive for film and TV production, while acknowledging that such a move would face budget hurdles. At an Assembly…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Rick-Chavez-Zbur.jpg"
+  },
+  {
+   "title": "Matthew Weiner Exits Peacock, 101 Studios Series ‘The Chairman’ Starring Eddie Murphy (EXCLUSIVE)",
+   "link": "https://variety.com/2026/tv/news/matthew-weiner-peacock-101-studios-chairman-eddie-murphy-1236934392/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-10-30T00:15:00+00:00",
+   "summary": "Matthew Weiner is no longer involved with the drama series “The Chairman” that is currently in development at Peacock, Variety has learned exclusively from sources. The project was first reported to be in the works at…",
+   "image": "https://variety.com/wp-content/uploads/2026/10/Matthew-Weiner-e1793301739540.jpg"
+  },
+  {
+   "title": "How Silvana Estrada Expanded the World of ‘Vendrán Suaves Lluvias’",
+   "link": "https://www.rollingstone.com/music/music-latin/silvana-estrada-vendran-suaves-lluvias-new-songs-interview-1235644227/",
+   "source": "Rolling Stone",
+   "category": "pop",
+   "published": "2026-10-30T00:14:37+00:00",
+   "summary": "The Mexican singer followed up her gorgeous album with 'Pensarte' and the M. Ward-assisted 'Todo Baile'",
+   "image": null
+  },
   {
    "title": "Minnesota official's voter guide message on Somali TV triggers viral backlash: 'Not an accident'",
    "link": "https://www.foxnews.com/politics/minnesota-officials-voter-guide-message-somali-tv-triggers-viral-backlash-not-accident",
@@ -74,24 +290,6 @@
    "image": null
   },
   {
-   "title": "French Action Film ‘Red Bird’ Lands CIS Deal as D.C. Romance ‘Step Back, Doors Closing’ Bows at Tokyo Market (EXCLUSIVE)",
-   "link": "https://variety.com/2026/film/markets-festivals/french-actioner-red-bird-cis-deal-dc-romance-tokyo-1236934672/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T23:16:37+00:00",
-   "summary": "A French action film and an American indie romance are both up for grabs with international buyers at the Tokyo International Film Festival’s TIFFCOM market. Cappu Films has sold “Red Bird” to Kinologistika LLC for the…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Red-Bird.jpg"
-  },
-  {
-   "title": "Joseph Mazzello Leads Cecil Hotel Horror ‘A Grim Life,’ Cappu Films Boards Sales (EXCLUSIVE)",
-   "link": "https://variety.com/2026/film/markets-festivals/joseph-mazzello-cecil-hotel-horror-grim-life-1236934654/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T22:52:20+00:00",
-   "summary": "Joseph Mazzello, the “Bohemian Rhapsody” and “Jurassic Park” actor, heads the cast of “A Grim Life,” a supernatural thriller set inside Los Angeles’ Cecil Hotel. Hong Kong outfit Cappu Films has picked up international…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Joseph-Mazzello-Cecil-Hotel.jpg"
-  },
-  {
    "title": "Trump returns to South Carolina as Senate race tightens",
    "link": "https://www.npr.org/2026/10/29/nx-s1-6020915/trump-returns-to-south-carolina-as-senate-race-tightens",
    "source": "NPR Politics",
@@ -110,15 +308,6 @@
    "image": null
   },
   {
-   "title": "Mathis Landwehr Martial Arts Films ‘Lion Fist,’ ‘The Last Kumite’ Land Korea, Latin America Deals at Tokyo Market (EXCLUSIVE)",
-   "link": "https://variety.com/2026/film/markets-festivals/mathis-landwehr-martial-arts-films-lion-fist-the-last-kumite-land-deals-1236934651/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T22:41:36+00:00",
-   "summary": "Mathis Landwehr-led martial arts feature “Lion Fist” has been picked up for South Korea, Latin America and the CIS. Fellow Landwehr starrer “The Last Kumite” has also found a South Korean home, sales outfit Cappu Films…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Lion-Fist-The-Last-Kumite.jpg"
-  },
-  {
    "title": "US dual citizen extradited to El Salvador, accused of killing son's mother and abandoning toddler: DOJ",
    "link": "https://www.foxnews.com/politics/us-dual-citizen-extradited-el-salvador-accused-killing-sons-mother-abandoning-toddler-doj",
    "source": "Fox News Politics",
@@ -133,7 +322,7 @@
    "source": "Rolling Stone",
    "category": "pop",
    "published": "2026-10-29T22:37:49+00:00",
-   "summary": "From Picard to Pinter, Professor X to the worlds most critical pighead — these roles defined Sir Patrick's work on screen",
+   "summary": "From Picard to Pinter, Professor X to the worlds most critical pighead — these roles defined Sir Patrick's work onscreen",
    "image": null
   },
   {
@@ -151,7 +340,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T22:26:38+00:00",
-   "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 24 # Comments: 1",
+   "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 88 # Comments: 18",
    "image": null
   },
   {
@@ -178,26 +367,8 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T22:14:23+00:00",
-   "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 23 # Comments: 5",
+   "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 60 # Comments: 27",
    "image": null
-  },
-  {
-   "title": "Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU",
-   "link": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T22:10:39+00:00",
-   "summary": "As James Gunn’s fledgling DC Universe continues to grow, he’s revealed that one key character will “almost certainly” return: Harley Quinn. But Margot Robbie, who played the anti-hero in three DCEU movies, may not be…",
-   "image": "https://variety.com/wp-content/uploads/2022/12/MCDBIOF_WB023-e1670425121649.jpg"
-  },
-  {
-   "title": "Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’",
-   "link": "https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T22:05:09+00:00",
-   "summary": "Patrick Stewart’s final movie role will be in the upcoming “Avengers: Doomsday,” which marks his ninth time playing the “X-Men” character Charles Xavier on the big screen. Marvel Studios confirmed the news in their…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/P115ONMP.jpg"
   },
   {
    "title": "Kevin Feige, Hugh Jackman, Seth MacFarlane Remember Patrick Stewart: ‘This One Hurts’",
@@ -207,15 +378,6 @@
    "published": "2026-10-29T22:00:30+00:00",
    "summary": "The late actor's Star Trek co-stars, including Jeri Ryan and George Takei, are among the Hollywood figures who have paid tribute to the acting great",
    "image": null
-  },
-  {
-   "title": "Skydance’s JB Perrette Reveals His Full Leadership Team, Announces Departures of Several Execs Not Joining Following the Paramount-Warner Bros. Merger",
-   "link": "https://variety.com/2026/tv/news/skydance-jb-perrette-leadership-team-departures-1236934597/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T21:58:21+00:00",
-   "summary": "Skydance’s JB Perrette, who now serves as co-chair and chief business officer of Skydance TV and Skydance Direct-to-Consumer, has unveiled his new executive org structure — and announced several departures from the…",
-   "image": "https://variety.com/wp-content/uploads/2024/03/JB-Perrette-1-e1629264608306_4935f6.webp"
   },
   {
    "title": "Billboard’s Music Industry Events Calendar",
@@ -245,30 +407,12 @@
    "image": null
   },
   {
-   "title": "Proton goes all in on using AI",
-   "link": "https://convo.casa/@b/117525936178835007",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T21:49:28+00:00",
-   "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 23 # Comments: 7",
-   "image": null
-  },
-  {
    "title": "Outkast Teams Up with the Georgia Bulldogs for a New Nike Collection",
    "link": "https://www.billboard.com/culture/product-recommendations/nike-x-uga-x-outkast-merch-apparel-buy-shop-online-1236370101/",
    "source": "Billboard",
    "category": "pop",
    "published": "2026-10-29T21:48:39+00:00",
    "summary": "Here's how to shop 'so fresh, so clean' merch and apparel online — the collection starts at $45.",
-   "image": null
-  },
-  {
-   "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-   "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T21:48:35+00:00",
-   "summary": "Article URL: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574 Comments URL: https://news.ycombinator.com/item?id=50296585 Points: 37 # Comments: 5",
    "image": null
   },
   {
@@ -313,7 +457,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T21:40:28+00:00",
-   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 101 # Comments: 35",
+   "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 241 # Comments: 82",
    "image": null
   },
   {
@@ -322,17 +466,8 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T21:38:59+00:00",
-   "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 536 # Comments: 298",
+   "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1038 # Comments: 625",
    "image": null
-  },
-  {
-   "title": "Byron Allen Earns Profit After Selling All the Starz Stock He Bought From Steven Mnuchin",
-   "link": "https://variety.com/2026/tv/news/byron-allen-sells-starz-stock-steven-mnuchin-1236934569/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T21:31:15+00:00",
-   "summary": "Buy low, sell high: Investor and media entrepreneur Byron Allen has sold all of the shares in Starz that he had acquired earlier this year from Steve Mnuchin, the former Hollywood producer who served as Treasury…",
-   "image": "https://variety.com/wp-content/uploads/2026/05/Byron-Allen.jpg"
   },
   {
    "title": "Three Latin Music Power Players on Being Managers in Today’s Industry: ‘It’s The Work That Goes Unseen’",
@@ -351,15 +486,6 @@
    "published": "2026-10-29T21:28:25+00:00",
    "summary": "The singer-songwriter's You Are The Reason Tour features dates across the United States until the end of November.",
    "image": null
-  },
-  {
-   "title": "Patrick Stewart’s Career in Photos: ‘Star Trek,’ ‘X-Men,’ ‘Avengers: Doomsday’ and More",
-   "link": "https://variety.com/lists/patrick-stewart-career-photos-star-trek-x-men-avengers-doomsday/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T21:26:55+00:00",
-   "summary": "Patrick Stewart, who died Wednesday at 86, starred in dozens of film, shows and TV movies across 60 years on screen. He was best known for playing Captain Jean-Luc Picard on “Star Trek” and Prof. Charles Xavier in the…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Patrick-Stewart.jpg"
   },
   {
    "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
@@ -394,7 +520,7 @@
    "source": "The Guardian Culture",
    "category": "pop",
    "published": "2026-10-29T21:02:36+00:00",
-   "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart dies aged 86 –…",
+   "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ His life in pictures Patrick Stewart brought gravitas and complexity…",
    "image": "https://i.guim.co.uk/img/media/451411478d4062c56265303616fcb6980243cad6/101_0_3125_2500/master/3125.jpg?width=140&quality=85&auto=format&fit=max&s=43116a13cdf1f11154b76bb41ab6d7ee"
   },
   {
@@ -407,21 +533,12 @@
    "image": null
   },
   {
-   "title": "‘Thursday Night Football’ 2026: Where to Livestream Carolina Panthers vs. Green Bay Packers Game Online",
-   "link": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-29T21:00:14+00:00",
-   "summary": "Watch the Panthers take on the Packers on Thursday, Oct. 29 — keep an eye out for possible celebrity sightings at the game too.",
-   "image": null
-  },
-  {
    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
    "link": "https://projects.freehackers.org/sylphide-os/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T20:59:55+00:00",
-   "summary": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 27 # Comments: 5",
+   "summary": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 56 # Comments: 15",
    "image": null
   },
   {
@@ -430,52 +547,16 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T20:56:39+00:00",
-   "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 42 # Comments: 8",
+   "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 86 # Comments: 19",
    "image": null
   },
   {
-   "title": "Meet Leah Barylsky, the Woman Behind the Camera – And On the Stage — During Rüfüs Du Sol’s Record-Breaking Tour",
-   "link": "https://www.billboard.com/music/music-news/leah-barylsky-rufus-du-sol-camerwoman-inhale-exhale-tour-1236370639/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-29T20:55:19+00:00",
-   "summary": "Leah Barylsky has been Rüfüs Du Sol’s camerawoman for eight years. On the Inhale/Exhale tour — the highest-grossing electronic tour of all time — she became something more.",
-   "image": null
-  },
-  {
-   "title": "Hugh Jackman Mourns ‘X-Men’ Co-Star Patrick Stewart: ‘A Tremendous Friend and Man. I Learned So Much From Him’",
-   "link": "https://variety.com/2026/film/news/patrick-stewart-dies-hugh-jackman-mourns-x-men-actor-1236934490/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-10-29T20:46:38+00:00",
-   "summary": "Hugh Jackman is mourning the loss of his long-time “X-Men” co-star and friend Patrick Stewart, who died on Wednesday at age 86 after a “brief battle” with Alzheimer’s and Lewy Body Dementia. “We lost one of the greats…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/MCDLOGA_FE010.jpg"
-  },
-  {
-   "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+   "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
    "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
    "source": "TechCrunch",
    "category": "tech",
    "published": "2026-10-29T20:43:56+00:00",
    "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-   "image": null
-  },
-  {
-   "title": "Notorious B.I.G. Estate Lawsuit Ends With Faith Evans Sending $14M to Voletta Wallace’s Trust",
-   "link": "https://www.billboard.com/pro/notorious-big-estate-lawsuit-judge-faith-evans-send-14m/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-10-29T20:43:08+00:00",
-   "summary": "The trustee for Biggie's late mother is still fighting another lawsuit with the rapper's son, CJ Wallace.",
-   "image": null
-  },
-  {
-   "title": "Yesterday and Today: The Best Merch and Gifts for Beatles Fans",
-   "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-beatles-merch-collectibles-855669/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T20:39:39+00:00",
-   "summary": "From vinyl and photo books to novelty collectibles, we've rounded up the best collectibles for Fab Four fanatics",
    "image": null
   },
   {
@@ -493,7 +574,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T20:32:28+00:00",
-   "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 82 # Comments: 7",
+   "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 176 # Comments: 10",
    "image": null
   },
   {
@@ -605,30 +686,12 @@
    "image": null
   },
   {
-   "title": "Patrick Stewart, Beloved ‘Star Trek’ and ‘X-Men’ Actor, Dead at 86",
-   "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-star-trek-actor-dead-1235141000/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T19:51:22+00:00",
-   "summary": "“We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace”",
-   "image": null
-  },
-  {
    "title": "Patrick Stewart has died",
    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T19:41:39+00:00",
-   "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2172 # Comments: 437",
-   "image": null
-  },
-  {
-   "title": "The importance of communities around software",
-   "link": "https://lumi.codeberg.page/blog/software-community.html",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T19:27:47+00:00",
-   "summary": "Article URL: https://lumi.codeberg.page/blog/software-community.html Comments URL: https://news.ycombinator.com/item?id=50294507 Points: 94 # Comments: 87",
+   "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2698 # Comments: 570",
    "image": null
   },
   {
@@ -638,15 +701,6 @@
    "category": "tech",
    "published": "2026-10-29T19:27:44+00:00",
    "summary": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This…",
-   "image": null
-  },
-  {
-   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-   "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T19:25:48+00:00",
-   "summary": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 33 # Comments: 21",
    "image": null
   },
   {
@@ -693,15 +747,6 @@
    "published": "2026-10-29T19:07:53+00:00",
    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-500x500.jpg"
-  },
-  {
-   "title": "Haywire Cause Chaos in Times Square With Pop-Up Show",
-   "link": "https://www.rollingstone.com/music/music-pictures/haywire-punk-band-times-square-popup-1235649792/",
-   "source": "Rolling Stone",
-   "category": "pop",
-   "published": "2026-10-29T19:01:11+00:00",
-   "summary": "“I just try to do everything to the extreme,” frontman Austin Sparkman previously told us. See what happened when his band attempted a takeover of New York's busiest intersection",
-   "image": null
   },
   {
    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
@@ -857,15 +902,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c830/live/c86392f0-d3bb-11f1-8c27-87a7c72809db.jpg"
   },
   {
-   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-   "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T17:43:48+00:00",
-   "summary": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-... , https://archive.ph/K7bih Comments URL: https://news.ycombinator.com/item?id=50293047 Points: 263 # Comments: 178",
-   "image": null
-  },
-  {
    "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
    "link": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
    "source": "The Guardian Culture",
@@ -891,15 +927,6 @@
    "published": "2026-10-29T17:30:39+00:00",
    "summary": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’ Selling nicotine-free vapes to children under the age of 18 has become…",
    "image": "https://i.guim.co.uk/img/media/82b5f9d23ff6af85a64102011750971f39a75e3a/472_24_5482_4384/master/5482.jpg?width=140&quality=85&auto=format&fit=max&s=ead9f3564f7981490d9eff46c5a8bd14"
-  },
-  {
-   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-   "link": "https://fig.blue/posts/duet-is-the-future/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T17:24:25+00:00",
-   "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 90 # Comments: 70",
-   "image": null
   },
   {
    "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
@@ -1024,7 +1051,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T16:14:28+00:00",
-   "summary": "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 80 # Comments: 7",
+   "summary": "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 99 # Comments: 8",
    "image": null
   },
   {
@@ -1069,16 +1096,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-10-29T15:53:03+00:00",
-   "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 303 # Comments: 118",
-   "image": null
-  },
-  {
-   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-   "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-10-29T15:45:05+00:00",
-   "summary": "Article URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler Comments URL: https://news.ycombinator.com/item?id=50290912 Points: 120 # Comments: 21",
+   "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 375 # Comments: 141",
    "image": null
   },
   {
@@ -1136,6 +1154,15 @@
    "image": "https://i.guim.co.uk/img/media/894d8312d83b3fd5ee77b7ece4dd0b518e3ada63/55_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=608c00f76e886a562e672288256b5657"
   },
   {
+   "title": "LLM Voice",
+   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-29T14:57:55+00:00",
+   "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 408 # Comments: 213",
+   "image": null
+  },
+  {
    "title": "Maine, Kansas Senate races neck and neck as Democrats lead in Texas, Michigan, poll shows",
    "link": "https://www.foxnews.com/politics/maine-kansas-senate-races-neck-and-neck-democrats-lead-texas-michigan-poll-shows",
    "source": "Fox News Politics",
@@ -1154,15 +1181,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5290/live/d4b45820-d396-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-   "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-   "source": "TechCrunch",
-   "category": "tech",
-   "published": "2026-10-29T14:35:26+00:00",
-   "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-   "image": null
-  },
-  {
    "title": "Nearly 40 House Dems skip effort to end Ilhan Omar immigration probe",
    "link": "https://www.foxnews.com/politics/nearly-40-house-dems-skip-effort-end-ilhan-omar-immigration-probe",
    "source": "Fox News Politics",
@@ -1170,6 +1188,15 @@
    "published": "2026-10-29T14:30:53+00:00",
    "summary": "Nancy Pelosi and Steny Hoyer were among nearly 40 House Democrats who did not sign Pramila Jayapal's letter defending Ilhan Omar's probe.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ilhan-omar-news-conference-us-capitol.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "We're releasing the weights of Mistral Large 4",
+   "link": "https://mistral.ai/news/mistral-large-4-oss/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-10-29T14:13:21+00:00",
+   "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1312 # Comments: 360",
+   "image": null
   },
   {
    "title": "Haley Stevens' fiance hammers El-Sayed, says he'll vote for Rogers",
@@ -1242,15 +1269,6 @@
    "published": "2026-10-29T12:54:18+00:00",
    "summary": "‘Compliance managers’ to have discussions with authority’s wealthiest customers in attempt to raise tax revenues Business live – latest updates The UK’s tax authority is assigning dedicated “customer compliance…",
    "image": "https://i.guim.co.uk/img/media/6ba637a151ce28d42eeb7437fab7d0a4359ca3ae/449_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=11e5b358ce5b1c3349689566e3e65c2e"
-  },
-  {
-   "title": "John Healey faces questions over budget leak that moved bank share prices",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-faces-questions-over-budget-leak-that-moved-bank-share-prices",
-   "source": "The Guardian",
-   "category": "politics",
-   "published": "2026-10-29T12:52:04+00:00",
-   "summary": "Treasury select committee asks FCA to investigate whether tax surcharge leak led to ‘improper release of inside information’ John Healey is facing pressure to clarify whether he permitted a market-sensitive budget leak…",
-   "image": "https://i.guim.co.uk/img/media/c393d32716aaa6e1232ff68a671361b46f7e6251/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=39027f0a5e21c3b51a943a2ccdc42ba1"
   },
   {
    "title": "Is this play-safe budget a sign that the prime minister is planning an early election? | Larry Elliott",
@@ -1341,15 +1359,6 @@
    "published": "2026-10-29T10:00:41+00:00",
    "summary": "Top House Republican Bryan Steil warns ActBlue could face criminal charges after President Donald Trump ordered the DOJ to investigate.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ActBlue-CEO-Regina-Wallace-Jones-House-hearing.jpg?ve=1&tl=1"
-  },
-  {
-   "title": "America's enemies prepare to take the next major war into outer space",
-   "link": "https://www.foxnews.com/politics/americas-enemies-prepare-take-next-major-war-outer-space",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-10-29T10:00:33+00:00",
-   "summary": "China and Russia are developing anti-satellite weapons including lasers, orbital interceptors and a nuclear space weapon that could cripple U.S. forces.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/russia-space-nuclear-weapon-satellite-threat-us-warning-001.jpeg?ve=1&tl=1"
   },
   {
    "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
@@ -1467,15 +1476,6 @@
    "published": "2026-10-29T04:48:32+00:00",
    "summary": "The 29th season has begun to slightly spin its wheels, but this poo-splattered episode suggests an imminent story arc: the release of Grand Theft Auto VI Are record beef shortages simply not that rich a topic for South…",
    "image": "https://i.guim.co.uk/img/media/71be7bf60948017611916875032fd38c51d9f6b2/760_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=93eb1863b4da16ed510c3eee215e39b4"
-  },
-  {
-   "title": "Hackers expose the identities of more than 40,000 DHS employees",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
-   "source": "NPR Politics",
-   "category": "politics",
-   "published": "2026-10-29T03:28:50+00:00",
-   "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
-   "image": null
   },
   {
    "title": "Healey tells departments to make 1% cuts to fund defence",
