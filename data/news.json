@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-21T22:49:01.381920+00:00",
+ "updated": "2026-11-22T02:50:17.594771+00:00",
  "items": [
+  {
+   "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+   "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-11-22T02:14:14+00:00",
+   "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 8 # Comments: 2",
+   "image": null
+  },
+  {
+   "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+   "link": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-11-22T01:36:18+00:00",
+   "summary": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/internet-scammer-presents-cybersecurity-threat.jpg?ve=1&tl=1"
+  },
+  {
+   "title": "Jennifer Lopez Teases ‘Monster-in-Law’ Sequel With Jane Fonda: ‘We’re Talking About Maybe Doing Another One’",
+   "link": "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-11-22T01:00:57+00:00",
+   "summary": "Jennifer Lopez and Jane Fonda might reunite for a “Monster-in-Law” follow-up, the singer and actress teased recently. In a clip from Lopez’s upcoming appearance on “The Drew Barrymore Show,” she reminisced with the host…",
+   "image": "https://variety.com/wp-content/uploads/2026/11/MCDMOIN_EC061-1.jpg"
+  },
+  {
+   "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+   "link": "https://github.com/ItsNotRexed/Leonida",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-11-22T00:57:26+00:00",
+   "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 15 # Comments: 3",
+   "image": null
+  },
+  {
+   "title": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”‘",
+   "link": "https://variety.com/2026/tv/news/kieran-culkin-succession-spinoff-terrible-idea-1236955146/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-11-22T00:52:28+00:00",
+   "summary": "Sorry, “Succession” fans — Kieran Culkin is shutting down any possibility of a spinoff once and for all. The actor, currently starring in “The Hunger Games: Sunrise on the Reaping” as a young Caesar Flickerman, joined…",
+   "image": "https://variety.com/wp-content/uploads/2020/08/roman-roy.jpg"
+  },
+  {
+   "title": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026",
+   "link": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-11-22T00:36:18+00:00",
+   "summary": "CORTIS caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
+   "image": null
+  },
+  {
+   "title": "LE SSERAFIM On Teaming Up With KATSEYE & ILLIT For “ICONIC BY MISTAKE” | MAMA Awards 2026",
+   "link": "https://www.billboard.com/video/le-sserafim-on-teaming-up-with-katseye-illit-iconic-by-mistake-mama-awards-2026/",
+   "source": "Billboard",
+   "category": "pop",
+   "published": "2026-11-22T00:22:54+00:00",
+   "summary": "LE SSERAFIM caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
+   "image": null
+  },
+  {
+   "title": "Sandwich Simulator",
+   "link": "https://stulle.app/",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-11-22T00:07:59+00:00",
+   "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 37 # Comments: 15",
+   "image": null
+  },
+  {
+   "title": "Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’",
+   "link": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/",
+   "source": "Variety",
+   "category": "pop",
+   "published": "2026-11-21T23:40:06+00:00",
+   "summary": "Mahershala Ali got candid about the impact — or lack thereof — his two Oscar wins have had on his career in Hollywood while appearing on a recent episode of Carmelo Anthony and Kazeem “Kaz” Famuyide’s “7PM in Brooklyn”…",
+   "image": "https://variety.com/wp-content/uploads/2025/06/mahershala-ali-jurassic.jpg"
+  },
+  {
+   "title": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+   "link": "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
+   "source": "Fox News Politics",
+   "category": "politics",
+   "published": "2026-11-21T22:47:07+00:00",
+   "summary": "Retired FBI agent Jason Pack warns a hack of the National Crime Information Center could endanger officers at traffic stops if records were altered.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/doj.jpg?ve=1&tl=1"
+  },
   {
    "title": "Trump orders federal contractors to check with White House before responding to Congress",
    "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
@@ -25,7 +115,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T22:09:58+00:00",
-   "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 6 # Comments: 0",
+   "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 71 # Comments: 7",
    "image": null
   },
   {
@@ -61,7 +151,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T21:17:53+00:00",
-   "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 5 # Comments: 0",
+   "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 102 # Comments: 18",
    "image": null
   },
   {
@@ -88,7 +178,16 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T21:06:14+00:00",
-   "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 11 # Comments: 3",
+   "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 33 # Comments: 12",
+   "image": null
+  },
+  {
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "link": "https://www.pandex.io",
+   "source": "Hacker News",
+   "category": "tech",
+   "published": "2026-11-21T20:47:41+00:00",
+   "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 39 # Comments: 7",
    "image": null
   },
   {
@@ -151,7 +250,7 @@
    "source": "Fox News Politics",
    "category": "politics",
    "published": "2026-11-21T19:00:22+00:00",
-   "summary": "Former Kansas Republican Sen. Sam Brownback says voters rejected President Trump himself, not his policies, citing inflation and gas prices.",
+   "summary": "Former Kansas Republican Sen. Sam Brownback says voters rejected President Trump personally, not his policies, citing inflation and gas prices.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donald-trump-san-antonio.jpg?ve=1&tl=1"
   },
   {
@@ -205,7 +304,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T18:29:29+00:00",
-   "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 59 # Comments: 15",
+   "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 81 # Comments: 34",
    "image": null
   },
   {
@@ -232,7 +331,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T18:02:19+00:00",
-   "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 292 # Comments: 71",
+   "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 369 # Comments: 94",
    "image": null
   },
   {
@@ -254,40 +353,13 @@
    "image": null
   },
   {
-   "title": "Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes",
-   "link": "https://variety.com/2026/artisans/news/fewer-women-composers-awards-season-1236953531/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-11-21T17:25:00+00:00",
-   "summary": "The stats for women composers in Hollywood have not improved. Just eight of this year’s top 100 grossing films feature original scores by women; the past two years have seen percentages between 7 and 9%, all down from…",
-   "image": "https://variety.com/wp-content/uploads/2026/11/CosmicSymphony_Still_19.jpg"
-  },
-  {
-   "title": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
-   "link": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-11-21T17:10:18+00:00",
-   "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion…",
-   "image": "https://variety.com/wp-content/uploads/2023/09/Bryan-Lourd.jpg"
-  },
-  {
    "title": "PostgreSQL Extensions in Go",
    "link": "https://jespino.github.io/gopgext/",
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T17:08:04+00:00",
-   "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 103 # Comments: 14",
+   "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 122 # Comments: 22",
    "image": null
-  },
-  {
-   "title": "How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories",
-   "link": "https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703/",
-   "source": "Variety",
-   "category": "pop",
-   "published": "2026-11-21T17:05:00+00:00",
-   "summary": "For years, Simon Rich wanted to sound the alarm about AI. Rich’s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film “An American…",
-   "image": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg"
   },
   {
    "title": "Here are the top AI agents that can live in your text messages",
@@ -304,7 +376,7 @@
    "source": "Fox News Politics",
    "category": "politics",
    "published": "2026-11-21T16:56:14+00:00",
-   "summary": "Donald Trump says JD Vance and Marco Rubio are \"doing fantastically\" and \"both very, very popular\" as the 2028 Republican primary field takes shape.",
+   "summary": "Donald Trump says JD Vance and Marco Rubio are \"doing fantastically\" and \"both (are) very, very popular\" as the 2028 Republican primary field takes shape.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-vance-rubio-press-conference.jpg?ve=1&tl=1"
   },
   {
@@ -358,7 +430,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T15:54:34+00:00",
-   "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 75 # Comments: 26",
+   "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 103 # Comments: 37",
    "image": null
   },
   {
@@ -367,7 +439,7 @@
    "source": "Fox News Politics",
    "category": "politics",
    "published": "2026-11-21T15:40:12+00:00",
-   "summary": "Hackers breached the FBI's National Crime Information Center, sources say, as the bureau probes the entry point and what data was compromised.",
+   "summary": "Hackers breached the FBI's National Crime Information Center, sources say, and the bureau is investigating the entry point and what data was compromised.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fbi-j-edgar-hoover.jpg?ve=1&tl=1"
   },
   {
@@ -376,7 +448,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T15:39:09+00:00",
-   "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 112 # Comments: 86",
+   "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 132 # Comments: 100",
    "image": null
   },
   {
@@ -466,7 +538,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T14:36:45+00:00",
-   "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 715 # Comments: 567",
+   "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 860 # Comments: 720",
    "image": null
   },
   {
@@ -511,7 +583,7 @@
    "source": "Fox News Politics",
    "category": "politics",
    "published": "2026-11-21T13:59:39+00:00",
-   "summary": "Crescent Dunes sold for just $7 million after more than $1 billion in federal backing, with the estimated taxpayer tab potentially reaching $507 million.",
+   "summary": "Crescent Dunes sold for just $7 million after more than $1 billion in federal backing and the estimated taxpayer tab potentially reaching $507 million.",
    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/crescent-dunes.gif"
   },
   {
@@ -538,7 +610,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T13:23:14+00:00",
-   "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 467 # Comments: 307",
+   "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 536 # Comments: 355",
    "image": null
   },
   {
@@ -664,7 +736,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T10:36:32+00:00",
-   "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 421 # Comments: 213",
+   "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 505 # Comments: 239",
    "image": null
   },
   {
@@ -718,7 +790,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-21T08:32:58+00:00",
-   "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 215 # Comments: 86",
+   "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 235 # Comments: 96",
    "image": null
   },
   {
@@ -738,15 +810,6 @@
    "published": "2026-11-21T07:00:51+00:00",
    "summary": "The government’s plans to help young people not in education, work or training are welcome – I dearly hope they offer long-term security Emilija Morrison is a University of Glasgow graduate and holds a Gold Standard…",
    "image": "https://i.guim.co.uk/img/media/268407eddcddee7558e947c33428820ba646038d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ac5374c521c19de69639e1e3afe2db1"
-  },
-  {
-   "title": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early",
-   "link": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-11-21T06:47:33+00:00",
-   "summary": "In a SiriusXM interview marking his second Rock Hall induction, Collins recalls the Concorde flight, meeting Cher mid-air, and discovering she'd taken his spot.",
-   "image": null
   },
   {
    "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
@@ -791,15 +854,6 @@
    "category": "pop",
    "published": "2026-11-21T03:32:18+00:00",
    "summary": "Jonathan Rinderknecht was found guilty for his role of intentionally starting the blaze that would become the most destructive wildfire in Los Angeles history",
-   "image": null
-  },
-  {
-   "title": "2026 CMA Awards Jump to 7-Year Ratings High",
-   "link": "https://www.billboard.com/music/awards/2026-cma-awards-ratings-up-seven-year-high-1236387203/",
-   "source": "Billboard",
-   "category": "pop",
-   "published": "2026-11-21T01:54:57+00:00",
-   "summary": "The show drew more than 7 million total viewers across ABC and Disney+.",
    "image": null
   },
   {
@@ -862,7 +916,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-20T22:11:05+00:00",
-   "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 87 # Comments: 32",
+   "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 167 # Comments: 59",
    "image": null
   },
   {
@@ -907,7 +961,7 @@
    "source": "Hacker News",
    "category": "tech",
    "published": "2026-11-20T21:03:12+00:00",
-   "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 353 # Comments: 106",
+   "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 680 # Comments: 163",
    "image": null
   },
   {
@@ -972,15 +1026,6 @@
    "published": "2026-11-20T20:26:33+00:00",
    "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-500x500.jpg"
-  },
-  {
-   "title": "Inkling 2 Mini",
-   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-11-20T20:12:19+00:00",
-   "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1347 # Comments: 276",
-   "image": null
   },
   {
    "title": "Somali community leaders bristle at broad blame even as youth gang violence surges from Minnesota to Maine",
@@ -1082,15 +1127,6 @@
    "image": "https://i.guim.co.uk/img/media/0ff02806c4fa74fe8cd47255a9ce60c01e5961aa/520_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=1232f91d884dedf1912bb2954cb4b014"
   },
   {
-   "title": "Dozens of FBI and DOJ personnel are investigating Peltola's Alaska victory",
-   "link": "https://www.foxnews.com/politics/dozens-fbi-doj-personnel-investigating-peltolas-alaska-victory",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-11-20T18:42:29+00:00",
-   "summary": "At least 50 FBI agents and over a dozen DOJ lawyers are probing Sen.-elect Mary Peltola over the alleged \"Decoy Dan\" scheme, with 200 subpoenas sent.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/SullivanPeltola_001.jpg?ve=1&tl=1"
-  },
-  {
    "title": "Super-hot rock geothermal could end data center energy woes",
    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
    "source": "TechCrunch",
@@ -1098,24 +1134,6 @@
    "published": "2026-11-20T18:34:00+00:00",
    "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
    "image": null
-  },
-  {
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-11-20T18:33:14+00:00",
-   "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2373 # Comments: 1150",
-   "image": null
-  },
-  {
-   "title": "Cruz turns tables on Democrats crying foul over GOP's 11th-hour judicial confirmation blitz",
-   "link": "https://www.foxnews.com/politics/cruz-turns-tables-democrats-crying-foul-gop-11th-hour-judicial-confirmation-blitz",
-   "source": "Fox News Politics",
-   "category": "politics",
-   "published": "2026-11-20T18:29:52+00:00",
-   "summary": "Ted Cruz accused Senate Democrats of hypocrisy for ramming through 22 federal judges after the 2024 election while blasting Republican hearings as rushed.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ted-cruz-jack-smith-capitol-fox-news-001.jpg?ve=1&tl=1"
   },
   {
    "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
@@ -1143,15 +1161,6 @@
    "published": "2026-11-20T18:19:53+00:00",
    "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off…",
    "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498"
-  },
-  {
-   "title": "We promoted developers into architects without informing them",
-   "link": "https://manidoraisamy.com/developer-to-architect.html",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-11-20T18:17:51+00:00",
-   "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 570 # Comments: 306",
-   "image": null
   },
   {
    "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
@@ -1215,15 +1224,6 @@
    "published": "2026-11-20T17:30:16+00:00",
    "summary": "Continue reading...",
    "image": "https://i.guim.co.uk/img/media/a63a8c86d5f1fd705b6091b19d5711bfe5598777/0_6_4182_3346/master/4182.jpg?width=140&quality=85&auto=format&fit=max&s=f0c00261864b0c1974de1ba472e6ce05"
-  },
-  {
-   "title": "I'm quite pleased by the tech architecture of my art website",
-   "link": "https://klauria.tech/klauria-art/",
-   "source": "Hacker News",
-   "category": "tech",
-   "published": "2026-11-20T17:03:39+00:00",
-   "summary": "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 131 # Comments: 31",
-   "image": null
   },
   {
    "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
